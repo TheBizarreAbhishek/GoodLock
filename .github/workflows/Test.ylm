@@ -61,20 +61,10 @@ jobs:
       - name: Check for update
         id: check
         run: |
-          need_update=0
-          curl --retry 5 --retry-delay 5 "http://vas.samsungapps.com/product/getContentCategoryProductList.as?contentCategoryID=0000005309&deviceId=${{ matrix.device }}&sdkVer=${{ matrix.sdk }}&mcc=262&mnc=01&csc=${{ matrix.csc }}&imgWidth=512&imgHeight=512&startNum=1&endNum=100&alignOrder=recent&callerId=com.samsung.android.goodlock&cc=NONE&systemId=${{ env.systemId }}&abiType=64&oneUiVersion=${{ matrix.oneui }}" > tmp-${{ matrix.sdk }}.xml
-          curl --retry 5 --retry-delay 5 "https://raw.githubusercontent.com/corsicanu/goodlock_dump/main/xml/${{ matrix.sdk }}.xml" > current-${{ matrix.sdk }}.xml
-          if [ ! -f current-${{ matrix.sdk }}.xml ]; then echo "" > current-${{ matrix.sdk }}.xml; fi
-          if [ "$(diff tmp-${{ matrix.sdk }}.xml current-${{ matrix.sdk }}.xml)" != "" ]; then need_update=1; fi
+          need_update=1
           echo "need_update=$need_update" >> $GITHUB_ENV
 
-      - name: Checkout repo
-        uses: actions/checkout@v3
-        with:
-          ref: 'main'
-
       - name: Release current version to assets
-        if: env.need_update == 1
         id: release_assets
         run: |
           sudo apt install -y python3 python3-dev
@@ -88,7 +78,6 @@ jobs:
           echo "::set-output name=release_body::$value"
 
       - name: Edit release assets
-        if: env.need_update == 1
         uses: meeDamian/github-release@master
         with:
           token: ${{ secrets.TOKEN }}
@@ -102,7 +91,6 @@ jobs:
           gzip: false
 
       - name: Push changes to repo
-        if: env.need_update == 1
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.TOKEN }}
