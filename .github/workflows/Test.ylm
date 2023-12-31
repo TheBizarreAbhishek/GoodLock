@@ -61,10 +61,10 @@ jobs:
       - name: Check for update
         id: check
         run: |
-          need_update=1
-          echo "need_update=$need_update" >> $GITHUB_ENV
+          echo "need_update=1" >> $GITHUB_ENV
 
       - name: Release current version to assets
+        if: env.need_update == 1
         id: release_assets
         run: |
           sudo apt install -y python3 python3-dev
@@ -78,6 +78,7 @@ jobs:
           echo "::set-output name=release_body::$value"
 
       - name: Edit release assets
+        if: env.need_update == 1
         uses: meeDamian/github-release@master
         with:
           token: ${{ secrets.TOKEN }}
@@ -94,4 +95,4 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.TOKEN }}
-          branch: ${{github.ref}}
+          branch: ${{ github.ref }}
