@@ -5,7 +5,7 @@ on:
   schedule:
     - cron: "5 */4 * * *"
   push:
-    branches: [ main ]
+    branches: [main]
 
 jobs:
   update:
@@ -13,49 +13,39 @@ jobs:
     if: "!contains(github.event.head_commit.message, '[ci skip]')"
     strategy:
       fail-fast: false
-      max-parallel: 1
       matrix:
-        include:
-          - device: "SM-G965F"
-            sdk: "28"
-            os: "9"
-            csc: "DBT"
-            oneui: "0"
-          - device: "SM-N985F"
-            sdk: "29"
-            os: "10"
-            csc: "DBT"
-            oneui: "0"
-          - device: "SM-N985F"
-            sdk: "30"
-            os: "11"
-            csc: "DBT"
-            oneui: "0"
-          - device: "SM-G998B"
-            sdk: "31"
-            os: "12"
-            csc: "DBT"
-            oneui: "40100"
-          - device: "SM-F936B"
-            sdk: "32"
-            os: "12L"
-            csc: "EUX"
-            oneui: "40101"
-          - device: "SM-F946B"
-            sdk: "33"
-            os: "13"
-            csc: "EUX"
-            oneui: "50101"
-          - device: "SM-S918B"
-            sdk: "34"
-            os: "14"
-            csc: "EUX"
-            oneui: "60000"
+        device:
+          - "SM-G965F"
+          - "SM-N985F"
+          - "SM-G998B"
+          - "SM-F936B"
+          - "SM-F946B"
+          - "SM-S918B"
+      sdk:
+        - "28"
+        - "29"
+        - "30"
+        - "31"
+        - "32"
+        - "33"
+        - "34"
+      os:
+        - "9"
+        - "10"
+        - "11"
+        - "12"
+        - "12L"
+        - "13"
+        - "14"
+      csc: ["DBT", "DBT", "DBT", "EUX", "EUX", "EUX"]
+      oneui: ["0", "0", "0", "40100", "40101", "50101", "60000"]
 
     steps:
 
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
       - name: Calculate systemId
-        id: calculate_system_id
         run: echo "systemId=$(($(date +%s) - 180))" >> $GITHUB_ENV
 
       - name: Check for update
@@ -92,7 +82,7 @@ jobs:
           gzip: false
 
       - name: Push changes to repo
+        if: env.need_update == 1
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.TOKEN }}
-          branch: ${{ github.ref }}
