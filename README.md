@@ -24,4 +24,4 @@ All the files here are pulled from Galaxy Store, if it's not there, it's not her
 
 ```
 
-Just download latest manager and Boom.
+### HOW TO Just download latest manager from [here](https://github.com/TheBizarreAbhishek/GoodLock/raw/main/GoodLock%20Patched.apk), open and download or update the desired modules
