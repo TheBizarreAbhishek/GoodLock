@@ -69,7 +69,7 @@ jobs:
           token: ${{ secrets.TOKEN }}
           tag: ${{ matrix.sdk }}
           name: ${{ matrix.os }} - Update of ${{ env.date }}
-          body: "${{ steps.stuff.outputs.release_body }}"
+          body: '${{ steps.stuff.outputs.release_body }}'
           prerelease: true
           files: |
             ${{ env.files }}
