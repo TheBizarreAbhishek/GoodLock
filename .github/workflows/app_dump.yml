@@ -70,12 +70,12 @@ jobs:
           
       - name: Checkout repo
         uses: actions/checkout@v3
-        #if: env.need_update == 1
+        if: env.need_update == 1
         with:
           ref: 'main'
 
       - name: Update current version
-       # if: env.need_update == 1
+        if: env.need_update == 1
         id: stuff
         run: |
           rm -rf tmp* current*
@@ -97,7 +97,7 @@ jobs:
           echo "RELEASE_BODY=$value" >> $GITHUB_ENV  # Set as an environment variable
             
       - name: Edit release assets
-        #if: env.need_update == 1
+        if: env.need_update == 1
         uses: meeDamian/github-release@master
         with:
           token: ${{ secrets.TOKEN }}
@@ -111,7 +111,7 @@ jobs:
           gzip: false
 
       - name: Push changes to repo
-        #if: env.need_update == 1
+        if: env.need_update == 1
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.TOKEN }}
