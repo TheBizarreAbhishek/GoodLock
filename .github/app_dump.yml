@@ -92,7 +92,7 @@ jobs:
           git commit -m "${{ matrix.os }}: update of $date [ci skip]"
           value=$(cat versions.txt)
           value="${value//'%'/'%25'}"
-          value="${value//$'\n'/'%0A'}"
+          #value="${value//$'\n'/'%0A'}" value="${value//'%0A'/$'\n'}"
           value="${value//$'\r'/'%0D'}"
           echo "::set-output name=release_body::$value"
             
