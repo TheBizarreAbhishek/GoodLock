@@ -94,8 +94,8 @@ jobs:
           value="${value//'%'/'%25'}"
           value="${value//$'\n'/'%0A'}"
           value="${value//$'\r'/'%0D'}"
-          echo "::set-output name=release_body::$value"
-            
+          echo "release_body=${value}" >> $GITHUB_OUTPUT  
+
       - name: Edit release assets
         if: env.need_update == 1
         uses: meeDamian/github-release@master
