@@ -3,7 +3,7 @@ name: GoodLock Modules Dumper
 on:
   workflow_dispatch:
   schedule:
-    - cron: "5 */4 * * *"
+    - cron: "0 */4 * * *"
   push:
     branches: [ main ]
 
