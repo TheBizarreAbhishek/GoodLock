@@ -49,12 +49,12 @@ jobs:
           - device: "SM-S928B"
             sdk: "34"
             os: "14"
-            csc: "INS"
+            csc: "SKT"
             oneui: "60100"
           - device: "SM-S928B"
             sdk: "35"
             os: "15"
-            csc: "EUX"
+            csc: "SKT"
             oneui: "70000"
             
 
