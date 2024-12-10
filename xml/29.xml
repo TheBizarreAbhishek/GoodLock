@@ -99,8 +99,9 @@ Enjoy your own clockface on Lockscreen and AOD
 
 The following permissions are required for the app service. For optional permissions, the default functionality of the service is turned on, but not allowed. 
 
-[Essential Access Rights]
-- Storage: Save image files to the device
+[Optional permissions]
+- Photos and videos : Save image files to the device
+- Notification : Show selected edge zone information
 
 If your system software version is lower than Android 6.0, please update the software to configure App permissions.
 Previously allowed permissions can be reset on Apps menu in device settings after software update.
@@ -740,9 +741,10 @@ Cautions
   ■ The applications supported by theme can be varied based on version.
   ■ Some features may not be available depending on the Android version.
 
-Permissions
+
+Permissions (Required)
   To provide this service, following permission are needed.
-  ■ Storage: Theme Park uses an image file in your device to find dominant colors and create theme that has harmonious colors.
+  ■ Photos and videos (Storage): Theme Park uses an image file in your device to find dominant colors and create theme that has harmonious colors.
 
 #GoodLockFriends #2]]></description>
 		</appInfo>
