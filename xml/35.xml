@@ -8,7 +8,7 @@
 		<productID>000006540978</productID>
 		<productName><![CDATA[Camera Assistant]]></productName>
 		<appId>com.samsung.android.app.cameraassistant</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000006540978/IconImage_20241115063122853_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000006540978/IconImage_20250127174040821_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -20,12 +20,13 @@
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Customize your own camera settings to your preference
+
 [Description]
 It provides ON/OFF features for the following features:
 - Zoom shortcuts
   Select the extra zoom shortcuts to show in Camera.
 - Auto HDR
-  Capture more details in the bright and dark areas of your pictures and videos.
+  Blend the best parts of multiple exposures into a single picture with improved colour and detail.
 - Picture softening
   Smooth out sharp edges and textures in Photo mode pictures.
 - Auto lens switching
@@ -46,8 +47,12 @@ It provides ON/OFF features for the following features:
   Automatically correct images flipped by external depth-of-field adapters. This correction is only applied in Pro and Pro Video modes.
 - Anamorphic lens correction
   Automatically de-squeeze previews and videos to correct distortion from external anamorphic lenses. This correction is only applied in Pro Video mode while using 16:9 ratio (8K and 120 fps excluded).
+- HDR10+
+  Optimize the color and contrast of videos recorded in Video and Pro video modes. When HDR of the camera setting is turned on, it can be used.
 - Audio monitoring
   Monitor the sound to be recorded in video modes through external output devices such as BT, HDMI, and USB earphones.
+- Save videos to external storage
+  Automatically save videos to an external storage device connected to the USB-C port on your phone. Compatible with Video, Pro video, Portrait Video, Slow motion, and Hyperlapse modes.
 - Clean preview on HDMI displays
   Show the camera preview without settings or buttons on HDMI-connected displays.
 
@@ -73,10 +78,10 @@ The following features are also available.
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[6.1.00.6]]></versionName>
-		<versionCode>610000006</versionCode> 
-		<realContentSize>10126120</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[7.0.00.9]]></versionName>
+		<versionCode>700000009</versionCode> 
+		<realContentSize>10910318</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
@@ -303,10 +308,10 @@ Floating Notification
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[6.1.05.33]]></versionName>
-		<versionCode>610533000</versionCode> 
-		<realContentSize>15047683</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[7.0.00.6]]></versionName>
+		<versionCode>700006000</versionCode> 
+		<realContentSize>6431557</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
@@ -571,10 +576,10 @@ Set double tap to shortcut by pressing S Pen
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[7.4.07.56]]></versionName>
-		<versionCode>740756000</versionCode> 
-		<realContentSize>15422106</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[8.0.02.18]]></versionName>
+		<versionCode>800218000</versionCode> 
+		<realContentSize>17503285</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
@@ -680,10 +685,10 @@ English, Korean, Chinese
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[6.1.00.9]]></versionName>
-		<versionCode>610000009</versionCode> 
-		<realContentSize>26794146</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[7.1.00.7]]></versionName>
+		<versionCode>710000007</versionCode> 
+		<realContentSize>31251745</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs ]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
@@ -798,10 +803,10 @@ Permissions (Required)
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[1.5.21]]></versionName>
-		<versionCode>152100000</versionCode> 
-		<realContentSize>86814338</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[1.6.06]]></versionName>
+		<versionCode>160600000</versionCode> 
+		<realContentSize>87512290</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
