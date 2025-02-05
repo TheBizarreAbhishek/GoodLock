@@ -125,10 +125,10 @@ Enjoy your own clockface on Lockscreen and AOD
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[6.1.00.6]]></versionName>
-		<versionCode>610000006</versionCode> 
-		<realContentSize>10126120</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[7.0.00.9]]></versionName>
+		<versionCode>700000009</versionCode> 
+		<realContentSize>10910318</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
@@ -212,7 +212,7 @@ HomeUp is the extension edition of One UI Home.
 		<productID>000005293390</productID>
 		<productName><![CDATA[Keys Cafe]]></productName>
 		<appId>com.samsung.android.keyscafe</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000005293390/IconImage_20241226095208731_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000005293390/IconImage_20250205091136441_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
