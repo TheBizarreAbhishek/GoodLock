@@ -665,11 +665,11 @@ We are trying to make a fresh experience for users.
 		<productID>000006559401</productID>
 		<productName><![CDATA[RegiStar]]></productName>
 		<appId>com.samsung.android.app.galaxyregistry</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000006559401/IconImage_20241226095235410_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000006559401/IconImage_20250206063141517_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
+		<discountFlag></discountFlag>
 		<versionName><![CDATA[1.0.54]]></versionName>
 		<versionCode>105400000</versionCode> 
 		<realContentSize>32441916</realContentSize>
@@ -850,7 +850,7 @@ Permissions (Required)
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
+		<discountFlag>N</discountFlag>
 		<versionName><![CDATA[1.5.21]]></versionName>
 		<versionCode>152100000</versionCode> 
 		<realContentSize>86814338</realContentSize>
