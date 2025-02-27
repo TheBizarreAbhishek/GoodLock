@@ -2,7 +2,7 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>100</endNum>
+	<endNum>19</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000006540978</productID>
@@ -576,10 +576,10 @@ Set double tap to shortcut by pressing S Pen
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[8.0.02.18]]></versionName>
-		<versionCode>800218000</versionCode> 
-		<realContentSize>17503285</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[8.1.02.21]]></versionName>
+		<versionCode>810221000</versionCode> 
+		<realContentSize>17539622</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
