@@ -213,10 +213,10 @@ Previously allowed permissions can be reset on Apps menu in device settings afte
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[16.0.00.60]]></versionName>
-		<versionCode>1600005060</versionCode> 
-		<realContentSize>51196083</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[16.0.00.72]]></versionName>
+		<versionCode>1600005072</versionCode> 
+		<realContentSize>51410809</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
@@ -617,14 +617,14 @@ Thank you.
 		<productID>000005198690</productID>
 		<productName><![CDATA[Pentastic]]></productName>
 		<appId>com.samsung.android.pentastic</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000005198690/IconImage_20250331022455343_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000005198690/IconImage_20250407022143751_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[2.2.04]]></versionName>
-		<versionCode>220400000</versionCode> 
-		<realContentSize>32719309</realContentSize>
+		<versionName><![CDATA[2.3.08]]></versionName>
+		<versionCode>230800000</versionCode> 
+		<realContentSize>29873549</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
