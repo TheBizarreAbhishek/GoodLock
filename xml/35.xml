@@ -78,10 +78,10 @@ The following features are also available.
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[3.3.07.1]]></versionName>
-		<versionCode>330701000</versionCode> 
-		<realContentSize>157272618</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[3.3.08.15]]></versionName>
+		<versionCode>330815000</versionCode> 
+		<realContentSize>175313670</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
@@ -253,10 +253,10 @@ Previously allowed permissions can be reset on Apps menu in device settings afte
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[16.0.00.86]]></versionName>
-		<versionCode>1600005086</versionCode> 
-		<realContentSize>51329428</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[16.0.00.90]]></versionName>
+		<versionCode>1600005090</versionCode> 
+		<realContentSize>51349853</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
