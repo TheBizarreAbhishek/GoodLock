@@ -84,7 +84,7 @@ Previously allowed permissions can be reset on Apps menu in device settings afte
 		<productID>000004772683</productID>
 		<productName><![CDATA[Home Up]]></productName>
 		<appId>com.samsung.android.app.homestar</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004772683/IconImage_20250624035835661_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000004772683/IconImage_20250625013215947_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -124,7 +124,7 @@ The following permissions are required for the app service. You can still use th
 		<productID>000005293390</productID>
 		<productName><![CDATA[Keys Cafe]]></productName>
 		<appId>com.samsung.android.keyscafe</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000005293390/IconImage_20250624035905276_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000005293390/IconImage_20250625013138843_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -171,7 +171,7 @@ Provides advanced functions related to Samsung Keyboard.
 		<productID>000003002072</productID>
 		<productName><![CDATA[LockStar]]></productName>
 		<appId>com.samsung.systemui.lockstar</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003002072/IconImage_20250619024002189_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003002072/IconImage_20250625030224591_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -201,7 +201,7 @@ You can decorate your lockscreen wallpapers more beautiful.
 		<productID>000003266196</productID>
 		<productName><![CDATA[MultiStar]]></productName>
 		<appId>com.samsung.android.multistar</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003266196/IconImage_20250624035818636_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003266196/IconImage_20250625072300744_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -299,7 +299,7 @@ Floating Notification
 		<productID>000003711875</productID>
 		<productName><![CDATA[Nice Catch]]></productName>
 		<appId>com.samsung.android.app.goodcatch</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003711875/IconImage_20250624035635185_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003711875/IconImage_20250625020140569_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -346,7 +346,7 @@ Press "Vibration history" in app's main screen and you get a list of application
 		<productID>000004085658</productID>
 		<productName><![CDATA[NotiStar]]></productName>
 		<appId>com.samsung.systemui.notilus</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004085658/IconImage_20250624035709356_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000004085658/IconImage_20250625030215679_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -391,7 +391,7 @@ Tip: If you tap & hold the NotiStar menu in Good Lock app, its shortcut icon is 
 		<productID>000003036952</productID>
 		<productName><![CDATA[One Hand Operation +]]></productName>
 		<appId>com.samsung.android.sidegesturepad</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003036952/IconImage_20250610221640773_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003036952/IconImage_20250625023200600_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -533,7 +533,7 @@ We are trying to make a fresh experience for users.
 		<productID>000005563964</productID>
 		<productName><![CDATA[Routines +]]></productName>
 		<appId>com.samsung.android.app.routineplus</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000005563964/IconImage_20250624045930623_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000005563964/IconImage_20250625030111497_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -571,7 +571,7 @@ English, Korean, Chinese
 		<productID>000003206291</productID>
 		<productName><![CDATA[Sound Assistant]]></productName>
 		<appId>com.samsung.android.soundassistant</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003206291/IconImage_20250620051452161_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003206291/IconImage_20250625030149118_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -659,7 +659,7 @@ Task Changer is provided as a submenu of Home Up after One UI 3. (Home Up > Task
 		<productID>000004623161</productID>
 		<productName><![CDATA[Theme Park]]></productName>
 		<appId>com.samsung.android.themedesigner</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004623161/IconImage_20250619022739211_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000004623161/IconImage_20250625030120186_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
