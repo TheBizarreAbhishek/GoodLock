@@ -370,10 +370,10 @@ You can decorate your lockscreen wallpapers more beautiful.
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[9.0.15]]></versionName>
-		<versionCode>901500000</versionCode> 
-		<realContentSize>16989827</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[9.1.09]]></versionName>
+		<versionCode>910900000</versionCode> 
+		<realContentSize>17033441</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
@@ -918,7 +918,7 @@ Permissions (Required)
 		<productID>000005212031</productID>
 		<productName><![CDATA[Wonderland]]></productName>
 		<appId>com.samsung.android.wonderland.wallpaper</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000005212031/IconImage_20250619024205262_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000005212031/IconImage_20250630052438234_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
