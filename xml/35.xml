@@ -8,7 +8,7 @@
 		<productID>000006540978</productID>
 		<productName><![CDATA[Camera Assistant]]></productName>
 		<appId>com.samsung.android.app.cameraassistant</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000006540978/IconImage_20250513055427846_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000006540978/IconImage_20250711053440270_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -41,10 +41,12 @@ It provides ON/OFF features for the following features:
   Take pictures as soon as your finger touches the Shutter button instead of when you lift it off. You can still swipe or press and hold the Shutter button to capture GIFs, burst shots, and videos, but a picture will be taken too.
 - Prioritize focus over speed
   Wait for the camera to finish focusing before triggering the shutter. This may delay the shutter slightly.
+- Motion photo shutter sound
+   Sound / Timing
 - Video recording in Photo mode
   Touch and hold the Shutter button to record videos in Photo mode.
 - DOF adapter correction
-  Automatically correct images flipped by external depth-of-field adapters. This correction is only applied in Pro and Pro Video modes.
+  Automatically flip previews and captures vertically to support external depth-of-field adapters. The correction is only applied in Pro and Pro Video modes.This feature requires an external accessory.
 - Anamorphic lens correction
   Automatically de-squeeze previews and videos to correct distortion from external anamorphic lenses. This correction is only applied in Pro Video mode while using 16:9 ratio (8K and 120 fps excluded).
 - HDR10+
@@ -665,10 +667,10 @@ Thank you.
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[2.3.08]]></versionName>
-		<versionCode>230800000</versionCode> 
-		<realContentSize>29873549</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[2.3.09]]></versionName>
+		<versionCode>230900000</versionCode> 
+		<realContentSize>35603966</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
