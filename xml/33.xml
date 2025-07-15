@@ -323,7 +323,7 @@ Floating Notification
 		<productID>000003488383</productID>
 		<productName><![CDATA[NavStar]]></productName>
 		<appId>com.samsung.systemui.navillera</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003488383/IconImage_20250624035851186_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003488383/IconImage_20250715063616786_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -357,7 +357,7 @@ Floating Notification
   : The navigation bar images and user settings are saved.
 
 [Version Code]
-<NAVSTAR:1001:10000>
+<NAVSTAR:1001:11000>
 #7]]></description>
 		</appInfo>
 	<appInfo>
@@ -591,7 +591,7 @@ Set double tap to shortcut by pressing S Pen
 		<productID>000003084407</productID>
 		<productName><![CDATA[QuickStar]]></productName>
 		<appId>com.samsung.android.qstuner</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003084407/IconImage_20250624035748062_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003084407/IconImage_20250715063531492_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -630,7 +630,7 @@ We are trying to make a fresh experience for users.
 - Japanese
 
 [Version Code]
-<SLIMINDICATOR:1003:8000>
+<SLIMINDICATOR:1003:9000>
 #2]]></description>
 		</appInfo>
 	<appInfo>
