@@ -182,7 +182,7 @@ Supported language: English, Vietnamese, Korean, Chinese (Simplified)
 		<productID>000003084395</productID>
 		<productName><![CDATA[EdgeTouch]]></productName>
 		<appId>com.samsung.android.app.edgetouch</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003084395/IconImage_20250717024502623_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003084395/IconImage_20250806022321929_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -856,14 +856,14 @@ Provide custom effect creation option.
 		<productID>000004623161</productID>
 		<productName><![CDATA[Theme Park]]></productName>
 		<appId>com.samsung.android.themedesigner</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004623161/IconImage_20250727210048246_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000004623161/IconImage_20250806080028131_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.1.01.6]]></versionName>
-		<versionCode>110106000</versionCode> 
-		<realContentSize>37588267</realContentSize>
+		<versionName><![CDATA[1.1.01.25]]></versionName>
+		<versionCode>110125000</versionCode> 
+		<realContentSize>40285713</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
