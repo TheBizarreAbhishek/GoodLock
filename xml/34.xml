@@ -2,7 +2,7 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>20</endNum>
+	<endNum>100</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000006540978</productID>
@@ -479,14 +479,14 @@ Provides a variety of screen shot options.(Some functions are available only on 
 		<productID>000004085658</productID>
 		<productName><![CDATA[NotiStar]]></productName>
 		<appId>com.samsung.systemui.notilus</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004085658/IconImage_20250724085104264_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000004085658/IconImage_20250807023426239_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[7.0.17.0]]></versionName>
-		<versionCode>701700000</versionCode> 
-		<realContentSize>10370911</realContentSize>
+		<versionName><![CDATA[8.0.17.0]]></versionName>
+		<versionCode>801700000</versionCode> 
+		<realContentSize>10370178</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
@@ -620,7 +620,7 @@ Set double tap to shortcut by pressing S Pen
 		<productID>000003084407</productID>
 		<productName><![CDATA[QuickStar]]></productName>
 		<appId>com.samsung.android.qstuner</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003084407/IconImage_20250729023120071_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003084407/IconImage_20250807023412350_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -847,35 +847,39 @@ Permissions (Required)
 		<productID>000005212031</productID>
 		<productName><![CDATA[Wonderland]]></productName>
 		<appId>com.samsung.android.wonderland.wallpaper</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000005212031/IconImage_20250718033816082_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000005212031/IconImage_20250807060832845_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
+		<discountFlag></discountFlag>
 		<versionName><![CDATA[1.6.07]]></versionName>
 		<versionCode>160700000</versionCode> 
 		<realContentSize>87503587</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Create a moving wallpaper. 
+		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Create moving wallpapers and stunning lock screen effects.
 
-Activate your hidden artist’s touch with Wonderland and become a creator.
-
-You can add your favorite images and create a motion effect. Use the various particle effects provided to simply and easily create a moving wallpaper of your very own. Try the Preview feature to get a glimpse of the motion and particle effects stage by stage.
+Activate your hidden artist's touch with Wonderland and become a creator. Transform both your home screen and lock screen experience. 
+Create motion effects for your wallpaper that respond to device movement, add beautiful particle effects like rain and snow, and design seamless transition animations between your lock screen and Always On Display (AOD).
+Use our intuitive tools and various presets to easily create your personalized dynamic wallpaper and lock screen experience.
 
 [Key Features]
-- Creating a motion effect for your wallpaper: You can set up a motion effect for an image of your choice.
-- Creating a particle effect for your wallpaper: You can set up a particle effect for images of your choice, use presets and directly set up an effect.
+- Motion wallpaper creation: Set up motion effects that respond to your device's gyroscope
+- Particle effects: Choose from 5 presets (rain, snow, bubbles, sparkles, spread) with full customization
+- Lock screen transitions: 12 unique transition effects for seamless lock screen to AOD experience
+- Layer-based editing: Combine multiple elements with independent effects
+- Real-time preview: See changes instantly before applying
 
 [Supported Languages]
-- Korean, English, Chinese Simplified,  Japanese
+- Korean, English, Chinese Simplified, Japanese
 
 [Notice for application's permission]
-To provide service, application needs below permission.
-Storage(Required) : When creating a wallpaper, access to storage is made in order to import images or videos.
+Wonderland uses these permissions
+- Required permissions
+Photos and Videos : Access images and videos for wallpaper creation.
 
-#wonderland #motionwallpaper #movingwallpaper #livewallpaper #GoodLockFriends #1]]></description>
+#wonderland #livewallpaper #dynamicwallpaper #lockscreeneffects #alwaysondisplay #particleeffects #motioneffects #customwallpaper #personalizedlockscreen]]></description>
 		</appInfo>
 	<serverType>PRD</serverType>
 </result>
