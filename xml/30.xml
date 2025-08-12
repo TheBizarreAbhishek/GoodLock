@@ -727,10 +727,10 @@ Permissions (Required)
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[1.6.07]]></versionName>
-		<versionCode>160700000</versionCode> 
-		<realContentSize>87503587</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[1.6.15]]></versionName>
+		<versionCode>161500000</versionCode> 
+		<realContentSize>88596442</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
