@@ -2,7 +2,7 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>22</endNum>
+	<endNum>100</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000006540978</productID>
@@ -215,10 +215,10 @@ Previously allowed permissions can be reset on Apps menu in device settings afte
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[]]></versionName>
-		<versionCode></versionCode> 
-		<realContentSize>0</realContentSize>
+		<discountFlag></discountFlag>
+		<versionName><![CDATA[1.0.01.5]]></versionName>
+		<versionCode>100105000</versionCode> 
+		<realContentSize>10937841</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
