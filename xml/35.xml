@@ -215,10 +215,10 @@ Previously allowed permissions can be reset on Apps menu in device settings afte
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[1.0.01.5]]></versionName>
-		<versionCode>100105000</versionCode> 
-		<realContentSize>10937841</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[1.0.01.6]]></versionName>
+		<versionCode>100106000</versionCode> 
+		<realContentSize>10938013</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
