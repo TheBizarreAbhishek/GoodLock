@@ -211,7 +211,7 @@ Previously allowed permissions can be reset on Apps menu in device settings afte
 		<productID>000008122674</productID>
 		<productName><![CDATA[Game Booster +]]></productName>
 		<appId>com.samsung.android.game.honeyplayplus</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000008122674/IconImage_20250813082224998_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000008122674/IconImage_20250820043734420_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -225,12 +225,17 @@ Previously allowed permissions can be reset on Apps menu in device settings afte
 		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[With Galaxy, enjoy a more fun gaming experience!
 
 [Main Features]
+OneUI 7.0
 - Gamepad Key Remapping: 
  You can remap the gamepad keys to other desired keys.
 - GPU Settings (Rotation Optimization/Texture Quality): 
  You can reduce the GPU load used for screen rotation in Vulkan games or change the quality of textures used in games to improve image quality or performance.
 - Change Game Category: 
  You can change apps that are not classified as games but are games to the game category, so you can receive game-related support provided by the device.
+
+OneUI 8.0
+- Aim Assit:
+
 
 [Target]
 - This application is available on Android 15 or higher SAMSUNG devices.
