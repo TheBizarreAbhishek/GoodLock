@@ -865,10 +865,10 @@ Provide custom effect creation option.
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[1.1.01.25]]></versionName>
-		<versionCode>110125000</versionCode> 
-		<realContentSize>40285713</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[1.1.01.31]]></versionName>
+		<versionCode>110131000</versionCode> 
+		<realContentSize>40303460</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
