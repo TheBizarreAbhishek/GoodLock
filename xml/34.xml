@@ -2,13 +2,13 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>100</endNum>
+	<endNum>20</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000006540978</productID>
 		<productName><![CDATA[Camera Assistant]]></productName>
 		<appId>com.samsung.android.app.cameraassistant</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000006540978/IconImage_20250926055827680_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000006540978/IconImage_20250929003758484_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -485,10 +485,10 @@ Provides a variety of screen shot options.(Some functions are available only on 
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[8.0.17.0]]></versionName>
-		<versionCode>801700000</versionCode> 
-		<realContentSize>10370178</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[8.0.33.0]]></versionName>
+		<versionCode>803300000</versionCode> 
+		<realContentSize>10369642</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
