@@ -56,6 +56,12 @@ jobs:
             os: "15"
             csc: "SKT"
             oneui: "70000"
+          - device: "SM-S938"
+            sdk: "36"
+            os: "16"
+            csc: "INS"
+            oneui: "80000"
+            
             
 
     steps:
