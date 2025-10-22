@@ -45,6 +45,8 @@ It provides ON/OFF features for the following features:
   Sound / Timing
 - Video recording in Photo mode
   Touch and hold the Shutter button to record videos in Photo mode.
+- 3D Capture
+  Add a 3D capture option to the top of the preview so you can create spatial photos and videos for Galaxy XR headsets.
 - DOF adapter correction
   Automatically flip previews and captures vertically to support external depth-of-field adapters. The correction is only applied in Pro and Pro Video modes. This feature requires an external accessory.
 - Anamorphic lens correction
