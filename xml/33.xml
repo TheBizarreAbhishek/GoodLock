@@ -8,7 +8,7 @@
 		<productID>000006540978</productID>
 		<productName><![CDATA[Camera Assistant]]></productName>
 		<appId>com.samsung.android.app.cameraassistant</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000006540978/IconImage_20251002063710773_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000006540978/IconImage_20251022030106667_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -45,6 +45,8 @@ It provides ON/OFF features for the following features:
   Sound / Timing
 - Video recording in Photo mode
   Touch and hold the Shutter button to record videos in Photo mode.
+- 3D Capture
+  Add a 3D capture option to the top of the preview so you can create spatial photos and videos for Galaxy XR headsets.
 - DOF adapter correction
   Automatically flip previews and captures vertically to support external depth-of-field adapters. The correction is only applied in Pro and Pro Video modes. This feature requires an external accessory.
 - Anamorphic lens correction
@@ -189,7 +191,7 @@ The following permissions are required for the app service. You can still use th
 		<productID>000005293390</productID>
 		<productName><![CDATA[Keys Cafe]]></productName>
 		<appId>com.samsung.android.keyscafe</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000005293390/IconImage_20251020052145476_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000005293390/IconImage_20251022040230350_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
