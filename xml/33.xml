@@ -2,7 +2,7 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>100</endNum>
+	<endNum>19</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000006540978</productID>
@@ -644,10 +644,10 @@ We are trying to make a fresh experience for users.
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[1.0.54]]></versionName>
-		<versionCode>105400000</versionCode> 
-		<realContentSize>32441916</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[1.0.67]]></versionName>
+		<versionCode>106700000</versionCode> 
+		<realContentSize>12702319</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
