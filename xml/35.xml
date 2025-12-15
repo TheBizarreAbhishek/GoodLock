@@ -2,7 +2,7 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>22</endNum>
+	<endNum>100</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000006540978</productID>
@@ -605,14 +605,14 @@ Tip: If you tap & hold the NotiStar menu in Good Lock app, its shortcut icon is 
 		<productID>000003036952</productID>
 		<productName><![CDATA[One Hand Operation +]]></productName>
 		<appId>com.samsung.android.sidegesturepad</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003036952/IconImage_20251203064133721_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003036952/IconImage_20251214234722492_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[8.5.11.0]]></versionName>
-		<versionCode>851100000</versionCode> 
-		<realContentSize>8384509</realContentSize>
+		<discountFlag></discountFlag>
+		<versionName><![CDATA[7.4.19.0]]></versionName>
+		<versionCode>741900000</versionCode> 
+		<realContentSize>8200180</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
@@ -810,7 +810,7 @@ English, Korean, Chinese
 		<productID>000003206291</productID>
 		<productName><![CDATA[Sound Assistant]]></productName>
 		<appId>com.samsung.android.soundassistant</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003206291/IconImage_20251020051522530_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003206291/IconImage_20251215003113204_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -864,11 +864,11 @@ Provide custom effect creation option.
 		<productID>000004623161</productID>
 		<productName><![CDATA[Theme Park]]></productName>
 		<appId>com.samsung.android.themedesigner</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004623161/IconImage_20251203015424025_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000004623161/IconImage_20251215012816297_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
+		<discountFlag></discountFlag>
 		<versionName><![CDATA[1.1.01.31]]></versionName>
 		<versionCode>110131000</versionCode> 
 		<realContentSize>40303460</realContentSize>
