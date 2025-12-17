@@ -446,10 +446,10 @@ Floating Notification
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[8.0.00.22]]></versionName>
-		<versionCode>800022000</versionCode> 
-		<realContentSize>6473107</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[8.0.00.69]]></versionName>
+		<versionCode>800069000</versionCode> 
+		<realContentSize>7559482</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
@@ -888,10 +888,10 @@ Provide custom effect creation option.
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[1.1.01.31]]></versionName>
-		<versionCode>110131000</versionCode> 
-		<realContentSize>40303460</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[1.1.01.38]]></versionName>
+		<versionCode>110138000</versionCode> 
+		<realContentSize>39406535</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
