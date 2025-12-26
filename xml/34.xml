@@ -714,10 +714,10 @@ We are trying to make a fresh experience for users.
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[1.1.18]]></versionName>
-		<versionCode>111807000</versionCode> 
-		<realContentSize>26326879</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[1.1.20]]></versionName>
+		<versionCode>112007000</versionCode> 
+		<realContentSize>26203171</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
