@@ -386,10 +386,10 @@ You can decorate your lockscreen wallpapers more beautiful.
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[10.2.13]]></versionName>
-		<versionCode>1021300000</versionCode> 
-		<realContentSize>27705971</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[10.3.29]]></versionName>
+		<versionCode>1032900000</versionCode> 
+		<realContentSize>30616860</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
@@ -886,10 +886,10 @@ Provide custom effect creation option.
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[1.1.01.38]]></versionName>
-		<versionCode>110138000</versionCode> 
-		<realContentSize>39406535</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[1.1.01.43]]></versionName>
+		<versionCode>110143000</versionCode> 
+		<realContentSize>39423457</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
