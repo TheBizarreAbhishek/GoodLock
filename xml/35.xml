@@ -2,8 +2,49 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>100</endNum>
+	<endNum>22</endNum>
 	<isEndOfList>true</isEndOfList>
+	<appInfo>
+		<productID>000008663391</productID>
+		<productName><![CDATA[Home Up]]></productName>
+		<appId>com.samsung.android.app.homestar</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000008663391/IconImage_20260119004754844_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[16.0.00.90]]></versionName>
+		<versionCode>1600005090</versionCode> 
+		<realContentSize>51349853</realContentSize>
+		<restrictedAge>0</restrictedAge>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Content Gifts]]></categoryName>
+		<averageRating><![CDATA[0]]></averageRating><description><![CDATA[Enjoy enhanced One UI Home experience.
+
+HOME UP!
+
+HomeUp is the extension edition of One UI Home.
+
+1. Redesign your homescreen with DIY Home 
+2. Create your own gestures animation
+3. Use various layouts in home screen, apps and folder
+4. Customize Popup folder styles and layouts
+5. Restore homescreen layout
+6. Customize recent app window type 
+7. Customize your Edge panels
+8. Edit Share-via window
+
+※ App permissions
+The following permissions are required for the app service. You can still use the app's basic functions without allowing the optional permissions.
+
+[Required permission]
+- Storage(Photos and videos) : Access to Storage is required to back up the preview screen and layout. (Android 14 or lower)
+[optional permission]
+- Phone: Used to read phone status and identifier information (Android 14 or lower)
+
+<HOME_HOMESTAR:3001:6100>]]></description>
+		<fromPrepost>true</fromPrepost>
+	</appInfo>
 	<appInfo>
 		<productID>000006540978</productID>
 		<productName><![CDATA[Camera Assistant]]></productName>
@@ -256,47 +297,6 @@ OneUI 8.0
  Access to Bluetooth device information for gamepad key remapping function
 
 #GoodLockFriends #2]]></description>
-		<fromPrepost>false</fromPrepost>
-	</appInfo>
-	<appInfo>
-		<productID>000004772683</productID>
-		<productName><![CDATA[Home Up]]></productName>
-		<appId>com.samsung.android.app.homestar</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004772683/IconImage_20260105035213224_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>€</currencyUnit>
-		<price>0.00</price>
-		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[16.0.00.90]]></versionName>
-		<versionCode>1600005090</versionCode> 
-		<realContentSize>51349853</realContentSize>
-		<restrictedAge>0</restrictedAge>
-		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
-		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Enjoy enhanced One UI Home experience.
-
-HOME UP!
-
-HomeUp is the extension edition of One UI Home.
-
-1. Redesign your homescreen with DIY Home 
-2. Create your own gestures animation
-3. Use various layouts in home screen, apps and folder
-4. Customize Popup folder styles and layouts
-5. Restore homescreen layout
-6. Customize recent app window type 
-7. Customize your Edge panels
-8. Edit Share-via window
-
-※ App permissions
-The following permissions are required for the app service. You can still use the app's basic functions without allowing the optional permissions.
-
-[Required permission]
-- Storage(Photos and videos) : Access to Storage is required to back up the preview screen and layout. (Android 14 or lower)
-[optional permission]
-- Phone: Used to read phone status and identifier information (Android 14 or lower)
-
-<HOME_HOMESTAR:3001:6100>]]></description>
 		<fromPrepost>false</fromPrepost>
 	</appInfo>
 	<appInfo>
