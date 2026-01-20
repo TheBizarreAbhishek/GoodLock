@@ -8,7 +8,7 @@
 		<productID>000008662771</productID>
 		<productName><![CDATA[Home Up]]></productName>
 		<appId>com.samsung.android.app.homestar</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000008662771/IconImage_20260119004734279_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000008662771/IconImage_20260120044503585_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
@@ -172,10 +172,10 @@ Enjoy your own clockface on Lockscreen and AOD
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[8.5.10]]></versionName>
-		<versionCode>851000000</versionCode> 
-		<realContentSize>7918319</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[8.5.16]]></versionName>
+		<versionCode>851600000</versionCode> 
+		<realContentSize>7920999</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Galaxy Labs ]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
