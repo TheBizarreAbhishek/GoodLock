@@ -172,10 +172,10 @@ Enjoy your own clockface on Lockscreen and AOD
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[8.1.02]]></versionName>
-		<versionCode>810200000</versionCode> 
-		<realContentSize>8460583</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[8.1.05]]></versionName>
+		<versionCode>810500000</versionCode> 
+		<realContentSize>7762554</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Galaxy Labs ]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
