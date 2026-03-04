@@ -490,7 +490,7 @@ Provides advanced functions related to Samsung Keyboard.
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
+		<discountFlag>N</discountFlag>
 		<versionName><![CDATA[8.5.00.8]]></versionName>
 		<versionCode>850008000</versionCode> 
 		<realContentSize>82951295</realContentSize>
