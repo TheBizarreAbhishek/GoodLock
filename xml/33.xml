@@ -685,10 +685,10 @@ Tip: If you tap & hold the NotiStar menu in Good Lock app, its shortcut icon is 
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[8.6.17.0]]></versionName>
-		<versionCode>861700000</versionCode> 
-		<realContentSize>8505520</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[8.7.11.0]]></versionName>
+		<versionCode>871100000</versionCode> 
+		<realContentSize>8387125</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
@@ -826,7 +826,7 @@ We are trying to make a fresh experience for users.
 		<productID>000006559401</productID>
 		<productName><![CDATA[RegiStar]]></productName>
 		<appId>com.samsung.android.app.galaxyregistry</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000006559401/IconImage_20260127013151729_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000006559401/IconImage_20260304013110148_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
