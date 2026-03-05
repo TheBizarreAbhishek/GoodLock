@@ -486,14 +486,14 @@ Provides advanced functions related to Samsung Keyboard.
 		<productID>000003002072</productID>
 		<productName><![CDATA[LockStar]]></productName>
 		<appId>com.samsung.systemui.lockstar</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003002072/IconImage_20260212011334782_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003002072/IconImage_20260305051036170_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[]]></versionName>
-		<versionCode></versionCode> 
-		<realContentSize>0</realContentSize>
+		<versionName><![CDATA[8.5.00.17]]></versionName>
+		<versionCode>850017000</versionCode> 
+		<realContentSize>59296470</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
@@ -850,11 +850,11 @@ Set double tap to shortcut by pressing S Pen
 		<productID>000003084407</productID>
 		<productName><![CDATA[QuickStar]]></productName>
 		<appId>com.samsung.android.qstuner</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003084407/IconImage_20260126021757026_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003084407/IconImage_20260305070002955_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
+		<discountFlag></discountFlag>
 		<versionName><![CDATA[10.0.00.2]]></versionName>
 		<versionCode>1000002000</versionCode> 
 		<realContentSize>17557453</realContentSize>
