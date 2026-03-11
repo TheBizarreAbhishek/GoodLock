@@ -823,10 +823,10 @@ Thank you.
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[2.3.18]]></versionName>
-		<versionCode>231800000</versionCode> 
-		<realContentSize>36450525</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[2.3.19]]></versionName>
+		<versionCode>231900000</versionCode> 
+		<realContentSize>22213999</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
