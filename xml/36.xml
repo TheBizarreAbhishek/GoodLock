@@ -49,11 +49,11 @@ The following permissions are required for the app service. You can still use th
 		<productID>000006540978</productID>
 		<productName><![CDATA[Camera Assistant]]></productName>
 		<appId>com.samsung.android.app.cameraassistant</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000006540978/IconImage_20260308233611701_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000006540978/IconImage_20260319091108810_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
+		<discountFlag></discountFlag>
 		<versionName><![CDATA[4.5.00.19]]></versionName>
 		<versionCode>450019000</versionCode> 
 		<realContentSize>12257477</realContentSize>
@@ -90,6 +90,8 @@ Shutter
   Touch and hold the Shutter button to record videos in Photo mode.
 
 Photos
+- 24 MP resolution
+  Add a 24 MP option to Photo mode. Resolution may decrease due to zoom and camera settings.
 - Auto HDR
   Blend the best parts of multiple exposures into a single picture with improved color and detail.
 - Photo softening
@@ -99,8 +101,6 @@ Photos
 - Advanced Photo mode controls
   Add Pro controls to Photo mode and limit shutter speed and ISO to reduce motion blur and grain.
 - Advanced resolution options
-  · 24 MP resolution
-    Add a 24 MP option to Photo mode. Resolution may decrease due to zoom and camera settings.
   · Adaptive pixel
     Reduce noise in low light shots by combining multiple lower-resolution frames into the final high-resolution picture.
   · Upscale digital zoom
