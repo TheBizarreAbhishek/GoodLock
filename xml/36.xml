@@ -53,10 +53,10 @@ The following permissions are required for the app service. You can still use th
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[4.5.00.19]]></versionName>
-		<versionCode>450019000</versionCode> 
-		<realContentSize>12257477</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[4.5.00.20]]></versionName>
+		<versionCode>450020000</versionCode> 
+		<realContentSize>12270099</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
@@ -301,7 +301,7 @@ Previously allowed permissions can be reset on Apps menu in device settings afte
 		<productID>000008414529</productID>
 		<productName><![CDATA[Gallery Assistant]]></productName>
 		<appId>com.samsung.android.gallery.assistant.app</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000008414529/IconImage_20260313010130046_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000008414529/IconImage_20260327020123557_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
