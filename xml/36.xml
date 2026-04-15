@@ -355,10 +355,10 @@ The following access permissions are required to provide you with this service. 
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[2.0.00.14]]></versionName>
-		<versionCode>200014000</versionCode> 
-		<realContentSize>12578388</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[2.0.00.29]]></versionName>
+		<versionCode>200029000</versionCode> 
+		<realContentSize>8209033</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
@@ -531,10 +531,10 @@ You can decorate your lockscreen wallpapers more beautiful.
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[10.3.29]]></versionName>
-		<versionCode>1032900000</versionCode> 
-		<realContentSize>30616860</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[10.4.06]]></versionName>
+		<versionCode>1040600000</versionCode> 
+		<realContentSize>14748116</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
