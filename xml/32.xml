@@ -133,6 +133,83 @@ v15.0.00.7
 		<fromPrepost>Y</fromPrepost>
 	</appInfo>
 	<appInfo>
+		<productID>000008904475</productID>
+		<productName><![CDATA[MultiStar]]></productName>
+		<appId>com.samsung.android.multistar</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000008904475/IconImage_20260507034343288_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[5.4.00]]></versionName>
+		<versionCode>540000000</versionCode> 
+		<realContentSize>13669415</realContentSize>
+		<restrictedAge>0</restrictedAge>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Content Gifts]]></categoryName>
+		<averageRating><![CDATA[0]]></averageRating><description><![CDATA[Experience enhanced multi-window functionality.
+
+[Description]
+[One UI 8]
+- Added 'Launcher Widget' feature for Flip7 (screen size conversion and ratio adjustment)
+- Added FlipShot feature (mirror selfie feature exclusive to Flip devices)
+- Removed 'Continue using all apps on the front screen' menu for Galaxy Z Tri-fold
+
+[One UI 7]
+- Added 'Keep split mode' feature for tablets/folds
+- Added Japanese language support
+- Added dual messenger app support (Flip 5)
+
+[One UI 6]
+- Added Flip5-exclusive cover widget
+- Added Smart Switch permission
+- Added Galaxy-to-Share settings export/import feature
+- Changed launcher widget app limit (up to 200 apps)
+
+[One UI 5]
+- Added Smart Switch backup feature
+
+[One UI 4]
+Enhanced usability on Flip 3's cover screen (※ Requires Always On Display v7.1.30.4 or higher)
+- Cover launcher widget
+Launch game apps or some media apps directly from the flip cover screen (Flip 3 only, up to 5 apps)
+
+Seamless multi-window experience
+- Use multiple apps in multi-window mode without interruption.
+
+[One UI 3 (Android 11)]
+Wider split-screen view
+- Hide status bar and navigation bar in split-screen mode
+
+Maximize screen space
+- Expand apps to cover the camera area
+
+[One UI 2 (Android 10)]
+Multi-window for all apps
+- Run all apps in pop-up windows and split-screen mode.
+
+[One UI 1 (Android 9)]
+Ghost mode
+- Adjust transparency of pop-up screens to view content underneath.
+Floating notifications
+- Receive notifications as icons.
+
+[Target]
+- Application available on SAMSUNG devices running Android 8.1 or higher.
+- Some devices may not be supported.
+
+[Supported Languages]
+- Korean
+- English
+- Chinese
+- Japanese
+
+[Version Code]
+<MULTISTAR:1000:10001>
+#6]]></description>
+		<fromPrepost>Y</fromPrepost>
+	</appInfo>
+	<appInfo>
 		<productID>000003202866</productID>
 		<productName><![CDATA[ClockFace]]></productName>
 		<appId>com.samsung.android.app.clockface</appId>
@@ -257,64 +334,6 @@ You can decorate your lockscreen wallpapers more beautiful.
 - Japanese
 
 <LOCKSTAR:1003:4004>#1]]></description>
-		<fromPrepost></fromPrepost>
-	</appInfo>
-	<appInfo>
-		<productID>000003266196</productID>
-		<productName><![CDATA[MultiStar]]></productName>
-		<appId>com.samsung.android.multistar</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003266196/IconImage_20260421015126751_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>€</currencyUnit>
-		<price>0.00</price>
-		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[5.4.00]]></versionName>
-		<versionCode>540000000</versionCode> 
-		<realContentSize>13669415</realContentSize>
-		<restrictedAge>0</restrictedAge>
-		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
-		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Enjoy enhanced Multiwindow experience. 
-
-[Description]
-[ One UI 4]
-Improved usability on the cover screen of Flip 3. (※ Always On Display  v7.1.30.4 or later)
--Cover launcher widget
- Launch game apps or some media apps directly from the cover screen. (Flip 3 target, you can add up to 5 apps)
-
-Use Multi window without pausing
-- You can use several apps at the same time on the Multi window mode without stopping.
-
-[One UI 3 (Android 11)]
-Immersive Mode 
-- Hide status bar and navigation bar in split screen view
- 
-The app size stretch to camera hole 
-- Open the app by widening the camera area
-
-[One UI 2 (Android 10)]
-Enable Multi window to all apps 
-- All apps can be launched in a Popup window and split screen.
-
-[One UI 1 (Android 9)]
-Ghost Mode 
-- When you use Popup Window, you can adjust the transparency of Windows so that you can see what is under the window.
-
-Floating Notification 
-- You can receive notifications in the form of icons.
-
-
-[Target]
-- Android O os 8.1~  SAMSUNG devices.
-
-[Language]
-- English
-- Korean
-- Chinese
-
-[Version Code]
-<MULTISTAR:1000:10001>
-#6]]></description>
 		<fromPrepost></fromPrepost>
 	</appInfo>
 	<appInfo>
