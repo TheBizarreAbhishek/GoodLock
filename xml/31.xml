@@ -133,6 +133,53 @@ v15.0.00.7
 		<fromPrepost>Y</fromPrepost>
 	</appInfo>
 	<appInfo>
+		<productID>000008878044</productID>
+		<productName><![CDATA[QuickStar]]></productName>
+		<appId>com.samsung.android.qstuner</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000008878044/IconImage_20260517235704696_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[6.4.08.45]]></versionName>
+		<versionCode>640845000</versionCode> 
+		<realContentSize>15320543</realContentSize>
+		<restrictedAge>0</restrictedAge>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Content Gifts]]></categoryName>
+		<averageRating><![CDATA[0]]></averageRating><description><![CDATA[Customize your special Quickpanel.
+
+[Description]
+- Make a simple status bar.
+
+<One UI 5>
+ ※ Support seconds clock on panel.
+ ※ Support date clock on indicator.
+
+<One UI 4>
+ ※ Improve app stability.
+
+[Detail Description]
+QuickStar is QuickPanel Star a SystemUI service app for early adopters.
+QuickStar is a plugin application for customizing SAMSUNG SystemUI Quicksettings components.
+By using this, You can change layouts and settings of Google Basic Quickpanel which is blocked by Samsung and can handle new features of Notification that QuickStar provides.
+We are trying to make a fresh experience for users.
+
+[Target]
+- Android 8 or higher devices
+
+[Language]
+- Korean
+- English
+- Chinese
+- Japanese
+
+[Version Code]
+<SLIMINDICATOR:1003:10000>
+#2]]></description>
+		<fromPrepost>Y</fromPrepost>
+	</appInfo>
+	<appInfo>
 		<productID>000008904475</productID>
 		<productName><![CDATA[MultiStar]]></productName>
 		<appId>com.samsung.android.multistar</appId>
@@ -639,53 +686,6 @@ Set double tap to shortcut by pressing S Pen
 * OneUI2.1 supports only 'Change the form of Air Command' feature.
 
 #Pentastic, #SPenThemes, #AircommandThemes, #SPenPointer, #SPenSound, #GoodLockFriends #0]]></description>
-		<fromPrepost></fromPrepost>
-	</appInfo>
-	<appInfo>
-		<productID>000003084407</productID>
-		<productName><![CDATA[QuickStar]]></productName>
-		<appId>com.samsung.android.qstuner</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003084407/IconImage_20260421015106080_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>€</currencyUnit>
-		<price>0.00</price>
-		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[6.4.08.45]]></versionName>
-		<versionCode>640845000</versionCode> 
-		<realContentSize>15320543</realContentSize>
-		<restrictedAge>0</restrictedAge>
-		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
-		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Customize your special Quickpanel.
-
-[Description]
-- Make a simple status bar.
-
-<One UI 5>
- ※ Support seconds clock on panel.
- ※ Support date clock on indicator.
-
-<One UI 4>
- ※ Improve app stability.
-
-[Detail Description]
-QuickStar is QuickPanel Star a SystemUI service app for early adopters.
-QuickStar is a plugin application for customizing SAMSUNG SystemUI Quicksettings components.
-By using this, You can change layouts and settings of Google Basic Quickpanel which is blocked by Samsung and can handle new features of Notification that QuickStar provides.
-We are trying to make a fresh experience for users.
-
-[Target]
-- Android 8 or higher devices
-
-[Language]
-- Korean
-- English
-- Chinese
-- Japanese
-
-[Version Code]
-<SLIMINDICATOR:1003:10000>
-#2]]></description>
 		<fromPrepost></fromPrepost>
 	</appInfo>
 	<appInfo>
