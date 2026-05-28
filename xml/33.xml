@@ -556,7 +556,7 @@ Enjoy your own clockface on Lockscreen and AOD
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
+		<discountFlag></discountFlag>
 		<versionName><![CDATA[8.0.00.1]]></versionName>
 		<versionCode>800000001</versionCode> 
 		<realContentSize>10912138</realContentSize>
