@@ -457,10 +457,10 @@ Supported language:  Korean, English, Chinese (Simplified), Japanese, Vietnamese
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[]]></versionName>
-		<versionCode></versionCode> 
-		<realContentSize>0</realContentSize>
+		<discountFlag></discountFlag>
+		<versionName><![CDATA[8.0.00.1]]></versionName>
+		<versionCode>800000001</versionCode> 
+		<realContentSize>10912138</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
