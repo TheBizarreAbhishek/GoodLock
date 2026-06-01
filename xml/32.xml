@@ -2,7 +2,7 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>16</endNum>
+	<endNum>17</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000008669028</productID>
@@ -298,6 +298,36 @@ Floating notifications
 [Version Code]
 <MULTISTAR:1000:10001>
 #6]]></description>
+		<fromPrepost>Y</fromPrepost>
+	</appInfo>
+	<appInfo>
+		<productID>000008862497</productID>
+		<productName><![CDATA[LockStar]]></productName>
+		<appId>com.samsung.systemui.lockstar</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000008862497/IconImage_20260601034314079_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[3.0.00.32]]></versionName>
+		<versionCode>300032000</versionCode> 
+		<realContentSize>64610116</realContentSize>
+		<restrictedAge>0</restrictedAge>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Content Gifts]]></categoryName>
+		<averageRating><![CDATA[0]]></averageRating><description><![CDATA[Design your new lock screen.
+Freely arrange clocks, quick access apps, and widgets to create your own unique style.
+
+* Available on Samsung devices running Android 8.0 (Oreo) or later.
+* May not be supported on certain Galaxy devices.
+
+[Supported Languages]
+- Korean
+- English
+- Chinese
+- Japanese
+
+<LOCKSTAR:1003:4004>#1]]></description>
 		<fromPrepost>Y</fromPrepost>
 	</appInfo>
 	<appInfo>
@@ -753,7 +783,7 @@ Provide custom effect creation option.
 		<productID>000004623161</productID>
 		<productName><![CDATA[Theme Park]]></productName>
 		<appId>com.samsung.android.themedesigner</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004623161/IconImage_20260428091843471_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000004623161/IconImage_20260601030419635_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
