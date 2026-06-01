@@ -2,7 +2,7 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>23</endNum>
+	<endNum>24</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000008662771</productID>
@@ -170,6 +170,36 @@ We are trying to make a fresh experience for users.
 		<fromPrepost>Y</fromPrepost>
 	</appInfo>
 	<appInfo>
+		<productID>000008862561</productID>
+		<productName><![CDATA[LockStar]]></productName>
+		<appId>com.samsung.systemui.lockstar</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000008862561/IconImage_20260601035248772_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[8.5.00.17]]></versionName>
+		<versionCode>850017000</versionCode> 
+		<realContentSize>59296470</realContentSize>
+		<restrictedAge>0</restrictedAge>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Content Gifts]]></categoryName>
+		<averageRating><![CDATA[0]]></averageRating><description><![CDATA[Design your new lock screen.
+Freely arrange clocks, quick access apps, and widgets to create your own unique style.
+
+* Available on Samsung devices running Android 8.0 (Oreo) or later.
+* May not be supported on certain Galaxy devices.
+
+[Supported Languages]
+- Korean
+- English
+- Chinese
+- Japanese
+
+<LOCKSTAR:1003:4004>#1]]></description>
+		<fromPrepost>Y</fromPrepost>
+	</appInfo>
+	<appInfo>
 		<productID>000008853087</productID>
 		<productName><![CDATA[NotiStar]]></productName>
 		<appId>com.samsung.systemui.notilus</appId>
@@ -214,43 +244,33 @@ Tip: Long-press the NotiStar menu in the Good Lock app to create a shortcut icon
 		<fromPrepost>Y</fromPrepost>
 	</appInfo>
 	<appInfo>
-		<productID>000008873485</productID>
+		<productID>000008965710</productID>
 		<productName><![CDATA[Nice Shot]]></productName>
 		<appId>com.samsung.android.app.captureplugin</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000008873485/IconImage_20260521061341506_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000008965710/IconImage_20260528101713925_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[2.3.07]]></versionName>
-		<versionCode>230700000</versionCode> 
-		<realContentSize>7467945</realContentSize>
+		<versionName><![CDATA[2.3.09]]></versionName>
+		<versionCode>230900000</versionCode> 
+		<realContentSize>6376972</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Content Gifts]]></categoryName>
-		<averageRating><![CDATA[0]]></averageRating><description><![CDATA[[One UI 5]
-○ Screen capture : Delete the "Do not copy image to the clipboard when saving" setting
-                         (Do not support saving the clipboard when capturing from One UI 5)
-○ Screen recording : Delete the "Selfie video options -> Selfie video size" setting
-                           (※ Please use the settings in "Settings -> Advanced features -> Screenshots and screen recorder" of the device.)
+		<averageRating><![CDATA[0]]></averageRating><description><![CDATA[Enhanced Screenshot & Screen Recording Features
 
-[One UI 4]
-* Each menu offered will appear differently on the specifications supported by the device.
-○ Screen capture : Provides settings such as activating the delete button immediately when capturing the screen, not saving it to the clipboard, and turning off the magnet effect after capturing.
+Enjoy customizable options for capturing and recording your screen:
 
-○ Screen recording : You can set various backgrounds when shooting self-videos, and you can automatically run the Do Not Disturb mode when recording screens.
+□ Screen Capture
+- Instant delete button after capture
+- Option to disable magnet effect after capture
 
-[Before Q os]
-Provides a variety of screenshot options.
-(Some functions are available only on smart capture support devices.)
-Provides a variety of screen shot options.(Some functions are available only on smart capture support terminals.)
-- Save Format: Change the screen shot format to PNG or JPG.
-- Automatic removal of system UI: Remove indicator and navigation bar and save.
-- #Tag: We recommend Tag for easy classification after smart capture.
-- Automatic deletion after sharing: It will be automatically deleted from the Smart Capture toolbar when it is not saved in Gallery.
-- Screen Recording: Provides screen recording function.
+○ Screen Recording  
+- Customizable selfie video backgrounds
+- Auto Do Not Disturb mode during recordings
 
-* Note 10 Series are pre-loaded with 'screen recorder' and 'tags', so it is no longer supported.]]></description>
+※ Note: Available features may vary depending on your device specifications.]]></description>
 		<fromPrepost>Y</fromPrepost>
 	</appInfo>
 	<appInfo>
@@ -1003,11 +1023,11 @@ Provide custom effect creation option.
 		<productID>000004623161</productID>
 		<productName><![CDATA[Theme Park]]></productName>
 		<appId>com.samsung.android.themedesigner</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000004623161/IconImage_20260428091843471_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000004623161/IconImage_20260601030419635_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
+		<discountFlag></discountFlag>
 		<versionName><![CDATA[1.1.01.47]]></versionName>
 		<versionCode>110147000</versionCode> 
 		<realContentSize>37220631</realContentSize>
