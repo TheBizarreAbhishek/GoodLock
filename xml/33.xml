@@ -2,7 +2,7 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>22</endNum>
+	<endNum>21</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000008669114</productID>
@@ -895,32 +895,6 @@ Set double tap to shortcut by pressing S Pen
 * OneUI2.1 supports only 'Change the form of Air Command' feature.
 
 #Pentastic, #SPenThemes, #AircommandThemes, #SPenPointer, #SPenSound, #GoodLockFriends #0]]></description>
-		<fromPrepost></fromPrepost>
-	</appInfo>
-	<appInfo>
-		<productID>000006559401</productID>
-		<productName><![CDATA[RegiStar]]></productName>
-		<appId>com.samsung.android.app.galaxyregistry</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000006559401/IconImage_20260421015652227_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>€</currencyUnit>
-		<price>0.00</price>
-		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.0.67]]></versionName>
-		<versionCode>106700000</versionCode> 
-		<realContentSize>12702319</realContentSize>
-		<restrictedAge>0</restrictedAge>
-		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
-		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Conveniently configure the Settings app and press the side key, tap the back, or press the screen strongly to quickly launch useful features.
-
-- Re-configure menu of Settings home screen
- : Change order, hide,manage groups
-- Set method of displaying Samsung account on the Settings home screen
-- Search settings change history, change notification settings
-- Activate features by tapping the back of the device (Galaxy S/ Flip only)
-- Run features by long-pressing the side key
-- Run features by pressing the screen strongly (Fold 4 only)]]></description>
 		<fromPrepost></fromPrepost>
 	</appInfo>
 	<appInfo>
