@@ -2,7 +2,7 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>24</endNum>
+	<endNum>25</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000008662771</productID>
@@ -241,6 +241,48 @@ Tip: Long-press the NotiStar menu in the Good Lock app to create a shortcut icon
 [Version Code]
 <NOTISTAR:2001:9002>
 #GoodLockFriends]]></description>
+		<fromPrepost>Y</fromPrepost>
+	</appInfo>
+	<appInfo>
+		<productID>000008852072</productID>
+		<productName><![CDATA[NavStar]]></productName>
+		<appId>com.samsung.systemui.navillera</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000008852072/IconImage_20260610025546126_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[8.0.00.69]]></versionName>
+		<versionCode>800069000</versionCode> 
+		<realContentSize>7559482</realContentSize>
+		<restrictedAge>0</restrictedAge>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Content Gifts]]></categoryName>
+		<averageRating><![CDATA[0]]></averageRating><description><![CDATA[Create your own navigation bar.
+
+[Description]
+- You can hide or show the navigation bar.
+- You can change the color of the navigation bar.
+- Add useful buttons to the navigation bar.
+- You can change the icon shape to any image you like.
+- If you are using gesture mode, you can adjust the hint background, handle length, and color.
+
+[Supported Models]
+- Application available on SAMSUNG devices with Android O OS 8.1 or higher.
+
+[Supported Languages]
+- Korean
+- English
+- Chinese
+- Japanese
+
+[Required Permissions]
+- Storage (Required)
+: Stores navigation bar images and user settings.
+
+[Version Code]
+<NAVSTAR:1001:11000>
+#7]]></description>
 		<fromPrepost>Y</fromPrepost>
 	</appInfo>
 	<appInfo>
