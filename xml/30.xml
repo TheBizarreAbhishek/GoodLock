@@ -2,7 +2,7 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>18</endNum>
+	<endNum>17</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000008853044</productID>
@@ -496,48 +496,6 @@ Provides advanced functions related to Samsung Keyboard.
 ※Keys Cafe works from Samsung keyboard version 5.1.05.9
 
 #GoodLockFriends #0]]></description>
-		<fromPrepost></fromPrepost>
-	</appInfo>
-	<appInfo>
-		<productID>000003488383</productID>
-		<productName><![CDATA[NavStar]]></productName>
-		<appId>com.samsung.systemui.navillera</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003488383/IconImage_20260421015133158_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>€</currencyUnit>
-		<price>0.00</price>
-		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[3.2.04.47]]></versionName>
-		<versionCode>320447000</versionCode> 
-		<realContentSize>3970929</realContentSize>
-		<restrictedAge>0</restrictedAge>
-		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
-		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Create your own navigation bar.
-
-[Descriptions]
-  - You can show and hide the navigation bar.
-
-  - You can change the color of the navigation bar.
-
-  - You can add useful buttons to the navigation bar.
-
-  - You can change the icon of the navigation bar to your favorite image.
-
-   - If you are using gesture mode, you can change the hint background, handle length, and color.
-
-[Language]
-- English
-- Korean
-- Chinese
-
-[Required permission]
--  Storage (Required)
-  : The navigation bar images and user settings are saved.
-
-[Version Code]
-<NAVSTAR:1001:11000>
-#7]]></description>
 		<fromPrepost></fromPrepost>
 	</appInfo>
 	<appInfo>
