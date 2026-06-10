@@ -2,7 +2,7 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>17</endNum>
+	<endNum>16</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000008853044</productID>
@@ -517,48 +517,6 @@ If your system software version is lower than Android 6.0, please update the sof
 Previously allowed permissions can be reset on Apps menu in device settings after software update.
 
 #GoodLockFriends]]></description>
-		<fromPrepost></fromPrepost>
-	</appInfo>
-	<appInfo>
-		<productID>000003488383</productID>
-		<productName><![CDATA[NavStar]]></productName>
-		<appId>com.samsung.systemui.navillera</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003488383/IconImage_20260421015133158_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>€</currencyUnit>
-		<price>0.00</price>
-		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.0.00.17]]></versionName>
-		<versionCode>100017000</versionCode> 
-		<realContentSize>4552048</realContentSize>
-		<restrictedAge>0</restrictedAge>
-		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
-		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Create your own navigation bar.
-
-[Descriptions]
-  - You can show and hide the navigation bar.
-
-  - You can change the color of the navigation bar.
-
-  - You can add useful buttons to the navigation bar.
-
-  - You can change the icon of the navigation bar to your favorite image.
-
-   - If you are using gesture mode, you can change the hint background, handle length, and color.
-
-[Language]
-- English
-- Korean
-- Chinese
-
-[Required permission]
--  Storage (Required)
-  : The navigation bar images and user settings are saved.
-
-[Version Code]
-<NAVSTAR:1001:11000>
-#7]]></description>
 		<fromPrepost></fromPrepost>
 	</appInfo>
 	<appInfo>
