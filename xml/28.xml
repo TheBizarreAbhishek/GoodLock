@@ -2,7 +2,7 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>17</endNum>
+	<endNum>16</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000008853044</productID>
@@ -459,54 +459,6 @@ v15.0.00.7
 <NAVSTAR:1001:11000>
 #7]]></description>
 		<fromPrepost>Y</fromPrepost>
-	</appInfo>
-	<appInfo>
-		<productID>000003202866</productID>
-		<productName><![CDATA[ClockFace]]></productName>
-		<appId>com.samsung.android.app.clockface</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003202866/IconImage_20260421015111833_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>€</currencyUnit>
-		<price>0.00</price>
-		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.2.09.0]]></versionName>
-		<versionCode>120900000</versionCode> 
-		<realContentSize>9085581</realContentSize>
-		<restrictedAge>0</restrictedAge>
-		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
-		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Pick a clock style you like!
-
-[ONE UI 6.1]
-added font/weather item ( From S24 models)
-added framed image(GIF) item.
-
-[ONE UI 6.0]
-added framed image(GIF) item.
-
-[ONE UI 5.0]
-Support Tablet ( From Galaxy Tab S8)
-
-[ONE UI 4.1]
-Connect a Galaxy Watch to preview more watch faces (※ However, created by Watch Face Studio)
-
-[One UI 3]
-Create a clockface to your taste. 
-You can select the clockface style and decorate it by adding text, images and GIFs.
-Enjoy your own clockface on Lockscreen and AOD
- - Create clockface: You can change the style and color of an hour hand, minute hand, pin, background, etc.
- - Apply the clockface on Lockscreen and AOD
-
-
-[Target]
-- Android 9/10/11 SAMSUNG devices.
-
-[Language]
-- Korean
-- English
-- Simplified Chinese
-#5]]></description>
-		<fromPrepost></fromPrepost>
 	</appInfo>
 	<appInfo>
 		<productID>000003039099</productID>
