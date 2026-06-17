@@ -373,6 +373,55 @@ Freely arrange clocks, quick access apps, and widgets to create your own unique 
 		<fromPrepost>Y</fromPrepost>
 	</appInfo>
 	<appInfo>
+		<productID>000008864914</productID>
+		<productName><![CDATA[ClockFace]]></productName>
+		<appId>com.samsung.android.app.clockface</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000008864914/IconImage_20260617082034189_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[2.2.68.0]]></versionName>
+		<versionCode>226800000</versionCode> 
+		<realContentSize>87621946</realContentSize>
+		<restrictedAge>0</restrictedAge>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Content Gifts]]></categoryName>
+		<averageRating><![CDATA[0]]></averageRating><description><![CDATA[Pick a clock style you like!
+
+[ONE UI 6.1]
+- Added font/weather item (available from S24 models)
+- Added framed image (GIF) item
+
+[ONE UI 6.0]
+- Added framed image (GIF) item
+
+[ONE UI 5.0]
+- Tablet support added (available from Galaxy Tab S8)
+
+[ONE UI 4.1]
+- Connect a Galaxy Watch to preview more watch faces (※ Only for faces created with Watch Face Studio)
+
+[ONE UI 3]
+- Create a customized clock face
+- Select a clock face style and personalize it by adding text, images, and GIFs
+- Enjoy your unique clock face on Lock screen and Always On Display (AOD)
+  - Customize clock face: Change the style and color of hour hand, minute hand, pin, background, etc.
+  - Apply your clock face to Lock screen and AOD
+
+[Supported Models]
+- Android 9 and above SAMSUNG devices
+※ Some models may not be supported  
+
+[Supported Languages]
+- Korean
+- English
+- Simplified Chinese
+- Japanese
+#5]]></description>
+		<fromPrepost>Y</fromPrepost>
+	</appInfo>
+	<appInfo>
 		<productID>000008873407</productID>
 		<productName><![CDATA[Nice Shot]]></productName>
 		<appId>com.samsung.android.app.captureplugin</appId>
@@ -411,54 +460,6 @@ Provides a variety of screen shot options.(Some functions are available only on 
 
 * Note 10 Series are pre-loaded with 'screen recorder' and 'tags', so it is no longer supported.]]></description>
 		<fromPrepost>Y</fromPrepost>
-	</appInfo>
-	<appInfo>
-		<productID>000003202866</productID>
-		<productName><![CDATA[ClockFace]]></productName>
-		<appId>com.samsung.android.app.clockface</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003202866/IconImage_20260421015111833_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>€</currencyUnit>
-		<price>0.00</price>
-		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[2.2.68.0]]></versionName>
-		<versionCode>226800000</versionCode> 
-		<realContentSize>87621946</realContentSize>
-		<restrictedAge>0</restrictedAge>
-		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
-		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Pick a clock style you like!
-
-[ONE UI 6.1]
-added font/weather item ( From S24 models)
-added framed image(GIF) item.
-
-[ONE UI 6.0]
-added framed image(GIF) item.
-
-[ONE UI 5.0]
-Support Tablet ( From Galaxy Tab S8)
-
-[ONE UI 4.1]
-Connect a Galaxy Watch to preview more watch faces (※ However, created by Watch Face Studio)
-
-[One UI 3]
-Create a clockface to your taste. 
-You can select the clockface style and decorate it by adding text, images and GIFs.
-Enjoy your own clockface on Lockscreen and AOD
- - Create clockface: You can change the style and color of an hour hand, minute hand, pin, background, etc.
- - Apply the clockface on Lockscreen and AOD
-
-
-[Target]
-- Android 9/10/11 SAMSUNG devices.
-
-[Language]
-- Korean
-- English
-- Simplified Chinese
-#5]]></description>
-		<fromPrepost></fromPrepost>
 	</appInfo>
 	<appInfo>
 		<productID>000003084395</productID>
