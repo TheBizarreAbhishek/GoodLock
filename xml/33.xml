@@ -2,7 +2,7 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>21</endNum>
+	<endNum>22</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000008669114</productID>
@@ -130,6 +130,33 @@ v15.0.00.7
 <v13.0.00.39>
 - Disable the Favorites Maximum Count menu on the Tablet device (up to 14 are supported by default)
 - Fixed some errors]]></description>
+		<fromPrepost>Y</fromPrepost>
+	</appInfo>
+	<appInfo>
+		<productID>000009018518</productID>
+		<productName><![CDATA[Edge lighting+]]></productName>
+		<appId>com.samsung.android.edgelightingplus</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000009018518/IconImage_20260617043914498_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[9.0.00.4]]></versionName>
+		<versionCode>900000004</versionCode> 
+		<realContentSize>11180969</realContentSize>
+		<restrictedAge>0</restrictedAge>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Content Gifts]]></categoryName>
+		<averageRating><![CDATA[0]]></averageRating><description><![CDATA[Add your own personal touch to your notifications. Enjoy fun effects when receiving notifications.
+
+※ It works in One UI 5.1.1 and higher
+[Key Features]
+- Customize the edge lighting style displayed on the screen when receiving notifications
+- Set styles by keyword
+- Used only when the screen is off
+- Change images to app icons
+- Change app launch methods from notification pop-ups
+   : Double-tap to launch apps, prevents swiping down]]></description>
 		<fromPrepost>Y</fromPrepost>
 	</appInfo>
 	<appInfo>
@@ -417,6 +444,55 @@ Freely arrange clocks, quick access apps, and widgets to create your own unique 
 		<fromPrepost>Y</fromPrepost>
 	</appInfo>
 	<appInfo>
+		<productID>000008868997</productID>
+		<productName><![CDATA[ClockFace]]></productName>
+		<appId>com.samsung.android.app.clockface</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000008868997/IconImage_20260617075357635_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[2.3.19.0]]></versionName>
+		<versionCode>231900000</versionCode> 
+		<realContentSize>149160705</realContentSize>
+		<restrictedAge>0</restrictedAge>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Content Gifts]]></categoryName>
+		<averageRating><![CDATA[0]]></averageRating><description><![CDATA[Pick a clock style you like!
+
+[ONE UI 6.1]
+- Added font/weather item (available from S24 models)
+- Added framed image (GIF) item
+
+[ONE UI 6.0]
+- Added framed image (GIF) item
+
+[ONE UI 5.0]
+- Tablet support added (available from Galaxy Tab S8)
+
+[ONE UI 4.1]
+- Connect a Galaxy Watch to preview more watch faces (※ Only for faces created with Watch Face Studio)
+
+[ONE UI 3]
+- Create a customized clock face
+- Select a clock face style and personalize it by adding text, images, and GIFs
+- Enjoy your unique clock face on Lock screen and Always On Display (AOD)
+  - Customize clock face: Change the style and color of hour hand, minute hand, pin, background, etc.
+  - Apply your clock face to Lock screen and AOD
+
+[Supported Models]
+- Android 9 and above SAMSUNG devices
+※ Some models may not be supported  
+
+[Supported Languages]
+- Korean
+- English
+- Simplified Chinese
+- Japanese
+#5]]></description>
+		<fromPrepost>Y</fromPrepost>
+	</appInfo>
+	<appInfo>
 		<productID>000008965710</productID>
 		<productName><![CDATA[Nice Shot]]></productName>
 		<appId>com.samsung.android.app.captureplugin</appId>
@@ -484,6 +560,55 @@ Provides a variety of screen shot options.(Some functions are available only on 
 - Screen Recording: Provides screen recording function.
 
 * Note 10 Series are pre-loaded with 'screen recorder' and 'tags', so it is no longer supported.]]></description>
+		<fromPrepost>Y</fromPrepost>
+	</appInfo>
+	<appInfo>
+		<productID>000008868981</productID>
+		<productName><![CDATA[ClockFace]]></productName>
+		<appId>com.samsung.android.app.clockface</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000008868981/IconImage_20260617064656999_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[2.3.06.0]]></versionName>
+		<versionCode>230600000</versionCode> 
+		<realContentSize>93235517</realContentSize>
+		<restrictedAge>0</restrictedAge>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Content Gifts]]></categoryName>
+		<averageRating><![CDATA[0]]></averageRating><description><![CDATA[Pick a clock style you like!
+
+[ONE UI 6.1]
+- Added font/weather item (available from S24 models)
+- Added framed image (GIF) item
+
+[ONE UI 6.0]
+- Added framed image (GIF) item
+
+[ONE UI 5.0]
+- Tablet support added (available from Galaxy Tab S8)
+
+[ONE UI 4.1]
+- Connect a Galaxy Watch to preview more watch faces (※ Only for faces created with Watch Face Studio)
+
+[ONE UI 3]
+- Create a customized clock face
+- Select a clock face style and personalize it by adding text, images, and GIFs
+- Enjoy your unique clock face on Lock screen and Always On Display (AOD)
+  - Customize clock face: Change the style and color of hour hand, minute hand, pin, background, etc.
+  - Apply your clock face to Lock screen and AOD
+
+[Supported Models]
+- Android 9 and above SAMSUNG devices
+※ Some models may not be supported  
+
+[Supported Languages]
+- Korean
+- English
+- Simplified Chinese
+- Japanese
+#5]]></description>
 		<fromPrepost>Y</fromPrepost>
 	</appInfo>
 	<appInfo>
@@ -626,81 +751,6 @@ External accessories
 ...
 
 #GoodLockFriends #10]]></description>
-		<fromPrepost></fromPrepost>
-	</appInfo>
-	<appInfo>
-		<productID>000003202866</productID>
-		<productName><![CDATA[ClockFace]]></productName>
-		<appId>com.samsung.android.app.clockface</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003202866/IconImage_20260421015111833_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>€</currencyUnit>
-		<price>0.00</price>
-		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[2.3.19.0]]></versionName>
-		<versionCode>231900000</versionCode> 
-		<realContentSize>149160705</realContentSize>
-		<restrictedAge>0</restrictedAge>
-		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
-		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Pick a clock style you like!
-
-[ONE UI 6.1]
-added font/weather item ( From S24 models)
-added framed image(GIF) item.
-
-[ONE UI 6.0]
-added framed image(GIF) item.
-
-[ONE UI 5.0]
-Support Tablet ( From Galaxy Tab S8)
-
-[ONE UI 4.1]
-Connect a Galaxy Watch to preview more watch faces (※ However, created by Watch Face Studio)
-
-[One UI 3]
-Create a clockface to your taste. 
-You can select the clockface style and decorate it by adding text, images and GIFs.
-Enjoy your own clockface on Lockscreen and AOD
- - Create clockface: You can change the style and color of an hour hand, minute hand, pin, background, etc.
- - Apply the clockface on Lockscreen and AOD
-
-
-[Target]
-- Android 9/10/11 SAMSUNG devices.
-
-[Language]
-- Korean
-- English
-- Simplified Chinese
-#5]]></description>
-		<fromPrepost></fromPrepost>
-	</appInfo>
-	<appInfo>
-		<productID>000007063417</productID>
-		<productName><![CDATA[Edge lighting+]]></productName>
-		<appId>com.samsung.android.edgelightingplus</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000007063417/IconImage_20260615060433214_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>€</currencyUnit>
-		<price>0.00</price>
-		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[9.0.00.4]]></versionName>
-		<versionCode>900000004</versionCode> 
-		<realContentSize>11180969</realContentSize>
-		<restrictedAge>0</restrictedAge>
-		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
-		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Add your own personal touch to your notifications. Enjoy fun effects when receiving notifications.
-
-※ It works in One UI 5.1.1 and higher
-[Key Features]
-- Customize the edge lighting style displayed on the screen when receiving notifications
-- Set styles by keyword
-- Used only when the screen is off
-- Change images to app icons
-- Change app launch methods from notification pop-ups
-   : Double-tap to launch apps, prevents swiping down]]></description>
 		<fromPrepost></fromPrepost>
 	</appInfo>
 	<appInfo>
