@@ -685,10 +685,10 @@ Press "Vibration history" in app's main screen and you get a list of application
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[8.8.11.0]]></versionName>
-		<versionCode>881100000</versionCode> 
-		<realContentSize>8386302</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[9.2.19.0]]></versionName>
+		<versionCode>921900000</versionCode> 
+		<realContentSize>8805780</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
