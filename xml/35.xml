@@ -2,7 +2,7 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>23</endNum>
+	<endNum>22</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000008663391</productID>
@@ -406,7 +406,7 @@ Enjoy customizable options for capturing and recording your screen:
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Content Gifts]]></categoryName>
-		<averageRating><![CDATA[0]]></averageRating><description><![CDATA[Conveniently configure the Settings app and press the side key, tap the back, or press the screen strongly to quickly launch useful features.
+		<averageRating><![CDATA[10]]></averageRating><description><![CDATA[Conveniently configure the Settings app and press the side key, tap the back, or press the screen strongly to quickly launch useful features.
 
 - Re-configure menu of Settings home screen
  : Change order, hide,manage groups
@@ -893,45 +893,6 @@ Set double tap to shortcut by pressing S Pen
 * OneUI2.1 supports only 'Change the form of Air Command' feature.
 
 #Pentastic, #SPenThemes, #AircommandThemes, #SPenPointer, #SPenSound, #GoodLockFriends #0]]></description>
-		<fromPrepost></fromPrepost>
-	</appInfo>
-	<appInfo>
-		<productID>000005563964</productID>
-		<productName><![CDATA[Routines +]]></productName>
-		<appId>com.samsung.android.app.routineplus</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000005563964/IconImage_20260429080841939_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>€</currencyUnit>
-		<price>0.00</price>
-		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.1.23]]></versionName>
-		<versionCode>112307000</versionCode> 
-		<realContentSize>18140044</realContentSize>
-		<restrictedAge>0</restrictedAge>
-		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
-		<categoryName><![CDATA[Good Lock]]></categoryName>
-		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Add advanced features to Modes and Routines so you can make more powerful routines.
-Get additional features for your Modes and Routines.
- 
- Features:
- ● Added conditions
-  - Button action
- ● Added actions
-  - Arrow key, Touch macro, Navigation Bar type
-
-* Only available to Routines + users.
- 
-Supported languages:
-English, Korean, Chinese
- 
-[Optional permission]
-- Camera (Optional)
-  : Accesses the Camera to share routines by scanning QR codes.
-
-* Please install Android OS 11 and One UI 3.1 or later for a pleasant experience while using Routines +.
-* Feature availability may vary by device model/OS version.
-
-<ROUTINE_PLUS:3000:99999>]]></description>
 		<fromPrepost></fromPrepost>
 	</appInfo>
 	<appInfo>
