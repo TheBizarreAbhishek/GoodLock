@@ -877,10 +877,10 @@ Provide custom effect creation option.
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[1.1.02.1]]></versionName>
-		<versionCode>110201000</versionCode> 
-		<realContentSize>42561141</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[1.1.02.2]]></versionName>
+		<versionCode>110202000</versionCode> 
+		<realContentSize>42571469</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
