@@ -1,31 +1,47 @@
-# GoodLock
+# GoodLock Patched Manager
 
-### Module repository for Patched GoodLock Manager
+[![Releases](https://img.shields.io/github/v/release/TheBizarreAbhishek/GoodLock?include_prereleases&style=flat-flat&color=brightgreen)](https://github.com/TheBizarreAbhishek/GoodLock/releases)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-```
+A fully customized and patched Samsung GoodLock Manager featuring an integrated in-app downloader, advanced session installer, reliable background downloader services, and an expanded module catalog.
 
-Copyright 2020-2023 © abhishek
+---
 
-Licensed under CC BY-NC-SA 4.0
+## 📱 Features & Custom Patches
 
-https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+### 1. In-App Downloader & Real-Time Progress
+* **Horizontal Progress Bars**: Tracks downloads in real-time with visual progress bars directly inside list items.
+* **Percentage Display**: Shows exact download percentage (e.g., `45%`) dynamically.
+* **In-App Cancel Button**: Stop active downloads at any time using the cross icon button right next to the progress bar.
 
-```
+### 2. Foreground Background Download Service (`DownloadService`)
+* **Uninterrupted Downloads**: Stays active in the background as a privileged Android Foreground Service (of type `dataSync`).
+* **Interactive Notifications**: Shows real-time progress, the module's name, and its icon in your system status bar.
+* **Background Cancel Button**: Easily cancel ongoing downloads using the **"Cancel"** action button directly inside the notification.
 
-# Disclaimer
+### 3. Smart Session Installer
+* **Background Install Bypass**: Bypasses Android 10+ background activity launch restrictions. If the app is minimized or backgrounded during completion, the installation confirmation is wrapped in a high-priority system notification: **"Install [Module]" -> "Tap to start installation"**.
+* **Tap-to-Install Notification**: Tapping the notification body or clicking the **"Install"** action button launches the system package installer dialog directly.
+* **Modern PackageInstaller Session**: Uses Android's `PackageInstaller` API to install modules cleanly rather than relying on legacy system intent installers.
+* **No Stuck States**: Automatically reverts the UI button from "Installing..." back to "Install" if the user cancels or dismisses the confirmation prompt.
+* **Auto-Refresh UI**: Listens for successful installation callbacks and automatically triggers `onResume()` via reflection to update the list button to **"Open"** immediately without restarting the app.
 
-```
+---
 
-I am not responsable for anything you do with your device, don't blame me or anyone else 
+## 🛠️ Codebase Structure
 
-involved in this for your failures, you are the only one choosing to mess up with your device. 
+If you'd like to inspect or build the project from source, please switch to our dedicated codebase branch:
+* **Source Code Branch**: [`goodlock_sourcecode`](https://github.com/TheBizarreAbhishek/GoodLock/tree/goodlock_sourcecode)
 
-All the files here are pulled from Galaxy Store, if it's not there, it's not here either.
+---
 
-```
+## 📥 Installation
 
-# HOW TO USE PATCHED MANAGER 
-Just download patched manager from [here](https://github.com/TheBizarreAbhishek/GoodLock/raw/main/GoodLock%20Patched.apk), open and download or update the desired modules
+Simply download the latest patched manager APK, install it on your device, and start customizing your Samsung experience:
+👉 **[Download GoodLock Patched.apk](https://github.com/TheBizarreAbhishek/GoodLock/raw/main/GoodLock%20Patched.apk)**
 
-## credits
-thanks to [corsicanu](https://github.com/corsicanu) for modded manager though in my modified version i solved blank screen problem faced by many also some codes improvements for better functionality and automated the process of module updates 
+---
+
+## Credits
+* Initial modded manager by [corsicanu](https://github.com/corsicanu).
+* Patched, improved, and maintained by [abhishek](https://github.com/TheBizarreAbhishek).
