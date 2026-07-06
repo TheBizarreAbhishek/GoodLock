@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:background="@drawable/shape_round_rect_ripple" android:padding="15.0dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="15.0dp">
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+            <androidx.constraintlayout.widget.ConstraintLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <TextView android:textSize="13.0dp" android:textColor="@color/colorTitle" android:layout_gravity="center_vertical" android:id="@id/product" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="GoodLock" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+                <TextView android:textSize="7.0dp" android:textColor="#ffffffff" android:gravity="center" android:id="@id/new_badge" android:background="@drawable/shape_round_rect" android:layout_width="12.0dp" android:layout_height="12.0dp" android:text="@string/new_badge" android:layout_marginStart="2.0dp" android:backgroundTint="@color/colorBadge" app:layout_constraintStart_toEndOf="@id/product" app:layout_constraintTop_toTopOf="@id/product" />
+            </androidx.constraintlayout.widget.ConstraintLayout>
+            <TextView android:textSize="10.0dp" android:textColor="@color/colorBg" android:ellipsize="end" android:layout_gravity="center_vertical" android:id="@id/category" android:background="@drawable/shape_round_rect_4dp" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" android:maxLines="1" android:layout_marginStart="10.0dp" android:backgroundTint="@color/transparent" android:paddingHorizontal="10.0dp" android:paddingVertical="1.0dp" />
+            <View android:layout_gravity="center_vertical" android:id="@id/pin" android:background="@drawable/baseline_push_pin_24" android:layout_width="12.0dp" android:layout_height="12.0dp" android:rotation="30.0" android:layout_marginStart="10.0dp" android:backgroundTint="@color/colorTitle" />
+            <Space android:layout_width="match_parent" android:layout_height="1.0dp" android:layout_weight="1.0" />
+            <TextView android:textSize="11.0dp" android:textColor="@color/colorSubTitle" android:id="@id/created" android:layout_width="wrap_content" android:layout_height="18.0dp" android:text="10/30" android:layout_marginHorizontal="5.0dp" />
+        </LinearLayout>
+        <TextView android:textSize="15.0dp" android:textStyle="bold" android:textColor="@color/colorTitle" android:id="@id/title" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dp" android:text="락 앤 롤 베이비!! 락 스크린에서 락 스타가 나오게 구현 가능 한가요?" android:textAlignment="viewStart" />
+        <TextView android:textSize="12.0dp" android:textColor="@color/colorSubTitle" android:ellipsize="end" android:id="@id/description" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dp" android:text="락 앤 롤 베이비!! 락 스크린에서 락 스타가 나오게 구현 가능 한가요?" android:maxLines="2" android:textAlignment="viewStart" />
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dp">
+            <Space android:layout_width="match_parent" android:layout_height="1.0dp" android:layout_weight="1.0" />
+            <LinearLayout android:orientation="horizontal" android:id="@id/emoticon_container" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

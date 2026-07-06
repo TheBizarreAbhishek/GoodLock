@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:id="@id/information" android:layout_width="wrap_content" android:layout_height="wrap_content" android:backgroundTint="@color/colorSelectedMenu">
+        <ImageView android:layout_width="24.0dp" android:layout_height="24.0dp" android:src="@drawable/ic_home" android:tint="@color/colorTitle" android:layout_marginStart="10.0dp" android:layout_marginEnd="10.0dp" android:layout_marginVertical="8.0dp" />
+        <TextView android:textSize="17.0dp" android:textColor="@color/colorTitle" android:layout_gravity="center_vertical" android:id="@id/information_text" android:visibility="gone" android:layout_width="139.0dp" android:layout_height="wrap_content" android:text="@string/information" android:layout_marginStart="14.0dp" />
+        <ImageView android:id="@id/information_more" android:visibility="gone" android:layout_width="24.0dp" android:layout_height="24.0dp" android:src="@drawable/ic_arrow_down_24" android:tint="@color/colorTitle" android:layout_marginEnd="20.0dp" android:layout_marginVertical="8.0dp" />
+    </LinearLayout>
+    <LinearLayout android:id="@id/notice" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:backgroundTint="@color/colorSelectedMenu">
+        <ImageView android:visibility="invisible" android:layout_width="24.0dp" android:layout_height="24.0dp" android:src="@color/colorTitle" android:layout_marginStart="10.0dp" android:layout_marginEnd="10.0dp" android:layout_marginVertical="8.0dp" />
+        <TextView android:textSize="13.0dp" android:textColor="@color/colorTitle" android:layout_gravity="center_vertical" android:id="@id/notice_text" android:visibility="gone" android:layout_width="183.0dp" android:layout_height="wrap_content" android:text="@string/notice" android:layout_marginStart="14.0dp" />
+    </LinearLayout>
+    <LinearLayout android:id="@id/progress" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:backgroundTint="@color/colorSelectedMenu">
+        <ImageView android:visibility="invisible" android:layout_width="24.0dp" android:layout_height="24.0dp" android:src="@color/colorTitle" android:layout_marginStart="10.0dp" android:layout_marginEnd="10.0dp" android:layout_marginVertical="8.0dp" />
+        <TextView android:textSize="13.0dp" android:textColor="@color/colorTitle" android:layout_gravity="center_vertical" android:id="@id/progress_text" android:visibility="gone" android:layout_width="183.0dp" android:layout_height="wrap_content" android:text="@string/progress" android:layout_marginStart="14.0dp" />
+    </LinearLayout>
+    <LinearLayout android:id="@id/tips" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:backgroundTint="@color/colorSelectedMenu">
+        <ImageView android:visibility="invisible" android:layout_width="24.0dp" android:layout_height="24.0dp" android:src="@color/colorTitle" android:layout_marginStart="10.0dp" android:layout_marginEnd="10.0dp" android:layout_marginVertical="8.0dp" />
+        <TextView android:textSize="13.0dp" android:textColor="@color/colorTitle" android:layout_gravity="center_vertical" android:id="@id/tips_text" android:visibility="gone" android:layout_width="183.0dp" android:layout_height="wrap_content" android:text="@string/tips" android:layout_marginStart="14.0dp" />
+    </LinearLayout>
+    <LinearLayout android:id="@id/suggestion" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:backgroundTint="@color/colorSelectedMenu">
+        <ImageView android:visibility="invisible" android:layout_width="24.0dp" android:layout_height="24.0dp" android:src="@color/colorTitle" android:layout_marginStart="10.0dp" android:layout_marginEnd="10.0dp" android:layout_marginVertical="8.0dp" />
+        <TextView android:textSize="13.0dp" android:textColor="@color/colorTitle" android:layout_gravity="center_vertical" android:id="@id/poll_text" android:visibility="gone" android:layout_width="183.0dp" android:layout_height="wrap_content" android:text="@string/poll" android:layout_marginStart="14.0dp" />
+    </LinearLayout>
+    <LinearLayout android:id="@id/diary" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:backgroundTint="@color/colorSelectedMenu">
+        <ImageView android:visibility="invisible" android:layout_width="24.0dp" android:layout_height="24.0dp" android:src="@color/colorTitle" android:layout_marginStart="10.0dp" android:layout_marginEnd="10.0dp" android:layout_marginVertical="8.0dp" />
+        <TextView android:textSize="13.0dp" android:textColor="@color/colorTitle" android:layout_gravity="center_vertical" android:id="@id/diary_text" android:visibility="gone" android:layout_width="183.0dp" android:layout_height="wrap_content" android:text="@string/diary" android:layout_marginStart="14.0dp" />
+    </LinearLayout>
+</LinearLayout>

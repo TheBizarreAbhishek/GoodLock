@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/content_area" android:background="@color/colorContent" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingHorizontal="15.0dp" android:paddingVertical="12.0dp"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginVertical="10.0dp">
+        <TextView android:textSize="13.0dp" android:textColor="@color/colorTitle" android:layout_gravity="center_vertical" android:id="@id/product" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="     " />
+        <TextView android:textSize="10.0dp" android:textColor="@color/colorBg" android:ellipsize="end" android:layout_gravity="center_vertical" android:id="@id/category" android:background="@drawable/shape_round_rect_4dp" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" android:maxLines="1" android:layout_marginStart="10.0dp" android:backgroundTint="@color/transparent" android:paddingHorizontal="10.0dp" android:paddingVertical="1.0dp" />
+        <View android:layout_gravity="center_vertical" android:id="@id/pin" android:background="@drawable/baseline_push_pin_24" android:visibility="gone" android:layout_width="12.0dp" android:layout_height="12.0dp" android:rotation="30.0" android:layout_marginStart="10.0dp" android:backgroundTint="@color/colorTitle" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <ImageView android:id="@id/avatar" android:layout_width="26.0dp" android:layout_height="26.0dp" />
+        <TextView android:textSize="13.0dp" android:textColor="@color/colorSubTitle" android:id="@id/author" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="     " android:layout_marginStart="6.0dp" />
+        <Space android:layout_width="match_parent" android:layout_height="1.0dp" android:layout_weight="1.0" />
+        <TextView android:textSize="9.0dp" android:textColor="@color/colorSubTitle" android:id="@id/created" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="      " />
+    </LinearLayout>
+    <TextView android:textSize="17.0dp" android:textStyle="bold" android:textColor="@color/colorTitle" android:ellipsize="end" android:id="@id/title" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="      " android:maxLines="2" android:textIsSelectable="true" android:textAlignment="viewStart" android:layout_marginVertical="10.0dp" />
+    <WebView android:id="@id/content_web" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="20.0dp" />
+</LinearLayout>

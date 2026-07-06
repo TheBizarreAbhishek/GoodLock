@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="character_counter_content_description">%2$d पैकी %1$d वर्ण</string>
+    <string name="dragndroplist_drag_move">आता स्थिती %d वर</string>
+    <string name="dragndroplist_drag_release">%d जागेवर आयटेम्स ड्रॉप केले.</string>
+    <string name="dragndroplist_drag_start">%d जागेवर आयटेम ड्रॅग करणे सुरू करा.</string>
+    <string name="dragndroplist_item_cannot_be_dragged">%d जागेवरील आयटेम्स ड्रॅग केले जाऊ शकत नाहीत.</string>
+    <string name="dream_ph_body_contact_p1sscustomer_servicep2ss_for_more_information_n_nerror_code_c_p3ss">"अधिक माहिती साठी %1$sग्राहक सेवे%2$s शी संपर्क करा.
+
+त्रुटी कोड: %3$s"</string>
+    <string name="dream_ph_body_to_complete_this_purchase_you_need_to_enable_the_galaxy_store_in_settings">ही खरेदी पूर्ण करण्या साठी, आपल्याला सेटिंग्स मध्ये Galaxy Store सक्षम करणे आवश्यक आहे.</string>
+    <string name="dream_ph_body_to_complete_this_purchase_you_need_to_update_the_galaxy_store">ही खरेदी पूर्ण करण्या साठी, आपल्याला Galaxy Store अद्ययावत करणे आवश्यक आहे.</string>
+    <string name="dream_ph_pheader_couldnt_complete_purchase">खरेदी पूर्ण करू शकलो नाही</string>
+    <string name="dream_sapps_body_authenticating_ing">प्रमाणित करत आहे…</string>
+    <string name="dream_sapps_body_contact_customer_service_to_complete_your_purchase">आपली खरेदी पूर्ण करण्या साठी ग्राहक सेवेशी संपर्क साधा.</string>
+    <string name="dream_sapps_body_your_purchase_is_complete">आपली खरेदी पूर्ण झाली आहे.</string>
+    <string name="ids_com_body_error_code_c">त्रुटी कोड:</string>
+    <string name="mids_sapps_body_waiting_ing">प्रतीक्षा करत आहे…</string>
+    <string name="mids_sapps_header_samsung_in_app_purchase_abb">सॅमसंग इन-ऍप खरेदी</string>
+    <string name="mids_sapps_header_update_galaxy_apps">Galaxy Apps अद्ययावत करा</string>
+    <string name="mids_sapps_pop_a_new_version_is_available_galaxy_apps_will_be_updated_to_the_latest_version_to_complete_this_purchase">नवीन आवृत्ती उपलब्‍ध आहे. ही खरेदी पूर्ण करण्या साठी Galaxy Apps नवीनतम आवृत्तीत अद्ययावत केले जाईल.</string>
+    <string name="mids_sapps_pop_an_invalid_value_has_been_provided_for_samsung_in_app_purchase">सॅमसंग इन-ऍप पर्चेससाठी एक अग्राह्य मूल्य पुरवले गेले आहे.</string>
+    <string name="mids_sapps_pop_payment_canceled">देय रद्द केलेले.</string>
+    <string name="mids_sapps_pop_to_purchase_items_you_need_to_install_samsung_in_app_purchase_install_q">आयटेम्स खरेदी करण्यासाठी, आपण सॅमसंग इन-ऍप पर्चेस इन्स्टॉल करणे गरजेचे आहे. इन्स्टॉल करायचे?</string>
+    <string name="mids_sapps_pop_unable_to_open_samsung_in_app_purchase_msg">सॅमसंग इन-ऍप पर्चेस उघडण्यात अक्षम. परवानग्यांवर जा, नंतर आवश्यक परवानग्‍यांना अनुमती द्या आणि पुन्‍हा प्रयत्‍न करा.</string>
+    <string name="mids_sapps_pop_unknown_error_occurred">अज्ञात त्रुटी आली.</string>
+    <string name="sesl_action_bar_up_description">वर नेव्हिगेट करा.</string>
+    <string name="sesl_action_menu_overflow_badge_description">नवीन सामग्री उपलब्ध</string>
+    <string name="sesl_action_menu_overflow_badge_text_n">नव.</string>
+    <string name="sesl_action_menu_overflow_description">अधिक पर्याय</string>
+    <string name="sesl_index_assistant_text">स्क्रोल करण्यासाठी दोन बोटांनी वर किंवा खाली स्वाइप करा.</string>
+    <string name="sesl_index_scrollbar">स्‍क्रोल बार</string>
+    <string name="sesl_index_section">विभाग निर्देशांक</string>
+    <string name="sesl_index_selected">निवडले</string>
+    <string name="sesl_material_badge_description">नवीन सामग्री उपलब्ध</string>
+    <string name="sesl_material_overflow_badge_text_n">नव.</string>
+    <string name="sesl_more_item_label">अधिक</string>
+    <string name="sesl_preferencecategory_added_title">हेडर</string>
+    <string name="sesl_search_hint">शोधा</string>
+    <string name="sesl_searchview_description_clear">शोध क्षेत्र साफ करा</string>
+    <string name="sesl_searchview_description_query">क्वेरी शोधा</string>
+    <string name="sesl_searchview_description_search">शोधा</string>
+    <string name="sesl_searchview_description_submit">क्वेरी सबमिट करा.</string>
+    <string name="sesl_searchview_description_voice">आवाज शोध</string>
+    <string name="sesl_switch_off">बंद आहे</string>
+    <string name="sesl_switch_on">चालू आहे</string>
+    <string name="sesl_switchbar_off_text">बंद</string>
+    <string name="sesl_switchbar_on_text">चालू</string>
+    <string name="sesl_toolbar_collapse_description">संक्षिप्त करा</string>
+</resources>

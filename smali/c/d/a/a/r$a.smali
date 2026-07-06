@@ -1,0 +1,40 @@
+.class public final Lc/d/a/a/r$a;
+.super Ljava/lang/Object;
+.source "SourceFile"
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingClass;
+    value = Lc/d/a/a/r;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x19
+    name = "a"
+.end annotation
+
+
+# static fields
+.field public static final a:Lc/d/a/a/r;
+
+
+# direct methods
+.method public static constructor <clinit>()V
+    .locals 1
+
+    new-instance v0, Lc/d/a/a/r;
+
+    invoke-direct {v0}, Lc/d/a/a/r;-><init>()V
+
+    sput-object v0, Lc/d/a/a/r$a;->a:Lc/d/a/a/r;
+
+    return-void
+.end method
+
+.method public static synthetic a()Lc/d/a/a/r;
+    .locals 1
+
+    sget-object v0, Lc/d/a/a/r$a;->a:Lc/d/a/a/r;
+
+    return-object v0
+.end method

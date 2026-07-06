@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="character_counter_content_description">%2$d белгиден %1$d белги</string>
+    <string name="dragndroplist_drag_move">Эми %d абалында</string>
+    <string name="dragndroplist_drag_release">Нерсе %d турагына ташталды.</string>
+    <string name="dragndroplist_drag_start">Нерсе сүйрөөнү %d турагынан баштоо.</string>
+    <string name="dragndroplist_item_cannot_be_dragged">%d туракты алган нерсени сүйрөөгө болбойт.</string>
+    <string name="dream_ph_body_contact_p1sscustomer_servicep2ss_for_more_information_n_nerror_code_c_p3ss">"Кеңири маалымат алуу үчүн, %1$sКардарлар Кызматы%2$s менен байланышыңыз.
+
+Ката коду: %3$s"</string>
+    <string name="dream_ph_body_to_complete_this_purchase_you_need_to_enable_the_galaxy_store_in_settings">Сатып алуу үчүн, Жөндөөлөрдөн Galaxy Store кызматын иштетиңиз.</string>
+    <string name="dream_ph_body_to_complete_this_purchase_you_need_to_update_the_galaxy_store">Сатып алуу үчүн, Galaxy Store кызматын жаңыртыңыз.</string>
+    <string name="dream_ph_pheader_couldnt_complete_purchase">Сатып алуу аякталбай койду</string>
+    <string name="dream_sapps_body_authenticating_ing">Накталыкты текшерүү…</string>
+    <string name="dream_sapps_body_contact_customer_service_to_complete_your_purchase">Сатып алууңузду аяктоо үчүн Кардарлар Кызматыңыз менен байланышыңыз.</string>
+    <string name="dream_sapps_body_your_purchase_is_complete">Сатып алууңуз аягына чыкты.</string>
+    <string name="ids_com_body_error_code_c">Ката коду:</string>
+    <string name="mids_sapps_body_waiting_ing">Күтүүдө…</string>
+    <string name="mids_sapps_header_samsung_in_app_purchase_abb">Samsung In-App Purchase</string>
+    <string name="mids_sapps_header_update_galaxy_apps">"Galaxy Apps'ты жаңыртуу"</string>
+    <string name="mids_sapps_pop_a_new_version_is_available_galaxy_apps_will_be_updated_to_the_latest_version_to_complete_this_purchase">Жаңы нуска жеткиликтүү. Galaxy Apps эң акыркы нускасына жаңыланып, бул сатып алууну аяктайт.</string>
+    <string name="mids_sapps_pop_an_invalid_value_has_been_provided_for_samsung_in_app_purchase">Samsung In-App Purchase үчүн орунсуз нарк берилди</string>
+    <string name="mids_sapps_pop_payment_canceled">Төлөм токтотулду</string>
+    <string name="mids_sapps_pop_to_purchase_items_you_need_to_install_samsung_in_app_purchase_install_q">Нерселерди сатып алуу үчүн, сизге Samsung In-App Purchase орнотуу керек. Орнотуубу?</string>
+    <string name="mids_sapps_pop_unable_to_open_samsung_in_app_purchase_msg">"Samsung In-App Purchase'ди ачуу мүмкүн эмес. Уруксаттарга барыңыз, андан соң төмөнкүлөргө уруксат берип, дагы аракеттениңиз."</string>
+    <string name="mids_sapps_pop_unknown_error_occurred">Белгисиз ката пайда болду</string>
+    <string name="sesl_action_bar_up_description">Өйдө жол өтүү</string>
+    <string name="sesl_action_menu_overflow_badge_description">Жаңы мазмун байкалат</string>
+    <string name="sesl_action_menu_overflow_badge_text_n">Ж</string>
+    <string name="sesl_action_menu_overflow_description">Дагы тандоолор</string>
+    <string name="sesl_index_assistant_text">Жылдыруу үчүн эки бармагыңыз менен өйдө же ылдый жылдырыңыз.</string>
+    <string name="sesl_index_scrollbar">Айландыруу тилкеси</string>
+    <string name="sesl_index_section">Бөлүм индекси</string>
+    <string name="sesl_index_selected">Тандалды</string>
+    <string name="sesl_material_badge_description">Жаңы мазмун байкалат</string>
+    <string name="sesl_material_overflow_badge_text_n">Ж</string>
+    <string name="sesl_more_item_label">Дагы</string>
+    <string name="sesl_preferencecategory_added_title">Баш аты</string>
+    <string name="sesl_search_hint">Издөө</string>
+    <string name="sesl_searchview_description_clear">Издөө талаасын тазалоо</string>
+    <string name="sesl_searchview_description_query">Издөө сурамы</string>
+    <string name="sesl_searchview_description_search">Издөө</string>
+    <string name="sesl_searchview_description_submit">Сурамды которуу</string>
+    <string name="sesl_searchview_description_voice">Үн издөө</string>
+    <string name="sesl_switch_off">Өчүк</string>
+    <string name="sesl_switch_on">Күйүк</string>
+    <string name="sesl_switchbar_off_text">Өчүрүү</string>
+    <string name="sesl_switchbar_on_text">Күйүк</string>
+    <string name="sesl_toolbar_collapse_description">Жыюу</string>
+</resources>

@@ -1,0 +1,196 @@
+{
+  "privacyPolicyVersion": 1,
+  "minimumAppVersionCode": 1,
+  "privacyPolicyUrl": "https://cdn.goodlocklabs.com/terrace/tnc/privacy_policy_v01.htm",
+  "privacyAgreeUrl": "https://cdn.goodlocklabs.com/terrace/tnc/privacy_agree_v01.htm",
+  "seasoningUrlLight": "https://cdn.goodlocklabs.com/terrace/season/2023_FamilyMonth.json",
+  "seasoningUrlDark": "https://cdn.goodlocklabs.com/terrace/season/2023_FamilyMonth.json",
+  "serviceState": "working",
+  "product": [
+    [
+      "KeysCafe",
+      "Keys Cafe",
+      "com.samsung.android.keyscafe",
+      "https://cdn.goodlocklabs.com/terrace/product/keyscafe.png",
+      "키즈카페 keyboard"
+    ],
+    [
+      "LockStar",
+      "LockStar",
+      "com.samsung.systemui.lockstar",
+      "https://cdn.goodlocklabs.com/terrace/product/lockstar.png",
+      "락스타"
+    ],
+    [
+      "Wonderland",
+      "Wonderland",
+      "com.samsung.android.wonderland.wallpaper",
+      "https://cdn.goodlocklabs.com/terrace/product/wonderland.png",
+      "wonderland 원더랜드"
+    ],
+    [
+      "QuickStar",
+      "QuickStar",
+      "com.samsung.android.qstuner",
+      "https://cdn.goodlocklabs.com/terrace/product/quickstar.png",
+      "퀵스타"
+    ],
+    [
+      "ThemePark",
+      "Theme Park",
+      "com.samsung.android.themedesigner",
+      "https://cdn.goodlocklabs.com/terrace/product/themepark.png",
+      "테마파크 themepark"
+    ],
+    [
+      "NiceCatch",
+      "Nice Catch",
+      "com.samsung.android.app.goodcatch",
+      "https://cdn.goodlocklabs.com/terrace/product/nicecatch.png",
+      "나이스캐치"
+    ],
+    [
+      "OneHandOperation",
+      "One Hand Operation +",
+      "com.samsung.android.sidegesturepad",
+      "https://cdn.goodlocklabs.com/terrace/product/onehandoperation.png",
+      "원핸드오퍼레이션 OneHandOperation"
+    ],
+    [
+      "ClockFace",
+      "ClockFace",
+      "com.samsung.android.app.clockface",
+      "https://cdn.goodlocklabs.com/terrace/product/clockface.png",
+      "클락페이스"
+    ],
+    [
+      "MultiStar",
+      "MultiStar",
+      "com.samsung.android.multistar",
+      "https://cdn.goodlocklabs.com/terrace/product/multistar.png",
+      "멀티스타"
+    ],
+    [
+      "NavStar",
+      "NavStar",
+      "com.samsung.systemui.navillera",
+      "https://cdn.goodlocklabs.com/terrace/product/navstar.png",
+      "네비스타"
+    ],
+    [
+      "EdgeTouch",
+      "EdgeTouch",
+      "com.samsung.android.app.edgetouch",
+      "https://cdn.goodlocklabs.com/terrace/product/edgetouch.png",
+      "엣지터치"
+    ],
+    [
+      "HomeUp",
+      "Home Up",
+      "com.samsung.android.app.homestar",
+      "https://cdn.goodlocklabs.com/terrace/product/homeup.png",
+      "홈업 테스크체인저 taskchanger"
+    ],
+    [
+      "NotiStar",
+      "NotiStar",
+      "com.samsung.systemui.notilus",
+      "https://cdn.goodlocklabs.com/terrace/product/notistar.png",
+      "노티스타"
+    ],
+    [
+      "SoundAssistant",
+      "Sound Assistant",
+      "com.samsung.android.soundassistant",
+      "https://cdn.goodlocklabs.com/terrace/product/soundassistant.png",
+      "사운드어시스턴트"
+    ],
+    [
+      "NiceShot",
+      "Nice Shot",
+      "com.samsung.android.app.captureplugin",
+      "https://cdn.goodlocklabs.com/terrace/product/niceshot.png",
+      "나이스샷"
+    ],
+    [
+      "RoutinePlus",
+      "Routines +",
+      "com.samsung.android.app.routineplus",
+      "https://cdn.goodlocklabs.com/terrace/product/routineplus.png",
+      "루틴플러스"
+    ],
+    [
+      "Pentastic",
+      "Pentastic",
+      "com.samsung.android.pentastic",
+      "https://cdn.goodlocklabs.com/terrace/product/pentastic.png",
+      "펜타스틱"
+    ],
+    [
+      "TaskChanger",
+      "Task Changer",
+      "com.samsung.android.pluginrecents",
+      "https://cdn.goodlocklabs.com/terrace/product/taskchanger.png",
+      "테스크체인저 홈업 homeup"
+    ],
+    [
+      "EdgeLighting",
+      "EdgeLighting +",
+      "com.samsung.android.edgelightingeffectunit",
+      "https://cdn.goodlocklabs.com/terrace/product/edgelighting.png",
+      "엣지라이팅"
+    ],
+    [
+      "Routines",
+      "Routines",
+      "com.samsung.android.app.routine2",
+      "https://cdn.goodlocklabs.com/terrace/product/routines.png",
+      "루틴"
+    ],
+    [
+      "Goodlock",
+      "Good Lock",
+      "com.samsung.android.goodlock",
+      "https://cdn.goodlocklabs.com/terrace/product/goodlock.png",
+      ""
+    ],
+    [
+      "Dropship",
+      "Dropship",
+      "com.samsung.dropship_client",
+      "https://cdn.goodlocklabs.com/terrace/product/dropship.png",
+      "공유 share 드랍쉽 드랍십"
+    ],
+    [
+      "GTS",
+      "Galaxy To Share",
+      "com.samsung.android.gts",
+      "https://cdn.goodlocklabs.com/terrace/product/gts.png",
+      "지티에스"
+    ],
+    [
+      "CameraAssistant",
+      "Camera Assistant",
+      "com.samsung.android.app.cameraassistant",
+      "https://cdn.goodlocklabs.com/terrace/product/cameraassistant.png",
+      "카메라어시스턴트"
+    ],
+    [
+      "RegiStar",
+      "RegiStar",
+      "com.samsung.android.app.galaxyregistry",
+      "https://cdn.goodlocklabs.com/terrace/product/registar.png",
+      "레지스타"
+    ]
+  ],
+  "pluginPolicy": [
+    {
+      "packageName": "com.samsung.dropship_client",
+      "beta": true
+    },
+    {
+      "packageName": "com.samsung.android.gts",
+      "beta": true
+    }
+  ]
+}

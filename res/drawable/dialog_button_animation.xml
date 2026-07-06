@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_enabled="true" android:state_pressed="true">
+        <layer-list>
+            <item>
+                <shape android:shape="rectangle">
+                    <corners android:radius="18.0dp" />
+                    <solid android:color="@color/dialog_button_pressed" />
+                    <stroke android:width="0.0dp" android:color="@color/dialog_button_pressed" />
+                </shape>
+            </item>
+        </layer-list>
+    </item>
+    <item android:state_focused="true" android:state_enabled="true">
+        <layer-list>
+            <item>
+                <shape android:shape="rectangle">
+                    <corners android:radius="18.0dp" />
+                    <solid android:color="@color/dialog_button_pressed" />
+                    <stroke android:width="0.0dp" android:color="@color/dialog_button_pressed" />
+                </shape>
+            </item>
+        </layer-list>
+    </item>
+    <item android:state_enabled="false" android:alpha="0.4">
+        <shape android:shape="rectangle">
+            <corners android:radius="18.0dp" />
+            <solid android:color="@color/transparent" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="18.0dp" />
+            <solid android:color="@color/transparent" />
+        </shape>
+    </item>
+</selector>

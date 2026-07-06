@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="character_counter_content_description">%1$d ក្នុង​ចំណោម %2$d តួ</string>
+    <string name="dragndroplist_drag_move">ឥឡូវ​នៅ​ទីតាំង %d</string>
+    <string name="dragndroplist_drag_release">បាន​ទម្លាក់​ធាតុ​ទៅក្នុង​ទីតាំង %d។</string>
+    <string name="dragndroplist_drag_start">បាន​ចាប់ផ្ដើម​អូស​ធាតុ​នៅ​ទីតាំង %d។</string>
+    <string name="dragndroplist_item_cannot_be_dragged">ធាតុ​នៅ​ទីតាំង %d មិន​អាច​អូស​បាន​ទេ។</string>
+    <string name="dream_ph_body_contact_p1sscustomer_servicep2ss_for_more_information_n_nerror_code_c_p3ss">"ទាក់ទង​%1$sសេវា​អតិថិជន%2$s ដើម្បី​ទទួល​ព័ត៌មាន​បន្ថែម។
+
+កូដ​កំហុស៖ %3$s"</string>
+    <string name="dream_ph_body_to_complete_this_purchase_you_need_to_enable_the_galaxy_store_in_settings">ដើម្បី​បញ្ចប់​ការទិញ​នេះ អ្នក​ត្រូវ​បើកប្រើ Galaxy Store ក្នុង ការកំណត់។</string>
+    <string name="dream_ph_body_to_complete_this_purchase_you_need_to_update_the_galaxy_store">ដើម្បី​បញ្ចប់​ការទិញ​នេះ អ្នក​ត្រូវ​អាប់ដេត Galaxy Store។</string>
+    <string name="dream_ph_pheader_couldnt_complete_purchase">មិន​អាច​បញ្ចប់​ការទិញ</string>
+    <string name="dream_sapps_body_authenticating_ing">កំពុង​ផ្ទៀងផ្ទាត់​ភាពពិត…</string>
+    <string name="dream_sapps_body_contact_customer_service_to_complete_your_purchase">ទាក់ទង​សេវា​អតិថិជន ដើម្បី​បញ្ចប់​ការទិញ​របស់​អ្នក។</string>
+    <string name="dream_sapps_body_your_purchase_is_complete">ការទិញ​របស់​អ្នក​បាន​បញ្ចប់។</string>
+    <string name="ids_com_body_error_code_c">កូដ​កំហុស៖</string>
+    <string name="mids_sapps_body_waiting_ing">កំពុង​រង់ចាំ…</string>
+    <string name="mids_sapps_header_samsung_in_app_purchase_abb">Samsung In-App Purchase</string>
+    <string name="mids_sapps_header_update_galaxy_apps">អាប់ដេត Galaxy Apps</string>
+    <string name="mids_sapps_pop_a_new_version_is_available_galaxy_apps_will_be_updated_to_the_latest_version_to_complete_this_purchase">មាន​កំណែ​ថ្មី។ Galaxy Apps នឹង​ត្រូវ​បាន​អាប់ដេត​ទៅ​កំណែ​ថ្មី​បំផុត ដើម្បី​បញ្ចប់​ការទិញ​នេះ។</string>
+    <string name="mids_sapps_pop_an_invalid_value_has_been_provided_for_samsung_in_app_purchase">បាន​ផ្ដល់​តម្លៃ​អសុពលភាព​សម្រាប់​ការទិញ​ក្នុង​កម្មវិធី Samsung។</string>
+    <string name="mids_sapps_pop_payment_canceled">បាន​បោះបង់​ការបង់ប្រាក់។</string>
+    <string name="mids_sapps_pop_to_purchase_items_you_need_to_install_samsung_in_app_purchase_install_q">ដើម្បី​ទិញ​ធាតុនានា អ្នក​ចាំបាច់ត្រូវ​ដំឡើង Samsung In-App Purchase។ ដំឡើង?</string>
+    <string name="mids_sapps_pop_unable_to_open_samsung_in_app_purchase_msg">មិន​អាច​បើក Samsung In-App Purchase។ ចូលទៅ​ការអនុញ្ញាត រួច​ផ្ដល់​ការអនុញ្ញាត​ដែល​ត្រូវការ ហើយ​សាកល្បង​ម្ដងទៀត។</string>
+    <string name="mids_sapps_pop_unknown_error_occurred">កំហុស​មិន​ស្គាល់​បាន​កើតឡើង។</string>
+    <string name="sesl_action_bar_up_description">ទៅ​លើ</string>
+    <string name="sesl_action_menu_overflow_badge_description">មាន​ខ្លឹមព័ត៌មាន​ថ្មី</string>
+    <string name="sesl_action_menu_overflow_badge_text_n">ថ្មី</string>
+    <string name="sesl_action_menu_overflow_description">ជម្រើស​ច្រើនទៀត</string>
+    <string name="sesl_index_assistant_text">ប្រើ​ម្រាមដៃ​ពីរ​អូស​ឡើង​ឬ​ចុះ ដើម្បី​រំកិល។</string>
+    <string name="sesl_index_scrollbar">របារ​រំកិល</string>
+    <string name="sesl_index_section">ផ្នែក​លិបិក្រម</string>
+    <string name="sesl_index_selected">បាន​ជ្រើស</string>
+    <string name="sesl_material_badge_description">មាន​ខ្លឹមព័ត៌មាន​ថ្មី</string>
+    <string name="sesl_material_overflow_badge_text_n">ថ្មី</string>
+    <string name="sesl_more_item_label">ច្រើន​ទៀត</string>
+    <string name="sesl_preferencecategory_added_title">ក្បាលទំព័រ</string>
+    <string name="sesl_search_hint">ស្វែងរក</string>
+    <string name="sesl_searchview_description_clear">ជម្រះ​វាល​ស្វែងរក</string>
+    <string name="sesl_searchview_description_query">ស្វែងរក​សំណួរ</string>
+    <string name="sesl_searchview_description_search">ស្វែងរក</string>
+    <string name="sesl_searchview_description_submit">ប្រគល់​សំណួរ</string>
+    <string name="sesl_searchview_description_voice">ការស្វែងរក​ដោយ​សំឡេង</string>
+    <string name="sesl_switch_off">បិទ</string>
+    <string name="sesl_switch_on">បើក</string>
+    <string name="sesl_switchbar_off_text">បិទ</string>
+    <string name="sesl_switchbar_on_text">បើក</string>
+    <string name="sesl_toolbar_collapse_description">វេញ</string>
+</resources>

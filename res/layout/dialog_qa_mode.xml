@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:padding="5.0dp" android:layout_width="200.0dp" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <Switch android:id="@id/qa_mode" android:padding="10.0dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="QA Mode" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+    <Switch android:id="@id/stg_server" android:padding="10.0dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="STG Server" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toBottomOf="@id/qa_mode" />
+    <Switch android:id="@id/korea_mode" android:padding="10.0dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Korea" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toBottomOf="@id/stg_server" />
+    <Switch android:id="@id/retro_mode" android:padding="10.0dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Retro Mode" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toBottomOf="@id/korea_mode" />
+</androidx.constraintlayout.widget.ConstraintLayout>

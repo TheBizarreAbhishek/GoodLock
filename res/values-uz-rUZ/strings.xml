@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="character_counter_content_description">%2$d ta belgidan %1$d tasi</string>
+    <string name="dragndroplist_drag_move">Hozir %d holatda</string>
+    <string name="dragndroplist_drag_release">Element %d holatga olib borib qo‘yildi.</string>
+    <string name="dragndroplist_drag_start">Elementni %d holatiga tortib o‘tkazish boshlandi.</string>
+    <string name="dragndroplist_item_cannot_be_dragged">%d holatidagi elementni tortib o‘tkazib bo‘lmaydi.</string>
+    <string name="dream_ph_body_contact_p1sscustomer_servicep2ss_for_more_information_n_nerror_code_c_p3ss">"Qo‘shimcha ma’lumot olish uchun %1$sMijozlarga xizmat ko‘rsatish markazi%2$s bilan bog‘laning.
+
+Xato kodi: %3$s"</string>
+    <string name="dream_ph_body_to_complete_this_purchase_you_need_to_enable_the_galaxy_store_in_settings">Bu xaridni yakunlash uchun Parametrlarda Galaxy Store’ni yoqishingiz zarur.</string>
+    <string name="dream_ph_body_to_complete_this_purchase_you_need_to_update_the_galaxy_store">Bu xaridni yakunlash uchun Galaxy Store’ni yangilashingiz zarur.</string>
+    <string name="dream_ph_pheader_couldnt_complete_purchase">Xaridni amalga oshirib bo‘lmadi</string>
+    <string name="dream_sapps_body_authenticating_ing">Haqiqiylik tekshirilmoqda…</string>
+    <string name="dream_sapps_body_contact_customer_service_to_complete_your_purchase">Xaridni amalga oshirish uchun Mijozlarga xizmat ko‘rsatish markazi bilan bog‘laning.</string>
+    <string name="dream_sapps_body_your_purchase_is_complete">Xaridingiz amalga oshirildi.</string>
+    <string name="ids_com_body_error_code_c">Xato kodi:</string>
+    <string name="mids_sapps_body_waiting_ing">Kutilmoqda…</string>
+    <string name="mids_sapps_header_samsung_in_app_purchase_abb">Samsung In-App Purchase</string>
+    <string name="mids_sapps_header_update_galaxy_apps">Galaxy Apps’ni yangilash</string>
+    <string name="mids_sapps_pop_a_new_version_is_available_galaxy_apps_will_be_updated_to_the_latest_version_to_complete_this_purchase">Yangi versiya mavjud. Ushbu xaridni nihoyasiga yetkazish uchun Galaxy Apps eng oxirgi versiyaga yangilanadi.</string>
+    <string name="mids_sapps_pop_an_invalid_value_has_been_provided_for_samsung_in_app_purchase">Samsung In-App Purchase uchun mumkin bo‘lmagan qiymat taqdim etilgan.</string>
+    <string name="mids_sapps_pop_payment_canceled">To‘lov bekor qilindi.</string>
+    <string name="mids_sapps_pop_to_purchase_items_you_need_to_install_samsung_in_app_purchase_install_q">Elementlarni xarid qilish uchun Samsung In-App Purchase-ni o‘rnating. O‘rnatilsinmi?</string>
+    <string name="mids_sapps_pop_unable_to_open_samsung_in_app_purchase_msg">Samsung In-App Purchase’ni ochib bo‘lmaydi. Ruxsatlarga o‘ting, so‘ngra quyidagi ruxsatlarga ijozat bering va qayta urinib ko‘ring.</string>
+    <string name="mids_sapps_pop_unknown_error_occurred">Noma’lum xato yuz berdi.</string>
+    <string name="sesl_action_bar_up_description">Yuqoriga</string>
+    <string name="sesl_action_menu_overflow_badge_description">Yangi tarkib mavjud</string>
+    <string name="sesl_action_menu_overflow_badge_text_n">Y</string>
+    <string name="sesl_action_menu_overflow_description">Qo‘shimcha opsiyalar</string>
+    <string name="sesl_index_assistant_text">Aylantirish uchun ikkita barmoq bilan yuqoriga yoki pastga suring.</string>
+    <string name="sesl_index_scrollbar">Aylantirish satri</string>
+    <string name="sesl_index_section">Boʻlim indeksi</string>
+    <string name="sesl_index_selected">Tanlangan</string>
+    <string name="sesl_material_badge_description">Yangi tarkib mavjud</string>
+    <string name="sesl_material_overflow_badge_text_n">Y</string>
+    <string name="sesl_more_item_label">Ko‘proq</string>
+    <string name="sesl_preferencecategory_added_title">Sarlavha</string>
+    <string name="sesl_search_hint">Qidirish</string>
+    <string name="sesl_searchview_description_clear">Qidirish maydonini tozalash</string>
+    <string name="sesl_searchview_description_query">Qidirish so‘rovi</string>
+    <string name="sesl_searchview_description_search">Qidirish</string>
+    <string name="sesl_searchview_description_submit">So‘rovni jo‘natish</string>
+    <string name="sesl_searchview_description_voice">Ovozli qidirish</string>
+    <string name="sesl_switch_off">O‘chirilgan</string>
+    <string name="sesl_switch_on">Yoqilgan</string>
+    <string name="sesl_switchbar_off_text">O‘ch</string>
+    <string name="sesl_switchbar_on_text">Yoq.</string>
+    <string name="sesl_toolbar_collapse_description">O‘rash</string>
+</resources>

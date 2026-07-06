@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation android:id="@id/nav_graph" app:startDestination="@id/makeup"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <fragment android:label="GoodLock" android:name="com.samsung.android.goodlock.PluginListFragment" android:id="@id/makeup">
+        <argument android:name="category" android:defaultValue="0" app:argType="integer" />
+    </fragment>
+    <fragment android:label="GoodLock" android:name="com.samsung.android.goodlock.PluginListFragment" android:id="@id/lifeup">
+        <argument android:name="category" android:defaultValue="1" app:argType="integer" />
+    </fragment>
+</navigation>

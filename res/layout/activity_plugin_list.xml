@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.slidingpanelayout.widget.SlidingPaneLayout android:id="@id/sliding_pane_layout" android:tag="layout/activity_plugin_list_0" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.samsung.android.goodlock.terrace.view.SideNavigationView android:id="@id/side_panel" android:layout_width="270.0dp" android:layout_height="match_parent" />
+    <LinearLayout android:orientation="vertical" android:id="@id/partial_pane" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginStart="@dimen/partial_pane_width">
+        <androidx.coordinatorlayout.widget.CoordinatorLayout android:id="@id/main_view" android:background="@color/colorBg" android:paddingTop="24.0dp" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1.0">
+            <com.google.android.material.appbar.AppBarLayout android:id="@id/app_bar_layout" android:layout_width="match_parent" android:layout_height="match_parent">
+                <com.google.android.material.appbar.CollapsingToolbarLayout android:id="@id/collapsing_app_bar" android:background="@color/colorBg" android:layout_width="match_parent" android:layout_height="match_parent" app:layout_scrollFlags="scroll|exitUntilCollapsed|snap" app:subtitle="@string/redesign" app:title="Good Lock">
+                    <com.airbnb.lottie.LottieAnimationView android:id="@id/lottie" android:paddingTop="10.0dp" android:layout_width="match_parent" android:layout_height="match_parent" android:scaleType="fitCenter" app:lottie_autoPlay="true" app:lottie_loop="true" />
+                    <androidx.appcompat.widget.Toolbar android:layout_gravity="bottom" android:id="@id/toolbar" android:layout_width="match_parent" android:layout_height="?actionBarSize" android:title="Good Lock" app:layout_collapseMode="pin" />
+                </com.google.android.material.appbar.CollapsingToolbarLayout>
+            </com.google.android.material.appbar.AppBarLayout>
+            <androidx.fragment.app.FragmentContainerView android:name="androidx.navigation.fragment.NavHostFragment" android:id="@id/nav_host_container" android:layout_width="match_parent" android:layout_height="match_parent" app:defaultNavHost="true" app:layout_behavior="@string/appbar_scrolling_view_behavior" />
+        </androidx.coordinatorlayout.widget.CoordinatorLayout>
+        <LinearLayout android:orientation="horizontal" android:background="@color/colorBg" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <ImageView android:layout_gravity="center" android:id="@id/hide_tab" android:padding="10.0dp" android:layout_width="40.0dp" android:layout_height="40.0dp" android:src="@drawable/baseline_subdirectory_arrow_left_24" android:tint="@color/colorTitle" android:alpha="0.25" android:rotation="90.0" />
+            <com.google.android.material.tabs.TabLayout android:id="@id/tabs" android:background="@color/colorBg" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_weight="1.0" app:tabGravity="fill" app:tabIndicatorColor="@android:color/transparent" app:tabMode="fixed" app:tabSelectedTextColor="@color/colorTitle" app:tabTextColor="@color/colorSubTitle" />
+        </LinearLayout>
+    </LinearLayout>
+</androidx.slidingpanelayout.widget.SlidingPaneLayout>

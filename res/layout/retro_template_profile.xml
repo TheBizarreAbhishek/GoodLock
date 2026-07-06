@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.samsung.android.goodlock.terrace.retro.RetroImageView android:id="@id/icon" android:layout_width="66.0dp" android:layout_height="66.0dp" android:scaleType="fitXY" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+    <com.samsung.android.goodlock.terrace.retro.RetroTextView android:id="@id/name" android:layout_width="0.0dp" android:layout_height="@dimen/retro_text_view_height" android:layout_marginStart="7.0dp" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toEndOf="@id/icon" app:layout_constraintTop_toTopOf="parent" />
+    <com.samsung.android.goodlock.terrace.retro.RetroTextView android:id="@id/message" android:layout_width="0.0dp" android:layout_height="wrap_content" android:maxLines="2" android:layout_marginStart="7.0dp" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toEndOf="@id/icon" app:layout_constraintTop_toBottomOf="@id/name" />
+    <View android:id="@id/divider" android:background="@drawable/retro_line" android:layout_width="match_parent" android:layout_height="@dimen/retro_text_view_height" app:layout_constraintTop_toBottomOf="@id/icon" />
+</androidx.constraintlayout.widget.ConstraintLayout>

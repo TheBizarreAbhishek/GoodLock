@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="character_counter_content_description">%2$d тэмдэгтээс %1$d</string>
+    <string name="dragndroplist_drag_move">Одоо %d байрлалд</string>
+    <string name="dragndroplist_drag_release">Зүйлийг байршил %d-д тавьсан.</string>
+    <string name="dragndroplist_drag_start">Зүйлийг байршил %d-д чирж эхэллээ.</string>
+    <string name="dragndroplist_item_cannot_be_dragged">Байршил %d дахь зүйлийг чирэх боломжгүй.</string>
+    <string name="dream_ph_body_contact_p1sscustomer_servicep2ss_for_more_information_n_nerror_code_c_p3ss">"Илүү их мэдээлэл авахын тулд %1$sХэрэглэгчийн үйлчилгээ%2$s рүү холбогдоно уу.
+
+Алдаатай код: %3$s"</string>
+    <string name="dream_ph_body_to_complete_this_purchase_you_need_to_enable_the_galaxy_store_in_settings">Энэ худалдан авалтыг дуусгахын тулд та Тохиргоо дотроос Galaxy Store-г идэвхжүүлэх хэрэгтэй.</string>
+    <string name="dream_ph_body_to_complete_this_purchase_you_need_to_update_the_galaxy_store">Энэ худалдан авалтыг дуусгахын тулд та Galaxy Store-г шинэчлэх хэрэгтэй.</string>
+    <string name="dream_ph_pheader_couldnt_complete_purchase">Худалдан авалтыг гүйцээж чадсангүй</string>
+    <string name="dream_sapps_body_authenticating_ing">Баталгаажуулж байна…</string>
+    <string name="dream_sapps_body_contact_customer_service_to_complete_your_purchase">Худалдан авалтаа дуусгахын тулд Үйлчилгээний албатай холбогдоно уу.</string>
+    <string name="dream_sapps_body_your_purchase_is_complete">Таны худалдан авалт хийгдсэн.</string>
+    <string name="ids_com_body_error_code_c">Алдааны код:</string>
+    <string name="mids_sapps_body_waiting_ing">Хүлээж байна…</string>
+    <string name="mids_sapps_header_samsung_in_app_purchase_abb">Samsung In-App Purchase</string>
+    <string name="mids_sapps_header_update_galaxy_apps">Galaxy Apps шинэчлэх</string>
+    <string name="mids_sapps_pop_a_new_version_is_available_galaxy_apps_will_be_updated_to_the_latest_version_to_complete_this_purchase">Шинэ хувилбар боломжтой. Энэ худалдан авалтыг дуусгахын тулд Galaxy Apps-г сүүлийн хувилбарт шинэчлэнэ.</string>
+    <string name="mids_sapps_pop_an_invalid_value_has_been_provided_for_samsung_in_app_purchase">Samsung In-App Purchase-д хүчингүй утга өгөгдсөн</string>
+    <string name="mids_sapps_pop_payment_canceled">Төлбөр цуцалсан.</string>
+    <string name="mids_sapps_pop_to_purchase_items_you_need_to_install_samsung_in_app_purchase_install_q">Зүйлс худалдан авахын тулд, та Samsung In-App Purchase суулгах шаардлагатай. Суулгах уу?</string>
+    <string name="mids_sapps_pop_unable_to_open_samsung_in_app_purchase_msg">Samsung In-App Purchase-г нээх боломжгүй. Зөвшөөрөл рүү ороод шаардлагатай зөвшөөрлийг олгоод дахин оролд.</string>
+    <string name="mids_sapps_pop_unknown_error_occurred">Үл мэдэх алдаа гарав</string>
+    <string name="sesl_action_bar_up_description">Удирдаж дээшлүүлэх</string>
+    <string name="sesl_action_menu_overflow_badge_description">Шинэ контент гарлаа</string>
+    <string name="sesl_action_menu_overflow_badge_text_n">Ш</string>
+    <string name="sesl_action_menu_overflow_description">Өөр сонголтууд</string>
+    <string name="sesl_index_assistant_text">Гүйлгэхийн тулд хоёр хуруугаараа дээш эсвэл доош шударна уу.</string>
+    <string name="sesl_index_scrollbar">Гүйлгэх мөр</string>
+    <string name="sesl_index_section">Бүлгийн индекс</string>
+    <string name="sesl_index_selected">Сонгосон</string>
+    <string name="sesl_material_badge_description">Шинэ контент гарлаа</string>
+    <string name="sesl_material_overflow_badge_text_n">Ш</string>
+    <string name="sesl_more_item_label">Бусад</string>
+    <string name="sesl_preferencecategory_added_title">Толгой хэсэг</string>
+    <string name="sesl_search_hint">Хайх</string>
+    <string name="sesl_searchview_description_clear">Хайлтын талбарыг цэвэрлэх</string>
+    <string name="sesl_searchview_description_query">Хайлтын лавлагаа</string>
+    <string name="sesl_searchview_description_search">Хайх</string>
+    <string name="sesl_searchview_description_submit">Лавлагаа оруулах</string>
+    <string name="sesl_searchview_description_voice">Дуу хоолойгоор хайх</string>
+    <string name="sesl_switch_off">Идэвхгүй</string>
+    <string name="sesl_switch_on">Идэвхтэй</string>
+    <string name="sesl_switchbar_off_text">Идэвхгүй</string>
+    <string name="sesl_switchbar_on_text">Идэвхтэй</string>
+    <string name="sesl_toolbar_collapse_description">Хураах</string>
+</resources>

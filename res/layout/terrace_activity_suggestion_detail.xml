@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:background="@color/colorBg" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.appcompat.widget.Toolbar android:id="@id/toolbar" android:layout_width="match_parent" android:layout_height="wrap_content" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+    <androidx.core.widget.NestedScrollView android:id="@id/scrollview" android:layout_width="match_parent" android:layout_height="0.0dp" app:layout_constraintBottom_toTopOf="@id/vote_container" app:layout_constraintTop_toBottomOf="@id/toolbar">
+        <include android:layout_width="match_parent" android:layout_height="wrap_content" layout="@layout/suggestion_post_item" />
+    </androidx.core.widget.NestedScrollView>
+    <LinearLayout android:orientation="vertical" android:id="@id/vote_container" android:clipChildren="false" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="wrap_content" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent">
+        <LinearLayout android:gravity="center" android:layout_gravity="center" android:id="@id/thumbs" android:visibility="gone" android:clipChildren="false" android:clipToPadding="false" android:layout_width="wrap_content" android:layout_height="80.0dp">
+            <LinearLayout android:gravity="center" android:id="@id/vote_up_container" android:background="@drawable/shape_round_rect2" android:clipChildren="false" android:clipToPadding="false" android:layout_width="120.0dp" android:layout_height="45.0dp" android:layout_margin="15.0dp" android:backgroundTint="@color/colorContent">
+                <View android:id="@id/vote_up_img" android:background="@drawable/outline_thumb_up_24" android:layout_width="22.0dp" android:layout_height="22.0dp" android:backgroundTint="@color/colorVoteNothing" />
+                <TextView android:textSize="16.0dp" android:textColor="@color/colorSubTitle" android:id="@id/vote_up" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="20" android:paddingHorizontal="7.0dp" />
+            </LinearLayout>
+            <LinearLayout android:gravity="center" android:id="@id/vote_down_container" android:background="@drawable/shape_round_rect2" android:clipChildren="false" android:clipToPadding="false" android:layout_width="120.0dp" android:layout_height="45.0dp" android:layout_margin="15.0dp">
+                <View android:id="@id/vote_down_img" android:background="@drawable/outline_thumb_down_24" android:layout_width="22.0dp" android:layout_height="22.0dp" android:layout_marginLeft="10.0dp" android:backgroundTint="@color/colorVoteNothing" />
+                <TextView android:textSize="16.0dp" android:textColor="@color/colorSubTitle" android:id="@id/vote_down" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="20" android:paddingHorizontal="7.0dp" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:layout_gravity="center" android:id="@id/votes" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="80.0dp" android:paddingHorizontal="10.0dp">
+            <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/vote_1" android:background="@drawable/shape_round_rect2" android:clickable="true" android:layout_width="120.0dp" android:layout_height="40.0dp" android:layout_weight="1.0" android:backgroundTint="@color/colorContent" android:layout_marginHorizontal="5.0dp" android:layout_marginVertical="15.0dp">
+                <TextView android:textSize="25.0dp" android:textColor="@color/colorTitle" android:id="@id/vote_number" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="①" />
+                <TextView android:textSize="12.0dp" android:textColor="@color/colorTitle" android:id="@id/vote_cnt" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="20" android:paddingHorizontal="3.0dp" />
+            </LinearLayout>
+            <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/vote_2" android:background="@drawable/shape_round_rect2" android:clickable="true" android:layout_width="120.0dp" android:layout_height="40.0dp" android:layout_weight="1.0" android:layout_marginHorizontal="5.0dp" android:layout_marginVertical="15.0dp">
+                <TextView android:textSize="25.0dp" android:textColor="@color/colorTitle" android:id="@id/vote_number" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="②" />
+                <TextView android:textSize="12.0dp" android:textColor="@color/colorTitle" android:id="@id/vote_cnt" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="20" android:paddingHorizontal="3.0dp" />
+            </LinearLayout>
+            <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/vote_3" android:background="@drawable/shape_round_rect2" android:clickable="true" android:layout_width="120.0dp" android:layout_height="40.0dp" android:layout_weight="1.0" android:layout_marginHorizontal="5.0dp" android:layout_marginVertical="15.0dp">
+                <TextView android:textSize="25.0dp" android:textColor="@color/colorTitle" android:id="@id/vote_number" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="③" />
+                <TextView android:textSize="12.0dp" android:textColor="@color/colorTitle" android:id="@id/vote_cnt" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="20" android:paddingHorizontal="3.0dp" />
+            </LinearLayout>
+            <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/vote_4" android:background="@drawable/shape_round_rect2" android:clickable="true" android:layout_width="120.0dp" android:layout_height="40.0dp" android:layout_weight="1.0" android:layout_marginHorizontal="5.0dp" android:layout_marginVertical="15.0dp">
+                <TextView android:textSize="30.0dp" android:textColor="@color/colorTitle" android:id="@id/vote_number" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="④" />
+                <TextView android:textSize="12.0dp" android:textColor="@color/colorTitle" android:id="@id/vote_cnt" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="20" android:paddingHorizontal="3.0dp" />
+            </LinearLayout>
+            <LinearLayout android:gravity="center" android:id="@id/vote_5" android:background="@drawable/shape_round_rect2" android:clickable="true" android:layout_width="120.0dp" android:layout_height="40.0dp" android:layout_weight="1.0" android:layout_marginHorizontal="5.0dp" android:layout_marginVertical="15.0dp">
+                <TextView android:textSize="30.0dp" android:textColor="@color/colorTitle" android:id="@id/vote_number" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="⑤" />
+                <TextView android:textSize="12.0dp" android:textColor="@color/colorTitle" android:id="@id/vote_cnt" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="20" android:paddingHorizontal="3.0dp" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

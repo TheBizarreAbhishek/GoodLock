@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/plugin_store" android:title="@string/go_to_store" />
+    <item android:id="@id/plugin_uninstall" android:title="@string/uninstall" />
+    <item android:id="@id/plugin_add_shortcut" android:title="@string/add_shortcut" />
+    <item android:id="@id/plugin_about" android:title="@string/plugin_about" />
+</menu>

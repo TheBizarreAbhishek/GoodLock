@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="character_counter_content_description">%1$d аз %2$d аломат</string>
+    <string name="dragndroplist_drag_move">Ҳоло дар мавқеи %d</string>
+    <string name="dragndroplist_drag_release">Объект ба навбати%d партофта шуд.</string>
+    <string name="dragndroplist_drag_start">Объект дар навбати %d кашонида мешавад.</string>
+    <string name="dragndroplist_item_cannot_be_dragged">Объект дар навбати %d кашонида шуда наметавонад.</string>
+    <string name="dream_ph_body_contact_p1sscustomer_servicep2ss_for_more_information_n_nerror_code_c_p3ss">"Барои маълумоти бештар гирифтан, ба %1$sМаркази хизматрасонии муштариён%2$s муроҷиат кунед.
+
+Рамзи хатогӣ: %3$s"</string>
+    <string name="dream_ph_body_to_complete_this_purchase_you_need_to_enable_the_galaxy_store_in_settings">Барои ин харидро ба анҷом расонидан, бояд дар Танзимот Galaxy Store-ро фаъол кунед.</string>
+    <string name="dream_ph_body_to_complete_this_purchase_you_need_to_update_the_galaxy_store">Барои ин харидро ба анҷом расонидан, бояд Galaxy Store-ро навсозӣ кунед.</string>
+    <string name="dream_ph_pheader_couldnt_complete_purchase">Харид анҷом дода нашуд</string>
+    <string name="dream_sapps_body_authenticating_ing">Санҷиши ҳаққоният…</string>
+    <string name="dream_sapps_body_contact_customer_service_to_complete_your_purchase">Барои хариди худро ба анҷом расондан, ба Маркази хизматрасонии муштариён муроҷиат кунед.</string>
+    <string name="dream_sapps_body_your_purchase_is_complete">Хариди шумо анҷом ёфт.</string>
+    <string name="ids_com_body_error_code_c">Рамзи хатогӣ:</string>
+    <string name="mids_sapps_body_waiting_ing">Интизорӣ…</string>
+    <string name="mids_sapps_header_samsung_in_app_purchase_abb">Samsung In-App Purchase</string>
+    <string name="mids_sapps_header_update_galaxy_apps">Навсозии Galaxy Apps</string>
+    <string name="mids_sapps_pop_a_new_version_is_available_galaxy_apps_will_be_updated_to_the_latest_version_to_complete_this_purchase">Версияи нав дастрас аст. Барои анҷом додани харид Galaxy Apps то версияи охирин навсозӣ карда мешавад.</string>
+    <string name="mids_sapps_pop_an_invalid_value_has_been_provided_for_samsung_in_app_purchase">Барои Samsung In-App Purchase қимати нодуруст пешниҳод карда шуд</string>
+    <string name="mids_sapps_pop_payment_canceled">Пардохт бекор карда шуд</string>
+    <string name="mids_sapps_pop_to_purchase_items_you_need_to_install_samsung_in_app_purchase_install_q">Барои харидани ин ҷузъҳо шумо бояд Samsung In-App Purchase-ро насб кунед. Насб мекунед?</string>
+    <string name="mids_sapps_pop_unable_to_open_samsung_in_app_purchase_msg">Кушодани Samsung In-App Purchase ғайриимкон аст. Ба Иҷозатҳо гузашта, иҷозатҳои лозимро бидиҳед ва кӯшишро такрор кунед.</string>
+    <string name="mids_sapps_pop_unknown_error_occurred">Хатогии номаълум ба амал омад</string>
+    <string name="sesl_action_bar_up_description">Паймоиш ба боло</string>
+    <string name="sesl_action_menu_overflow_badge_description">Муҳтавои нав дастрас аст</string>
+    <string name="sesl_action_menu_overflow_badge_text_n">Н</string>
+    <string name="sesl_action_menu_overflow_description">Имконоти бештар</string>
+    <string name="sesl_index_assistant_text">Барои варақ задан, бо ду ангушт ба боло ё поён бимолед.</string>
+    <string name="sesl_index_scrollbar">Навори ҳаракат</string>
+    <string name="sesl_index_section">Мундариҷаи қисмат</string>
+    <string name="sesl_index_selected">Интихоб шуд</string>
+    <string name="sesl_material_badge_description">Муҳтавои нав дастрас аст</string>
+    <string name="sesl_material_overflow_badge_text_n">Н</string>
+    <string name="sesl_more_item_label">Бештар</string>
+    <string name="sesl_preferencecategory_added_title">Унвон</string>
+    <string name="sesl_search_hint">Ҷустуҷӯ</string>
+    <string name="sesl_searchview_description_clear">Майдони ҷустуҷӯро тоза кардан</string>
+    <string name="sesl_searchview_description_query">Дархости ҷустуҷӯ</string>
+    <string name="sesl_searchview_description_search">Ҷустуҷӯ</string>
+    <string name="sesl_searchview_description_submit">Фиристодани дархост</string>
+    <string name="sesl_searchview_description_voice">Ҷустуҷӯи овозӣ</string>
+    <string name="sesl_switch_off">Хомӯш</string>
+    <string name="sesl_switch_on">Фурӯзон</string>
+    <string name="sesl_switchbar_off_text">Хомӯш</string>
+    <string name="sesl_switchbar_on_text">Фурӯзон</string>
+    <string name="sesl_toolbar_collapse_description">Печонидан</string>
+</resources>

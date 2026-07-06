@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAboutBg">#ff080808</color>
+    <color name="colorAboutComment">#ff9b9b9b</color>
+    <color name="colorAboutName">#fffafafa</color>
+    <color name="colorAboutTitle">#fffafafa</color>
+    <color name="colorBg">#ff080808</color>
+    <color name="colorContent">#ff252525</color>
+    <color name="colorIntro">#fffafafa</color>
+    <color name="colorListItemBg">#ff303030</color>
+    <color name="colorPaymentBg">#ff080808</color>
+    <color name="colorPrimaryDark">#ff3e91ff</color>
+    <color name="colorStoreBg">#ff303030</color>
+    <color name="colorStroke">#ff525252</color>
+    <color name="colorSubNaviBg">#ff121212</color>
+    <color name="colorTabSelectedIcon">#ff1d65ff</color>
+    <color name="colorTabSelectedText">#ff1d65ff</color>
+    <color name="colorTabUnSelectedText">#fffafafa</color>
+    <color name="colorTermsBg">#ff080808</color>
+    <color name="colorTermsButtonText">#fffafafa</color>
+    <color name="colorTermsSubTitle">#ff9b9b9b</color>
+    <color name="colorTermsTitle">#fffafafa</color>
+    <color name="colorTitle">#fffafafa</color>
+    <color name="sesl_fragment_bgcolor">#ff171717</color>
+    <color name="sesl_fragment_fgcolor">#ff010101</color>
+    <color name="sesl_text_input_layout_hint_text_color">#ff999999</color>
+</resources>

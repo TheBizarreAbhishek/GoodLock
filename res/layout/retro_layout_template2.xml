@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="@dimen/retro_text_view_height">
+        <com.samsung.android.goodlock.terrace.retro.RetroTextView android:id="@id/id_01" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" app:enableAnimation="false" />
+        <com.samsung.android.goodlock.terrace.retro.RetroTextView android:id="@id/id_02" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="" android:maxLines="2" android:layout_marginStart="7.0dp" app:enableAnimation="false" />
+    </LinearLayout>
+    <androidx.constraintlayout.widget.ConstraintLayout android:layout_width="match_parent" android:layout_height="@dimen/retro_text_view_height">
+        <com.samsung.android.goodlock.terrace.retro.RetroTextView android:id="@id/id_03" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" app:enableAnimation="false" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+        <com.samsung.android.goodlock.terrace.retro.RetroTextView android:id="@id/id_04" android:layout_width="60.0dp" android:layout_height="wrap_content" android:text="" app:enableAnimation="false" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintTop_toTopOf="parent" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+    <com.samsung.android.goodlock.terrace.retro.RetroTextView android:id="@id/id_05" android:layout_width="match_parent" android:layout_height="44.0dp" android:text="" android:maxLines="2" app:enableAnimation="false" />
+    <View android:id="@id/divider" android:background="@drawable/retro_line" android:visibility="gone" android:layout_width="match_parent" android:layout_height="@dimen/retro_text_view_height" />
+</LinearLayout>

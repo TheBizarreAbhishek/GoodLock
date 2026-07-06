@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:paddingBottom="40.0dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingHorizontal="11.0dp"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:background="@drawable/retro_content_bg" android:paddingTop="22.0dp" android:paddingBottom="33.0dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingHorizontal="22.0dp">
+        <com.samsung.android.goodlock.terrace.retro.RetroTextView android:textSize="@dimen/retro_text_view_text_size" android:id="@id/title" android:layout_width="match_parent" android:layout_height="42.0dp" android:layout_marginBottom="@dimen/retro_text_view_text_size" android:text="" android:lineSpacingExtra="@dimen/retro_text_view_line_space" />
+        <com.samsung.android.goodlock.terrace.retro.RetroTextView android:textSize="@dimen/retro_text_view_text_size" android:id="@id/message" android:layout_width="match_parent" android:layout_height="70.0dp" android:layout_marginTop="@dimen/retro_text_view_line_space" android:text="갤럭시를 편하게 사용하기 위한 필수 소프트웨어 이름을 쓰시오. " android:lineSpacingExtra="@dimen/retro_text_view_line_space" />
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/retro_text_view_height">
+            <TextView android:textSize="@dimen/retro_text_view_text_size" android:id="@id/positive" android:layout_width="match_parent" android:layout_height="@dimen/retro_text_view_height" android:text="참" android:layout_weight="1.0" android:lineSpacingExtra="@dimen/retro_text_view_line_space" android:textAlignment="center" />
+            <TextView android:textSize="@dimen/retro_text_view_text_size" android:id="@id/negative" android:layout_width="match_parent" android:layout_height="@dimen/retro_text_view_height" android:text="거짓" android:layout_weight="1.0" android:lineSpacingExtra="@dimen/retro_text_view_line_space" android:textAlignment="center" />
+        </LinearLayout>
+    </LinearLayout>
+</FrameLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/all" android:title="@string/all" android:checkable="true" />
+    <item android:id="@id/open" android:title="@string/open" android:checkable="true" />
+    <item android:id="@id/review" android:title="@string/review" android:checkable="true" />
+    <item android:id="@id/working" android:title="@string/working" android:checkable="true" />
+    <item android:id="@id/finish" android:title="@string/finish" android:checkable="true" />
+    <item android:id="@id/drop" android:title="@string/drop" android:checkable="true" />
+</menu>

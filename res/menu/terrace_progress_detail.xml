@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:icon="@drawable/baseline_favorite_black_48" android:id="@id/change_preview_mode" android:title="Like" android:iconTint="@color/colorTitle" app:showAsAction="always" />
+    <item android:icon="@drawable/baseline_share_black_48" android:id="@id/change_light_mode" android:title="Share" android:iconTint="@color/colorTitle" app:showAsAction="always" />
+    <item android:id="@id/install_theme" android:title="TEST" />
+</menu>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="character_counter_content_description">%1$d / %2$d simvol</string>
+    <string name="dragndroplist_drag_move">İndi %d mövqeyindədir</string>
+    <string name="dragndroplist_drag_release">Element %d mövqeyinə gətirilmişdir.</string>
+    <string name="dragndroplist_drag_start">%d mövqeyindəki elementi dartmağa başlayır.</string>
+    <string name="dragndroplist_item_cannot_be_dragged">%d mövqedəki element dartıla bilməz.</string>
+    <string name="dream_ph_body_contact_p1sscustomer_servicep2ss_for_more_information_n_nerror_code_c_p3ss">"Daha ətraflı məlumat əldə etmək üçün %1$sMüştəri Xidmətləri%2$s ilə əlaqə saxlayın.
+
+Xəta kodu: %3$s"</string>
+    <string name="dream_ph_body_to_complete_this_purchase_you_need_to_enable_the_galaxy_store_in_settings">Bu satınalmanı tamamlamaq üçün Parametrlər bölməsində Galaxy Store-u aktiv etməlisiniz.</string>
+    <string name="dream_ph_body_to_complete_this_purchase_you_need_to_update_the_galaxy_store">Bu satınalmanı tamamlamaq üçün Galaxy Store-u yeniləməlisiniz.</string>
+    <string name="dream_ph_pheader_couldnt_complete_purchase">Satınalmanı tamamlamaq olmadı</string>
+    <string name="dream_sapps_body_authenticating_ing">Təsdiq edilir…</string>
+    <string name="dream_sapps_body_contact_customer_service_to_complete_your_purchase">Satınalmanı tamamlamaq üçün Müştəri Xidməti ilə əlaqə saxlayın.</string>
+    <string name="dream_sapps_body_your_purchase_is_complete">Sizin satınalma tamamlandı.</string>
+    <string name="ids_com_body_error_code_c">Səhv kodu:</string>
+    <string name="mids_sapps_body_waiting_ing">Gözləyir…</string>
+    <string name="mids_sapps_header_samsung_in_app_purchase_abb">Samsung In-App Purchase</string>
+    <string name="mids_sapps_header_update_galaxy_apps">Galaxy Apps yenilə</string>
+    <string name="mids_sapps_pop_a_new_version_is_available_galaxy_apps_will_be_updated_to_the_latest_version_to_complete_this_purchase">Yeni versiya mövcuddur. Bu satınalmanın tamamlanması üçün Galaxy Apps ən son versiyasına yenilənəcək.</string>
+    <string name="mids_sapps_pop_an_invalid_value_has_been_provided_for_samsung_in_app_purchase">Samsung In-App Purchase üçün yalnış vahid təmin edilmişdir.</string>
+    <string name="mids_sapps_pop_payment_canceled">Ödəniş ləğv edildi.</string>
+    <string name="mids_sapps_pop_to_purchase_items_you_need_to_install_samsung_in_app_purchase_install_q">Elementləri satın almaq üçün Samsung In-App Purchase quraşdırmalısınız. Quraşdırılsın?</string>
+    <string name="mids_sapps_pop_unable_to_open_samsung_in_app_purchase_msg">Samsung In-App Purchase-i açmaq olmadı. İcazələrə keçin və tələb edilən icazələri verib yenidən cəhd edin.</string>
+    <string name="mids_sapps_pop_unknown_error_occurred">Naməlum səhv baş verdi.</string>
+    <string name="sesl_action_bar_up_description">Yuxarı keç</string>
+    <string name="sesl_action_menu_overflow_badge_description">Yeni məzmun mövcuddur</string>
+    <string name="sesl_action_menu_overflow_badge_text_n">Yn</string>
+    <string name="sesl_action_menu_overflow_description">Daha çox seçim</string>
+    <string name="sesl_index_assistant_text">Sürüşdürmək üçün iki barmağınızla yuxarı və ya aşağı sürüşdürün.</string>
+    <string name="sesl_index_scrollbar">Sürüşdürmə paneli</string>
+    <string name="sesl_index_section">Bölmə indeksi</string>
+    <string name="sesl_index_selected">Seçilmiş</string>
+    <string name="sesl_material_badge_description">Yeni məzmun mövcuddur</string>
+    <string name="sesl_material_overflow_badge_text_n">Yn</string>
+    <string name="sesl_more_item_label">Daha çox</string>
+    <string name="sesl_preferencecategory_added_title">Başlıq</string>
+    <string name="sesl_search_hint">Axtar</string>
+    <string name="sesl_searchview_description_clear">Axtarış sahəsini sil</string>
+    <string name="sesl_searchview_description_query">Axtarış sorğusu</string>
+    <string name="sesl_searchview_description_search">Axtar</string>
+    <string name="sesl_searchview_description_submit">Sorğunu göndər</string>
+    <string name="sesl_searchview_description_voice">Səs axtarışı</string>
+    <string name="sesl_switch_off">Sönülü</string>
+    <string name="sesl_switch_on">Yanılı</string>
+    <string name="sesl_switchbar_off_text">Söndür</string>
+    <string name="sesl_switchbar_on_text">Qoş</string>
+    <string name="sesl_toolbar_collapse_description">Yığ</string>
+</resources>

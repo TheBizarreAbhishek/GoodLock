@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation android:id="@id/nav_graph" app:startDestination="@id/information"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <fragment android:label="@string/information" android:name="com.samsung.android.goodlock.terrace.TerraceFragment" android:id="@id/information">
+        <action android:id="@id/action_information_to_notice" app:destination="@id/notice" />
+        <action android:id="@id/action_information_to_progress" app:destination="@id/progress" />
+        <action android:id="@id/action_information_to_suggestion" app:destination="@id/suggestion" />
+        <action android:id="@id/action_information_to_diary" app:destination="@id/diary" />
+        <action android:id="@id/action_information_to_tips" app:destination="@id/tips" />
+    </fragment>
+    <fragment android:label="@string/notice" android:name="com.samsung.android.goodlock.terrace.NoticeListFragment" android:id="@id/notice" />
+    <fragment android:label="@string/tips" android:name="com.samsung.android.goodlock.terrace.TipsListFragment" android:id="@id/tips" />
+    <fragment android:label="@string/poll" android:name="com.samsung.android.goodlock.terrace.SuggestionListFragment" android:id="@id/suggestion" />
+    <fragment android:label="@string/progress" android:name="com.samsung.android.goodlock.terrace.ProgressListFragment" android:id="@id/progress" />
+    <fragment android:label="@string/diary" android:name="com.samsung.android.goodlock.terrace.DiaryListFragment" android:id="@id/diary" />
+    <fragment android:label="@string/make_up" android:name="com.samsung.android.goodlock.PluginListFragment" android:id="@id/makeup">
+        <argument android:name="category" android:defaultValue="0" app:argType="integer" />
+    </fragment>
+    <fragment android:label="@string/life_up" android:name="com.samsung.android.goodlock.PluginListFragment" android:id="@id/lifeup">
+        <argument android:name="category" android:defaultValue="1" app:argType="integer" />
+    </fragment>
+</navigation>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="@dimen/retro_text_view_height"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.samsung.android.goodlock.terrace.retro.RetroTextView android:id="@id/id_01" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" app:enableAnimation="false" />
+    <com.samsung.android.goodlock.terrace.retro.RetroTextView android:id="@id/id_02" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="" android:layout_marginStart="7.0dp" app:enableAnimation="false" />
+</LinearLayout>

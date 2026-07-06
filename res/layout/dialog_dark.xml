@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@drawable/dialog_radius_dark" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="20.0sp" android:textColor="@color/dialog_title_dark" android:id="@id/dialog_title" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="24.0dp" android:layout_marginTop="24.0dp" android:layout_marginRight="24.0dp" />
+    <TextView android:textSize="16.0sp" android:textColor="@color/dialog_message_dark" android:id="@id/dialog_message" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="24.0dp" android:layout_marginTop="18.0dp" android:layout_marginRight="24.0dp" android:lineSpacingExtra="4.0sp" />
+    <TextView android:textSize="12.0sp" android:textColor="@color/dialog_message_extra" android:id="@id/dialog_message_extra" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="24.0dp" android:layout_marginRight="24.0dp" android:lineSpacingExtra="4.0sp" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="36.0dp" android:layout_marginLeft="24.0dp" android:layout_marginTop="24.0dp" android:layout_marginRight="24.0dp" android:layout_marginBottom="20.0dp" android:layout_centerHorizontal="true">
+        <Button android:textColor="@color/dialog_button_text_dark" android:id="@id/dialog_cancel_btn" android:layout_width="match_parent" android:layout_height="36.0dp" android:layout_weight="1.0" android:layout_centerHorizontal="true" style="@style/DialogButton" />
+        <ImageView android:id="@id/dialog_btn_padding" android:layout_width="1.0dp" android:layout_height="16.0dp" android:layout_marginTop="9.0dp" android:src="@color/dialog_button_separation_color" android:layout_marginStart="17.0dp" android:layout_marginEnd="17.0dp" />
+        <Button android:textColor="@color/dialog_button_text_dark" android:id="@id/dialog_ok_btn" android:layout_width="match_parent" android:layout_height="36.0dp" android:layout_weight="1.0" android:layout_centerHorizontal="true" style="@style/DialogButton" />
+    </LinearLayout>
+</LinearLayout>

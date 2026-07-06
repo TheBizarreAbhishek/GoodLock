@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="35" android:compileSdkVersionCodename="15" android:installLocation="auto" package="com.samsung.android.goodlock" platformBuildVersionCode="35" platformBuildVersionName="15">
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_COMPONENT_ENABLED_STATE"/>
+    <uses-permission android:name="com.samsung.systemui.permission.SPLUGIN"/>
+    <uses-permission android:name="com.sec.spp.permission.TOKEN_2c815a762c1223ad42b3c9ff69d3774648ec362ceb7ab4baf4845f7e1819e680b862cf88719072bf82e2716dde58bd9312a85c664fa484ab173c6fc01aaa8841a5c7ad0b48576a4331fa4c4601a26ab4d7ffff09db4f8292002fc89fc17523d93b10c11daf0a50209508866e8dd03e75f22f0c3387a79cf75f6e455ec9799236"/>
+    <uses-permission android:name="com.samsung.android.launcher.permission.READ_SETTINGS"/>
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+    <uses-permission android:name="com.samsung.android.iap.permission.BILLING"/>
+    <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES"/>
+    <uses-permission android:name="android.permission.REQUEST_DELETE_PACKAGES"/>
+    <permission android:name="com.samsung.android.goodlock.INSTALLER_CALLBACK" android:protectionLevel="signature"/>
+    <uses-permission android:name="com.samsung.android.goodlock.INSTALLER_CALLBACK"/>
+    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE"/>
+    <queries>
+        <package android:name="com.sec.android.app.samsungapps"/>
+    </queries>
+    <uses-permission android:name="com.samsung.android.scs.ai.search.permission.READ"/>
+    <uses-permission android:name="com.samsung.android.scs.ai.search.permission.WRITE"/>
+    <uses-permission android:name="com.samsung.android.scs.ai.search.permission.UPDATE_INDEX"/>
+    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_DATA_SYNC" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+    <application android:allowBackup="false" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:extractNativeLibs="false" android:icon="@drawable/ic_goodlock_adaptive" android:label="@string/app_name" android:name="com.samsung.android.goodlock.GoodLock" android:supportsRtl="true" android:theme="@style/Theme.AppCompat.DayNight" android:usesCleartextTraffic="true">
+        <activity android:exported="true" android:name="com.samsung.android.goodlock.terrace.ThanksDetailActivity" android:screenOrientation="unspecified" android:theme="@style/LightStatusApp"/>
+        <activity android:exported="true" android:name="com.samsung.android.goodlock.terrace.ThanksActivity" android:screenOrientation="unspecified" android:theme="@style/LightStatusApp"/>
+        <activity android:exported="true" android:name="com.samsung.android.goodlock.terrace.TabOrderActivity" android:theme="@style/LightStatusApp"/>
+        <activity android:exported="true" android:name="com.samsung.android.goodlock.terrace.DeepLinkActivity" android:theme="@style/LightStatusApp">
+            <intent-filter android:label="@string/app_name">
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:scheme="goodlock"/>
+            </intent-filter>
+            <intent-filter android:autoVerify="true">
+                <data android:host="terrace.goodlocklabs.com" android:scheme="https"/>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+            </intent-filter>
+        </activity>
+        <activity android:exported="true" android:name="com.samsung.android.goodlock.terrace.TipsDetailActivity" android:theme="@style/LightStatusApp"/>
+        <activity android:exported="true" android:name="com.samsung.android.goodlock.terrace.DiaryDetailActivity" android:theme="@style/LightStatusApp"/>
+        <activity android:exported="true" android:name="com.samsung.android.goodlock.terrace.retro.RetroActivity" android:theme="@style/RetroApp"/>
+        <activity android:exported="true" android:name="com.samsung.android.goodlock.terrace.ImageSlideActivity" android:theme="@style/LightStatusApp"/>
+        <activity android:exported="true" android:name="com.samsung.android.goodlock.terrace.SuggestionDetailActivity" android:theme="@style/LightStatusApp"/>
+        <activity android:exported="true" android:name="com.samsung.android.goodlock.terrace.ProgressDetailActivity" android:theme="@style/LightStatusApp"/>
+        <activity android:exported="true" android:name="com.samsung.android.goodlock.terrace.NoticeDetailActivity" android:theme="@style/LightStatusApp"/>
+        <activity android:exported="true" android:name="com.samsung.android.goodlock.presentation.view.LaunchActivity" android:screenOrientation="unspecified" android:theme="@style/LightStatusApp">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+            <meta-data android:name="com.sec.android.app.launcher.icon_theme" android:value="onlyBg"/>
+        </activity>
+        <activity android:exported="true" android:name="com.samsung.android.goodlock.presentation.view.PluginListActivity" android:screenOrientation="unspecified" android:theme="@style/LightStatusApp"/>
+        <activity android:exported="true" android:name="com.samsung.android.goodlock.presentation.view.AboutActivity" android:screenOrientation="unspecified" android:theme="@style/LightStatusApp"/>
+        <activity android:exported="true" android:name="com.samsung.android.goodlock.presentation.view.TermsActivity" android:screenOrientation="unspecified" android:theme="@style/LightStatusApp"/>
+        <activity android:exported="true" android:name="com.samsung.android.goodlock.presentation.view.TipsActivity" android:screenOrientation="portrait" android:theme="@style/LightStatusApp"/>
+        <activity android:exported="true" android:name="com.samsung.android.goodlock.presentation.view.ProductListActivity" android:screenOrientation="unspecified" android:theme="@style/LightStatusApp" android:windowSoftInputMode="adjustResize"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:exported="true" android:name="com.samsung.android.goodlock.presentation.view.PaymentActivity" android:screenOrientation="unspecified" android:theme="@style/WhiteStatusApp" android:windowSoftInputMode="adjustResize"/>
+        <meta-data android:name="SamsungBasicInteraction" android:value="SEP10"/>
+        <meta-data android:name="com.samsung.android.multiuser.install_only_owner" android:value="true"/>
+        <provider android:authorities="com.samsung.android.goodlock.analyticsprovider" android:exported="true" android:name="com.samsung.android.goodlock.service.provider.AnalyticsProvider"/>
+        <receiver android:exported="true" android:name="com.samsung.android.goodlock.PackageListener">
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_FULLY_REMOVED"/>
+                <data android:scheme="package"/>
+            </intent-filter>
+        </receiver>
+        <service android:exported="true" android:name="com.samsung.android.goodlock.ReportDonationService" android:permission="android.permission.BIND_JOB_SERVICE"/>
+        <activity android:configChanges="orientation|screenSize" android:exported="true" android:name="com.samsung.android.sdk.iap.lib.activity.DialogActivity" android:theme="@style/Theme.Empty"/>
+        <activity android:configChanges="orientation|screenSize" android:exported="true" android:name="com.samsung.android.sdk.iap.lib.activity.CheckPackageActivity" android:theme="@style/Theme.Empty"/>
+        <activity android:configChanges="orientation|screenSize" android:exported="true" android:name="com.samsung.android.sdk.iap.lib.activity.AccountActivity" android:theme="@style/Theme.Transparent"/>
+        <activity android:configChanges="locale|keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|density|fontScale" android:exported="true" android:name="com.samsung.android.sdk.iap.lib.activity.PaymentActivity" android:theme="@style/Theme.Empty"/>
+        <meta-data android:name="com.bumptech.glide.integration.okhttp3.OkHttpGlideModule" android:value="GlideModule"/>
+        <meta-data android:name="SPDE.build.signature" android:value="unknown/unofficial/release/none"/>
+        <meta-data android:name="SPDE.env.version" android:value="4.0.0/L30.1.18/0.9.42"/>
+        <provider android:name="androidx.core.content.FileProvider" android:authorities="com.samsung.android.goodlock.fileprovider" android:exported="false" android:grantUriPermissions="true">
+            <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/file_paths" />
+        </provider>
+        <service android:name="com.samsung.android.goodlock.patch.DownloadService" android:exported="false" android:foregroundServiceType="dataSync" />
+    </application>
+</manifest>

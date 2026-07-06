@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/tab_order" android:title="@string/change_tab_order" />
+    <item android:id="@id/donate" android:title=" Sponsor Project " />
+    <item android:id="@id/add_review" android:title="Telegram Support" />
+    <item android:id="@id/sponsorship" android:title="@string/goodlock_cheering" />
+    <item android:id="@id/retro_mode" android:title="@string/retro_ui" />
+    <item android:id="@id/help" android:title="@string/about" />
+    <item android:id="@id/update" android:title="@string/update" />
+    <item android:id="@id/update_all" android:title="@string/update_all" />
+</menu>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.samsung.android.goodlock.terrace.retro.RetroTextView android:id="@id/question" android:layout_width="0.0dp" android:layout_height="wrap_content" android:layout_marginTop="@dimen/retro_text_view_height" android:maxLines="4" android:lineSpacingExtra="@dimen/retro_text_view_line_space" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toBottomOf="@id/question">
+        <com.samsung.android.goodlock.terrace.retro.RetroTextView android:id="@id/yes" android:layout_width="100.0dp" android:layout_height="@dimen/retro_text_view_height" android:layout_marginTop="@dimen/retro_text_view_height" android:layout_marginEnd="@dimen/retro_text_view_line_space" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toBottomOf="@id/question" />
+        <com.samsung.android.goodlock.terrace.retro.RetroTextView android:id="@id/no" android:layout_width="100.0dp" android:layout_height="@dimen/retro_text_view_height" android:layout_marginTop="@dimen/retro_text_view_height" android:layout_marginStart="@dimen/retro_text_view_line_space" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintTop_toBottomOf="@id/question" />
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

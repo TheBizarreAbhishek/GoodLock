@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/latest" android:title="@string/latest" android:checkable="true" />
+    <item android:id="@id/ended_at" android:title="@string/end_date" android:checkable="true" />
+    <item android:id="@id/votes" android:title="@string/total_votes" android:checkable="true" />
+</menu>

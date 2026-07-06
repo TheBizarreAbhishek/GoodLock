@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="match_parent" android:layout_height="18.0dp"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/item1" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="18.0dp">
+        <ImageView android:layout_width="18.0dp" android:layout_height="18.0dp" android:src="@drawable/outline_campaign_24" android:tint="@color/colorSubTitle" />
+        <TextView android:textSize="12.0dp" android:textColor="@color/colorCategory" android:id="@id/name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="thchoi" android:paddingHorizontal="5.0dp" />
+        <TextView android:textSize="12.0dp" android:textColor="@color/colorSubTitle" android:ellipsize="end" android:id="@id/content" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="this is content area.this is content area.this is content area.this is content area.this is content area.this is content area.this is content area.this is content area.this is content area.this is content area.this is content area.this is content area.this is content area.this is content area.this is content area." android:maxLines="1" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/item2" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="18.0dp">
+        <ImageView android:layout_width="18.0dp" android:layout_height="18.0dp" android:src="@drawable/outline_campaign_24" android:tint="@color/colorSubTitle" />
+        <TextView android:textSize="12.0dp" android:textColor="@color/colorCategory" android:id="@id/name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="thchoi" android:paddingHorizontal="5.0dp" />
+        <TextView android:textSize="12.0dp" android:textColor="@color/colorSubTitle" android:ellipsize="end" android:id="@id/content" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="this is content area.this is content area.this is content area.this is content area.this is content area.this is content area.this is content area.this is content area.this is content area.this is content area.this is content area.this is content area.this is content area.this is content area.this is content area." android:maxLines="1" />
+    </LinearLayout>
+</FrameLayout>

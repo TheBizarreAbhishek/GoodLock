@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="character_counter_content_description">%2$d حروف میں سے %1$d باقی</string>
+    <string name="dragndroplist_drag_move">اب %d پوزیشن پر ہے</string>
+    <string name="dragndroplist_drag_release">آئٹم کو پوزیشن %d پر ڈالا گیا۔</string>
+    <string name="dragndroplist_drag_start">پوزیشن %d سے کارڈ کو گھسیٹنا شروع کیا۔</string>
+    <string name="dragndroplist_item_cannot_be_dragged">آئٹم پوزیشن %d کو گھسیٹا نہیں جاسکتا۔</string>
+    <string name="dream_ph_body_contact_p1sscustomer_servicep2ss_for_more_information_n_nerror_code_c_p3ss">"مزید معلومات کے لیے %1$sکسٹمر خدمت%2$s سے رابطہ کریں۔ 
+
+غلطی کوڈ: %3$s"</string>
+    <string name="dream_ph_body_to_complete_this_purchase_you_need_to_enable_the_galaxy_store_in_settings">یہ خریداری مکمل کرنے کے لیے، آپ کو سیٹنگز میں Galaxy Store اہل کرنا ہوگا۔</string>
+    <string name="dream_ph_body_to_complete_this_purchase_you_need_to_update_the_galaxy_store">یہ خریداری مکمل کرنے کے لیے، آپ کو Galaxy Store تنصیب کرنا ہوگا۔</string>
+    <string name="dream_ph_pheader_couldnt_complete_purchase">خریداری مکمل نہیں ہوسکی</string>
+    <string name="dream_sapps_body_authenticating_ing">توثیق ہو رہی ہے…</string>
+    <string name="dream_sapps_body_contact_customer_service_to_complete_your_purchase">اپنی خریداری مکمل کرنے کے لیے کسٹمر خدمت سے رابطہ کریں۔</string>
+    <string name="dream_sapps_body_your_purchase_is_complete">آپ کی خریداری مکمل ہو گئی۔</string>
+    <string name="ids_com_body_error_code_c">نقص کوڈ:</string>
+    <string name="mids_sapps_body_waiting_ing">انتظار کررہا ہے…</string>
+    <string name="mids_sapps_header_samsung_in_app_purchase_abb">‏Samsung In-App خریداری</string>
+    <string name="mids_sapps_header_update_galaxy_apps">‏Galaxy Apps اپ ڈیٹ کریں</string>
+    <string name="mids_sapps_pop_a_new_version_is_available_galaxy_apps_will_be_updated_to_the_latest_version_to_complete_this_purchase">ایک نیا ورژن دستیاب ہے۔ یہ خریداری مکمل کرنے کے لیے Galaxy Apps کو تازہ ترین ورژن میں اپ ڈیٹ کیا جائے گا۔</string>
+    <string name="mids_sapps_pop_an_invalid_value_has_been_provided_for_samsung_in_app_purchase">‏Samsung In-App خریداری کے لئے ایک غیرمجاز قیمت فراہم کی گئی ہے</string>
+    <string name="mids_sapps_pop_payment_canceled">ادائیگی منسوخ ہوگئی۔</string>
+    <string name="mids_sapps_pop_to_purchase_items_you_need_to_install_samsung_in_app_purchase_install_q">اشیا خریداری کرنے کے لئے، آپ کو Samsung In-App خریداری نصب کرنے کی ضرورت ہے۔ نصب کریں؟</string>
+    <string name="mids_sapps_pop_unable_to_open_samsung_in_app_purchase_msg">‏Samsung In-App خریداری کھولنے سے قاصر۔ اجازتوں پر جائیں، پھر درکار اجازتوں کی اجازت دیں اور دوبارہ کوشش کریں۔</string>
+    <string name="mids_sapps_pop_unknown_error_occurred">نامعلوم غلطی واقع ہوگئی</string>
+    <string name="sesl_action_bar_up_description">اوپر کی طرف نیویگیٹ کریں</string>
+    <string name="sesl_action_menu_overflow_badge_description">نیا مواد دستیاب ہے</string>
+    <string name="sesl_action_menu_overflow_badge_text_n">N</string>
+    <string name="sesl_action_menu_overflow_description">مزيد اختیارات</string>
+    <string name="sesl_index_assistant_text">اسکرول کرنے کیلئے دو انگلیوں کی مدد سے اوپر یا نیچے سوائپ کریں۔</string>
+    <string name="sesl_index_scrollbar">اسکرول بار</string>
+    <string name="sesl_index_section">سیکشن انڈیکس</string>
+    <string name="sesl_index_selected">منتخب شدہ</string>
+    <string name="sesl_material_badge_description">نیا مواد دستیاب ہے</string>
+    <string name="sesl_material_overflow_badge_text_n">N</string>
+    <string name="sesl_more_item_label">مزید</string>
+    <string name="sesl_preferencecategory_added_title">ہیڈر</string>
+    <string name="sesl_search_hint">تلاش کریں</string>
+    <string name="sesl_searchview_description_clear">تلاش فیلڈ صاف کریں</string>
+    <string name="sesl_searchview_description_query">سوال تلاش کریں</string>
+    <string name="sesl_searchview_description_search">تلاش کریں</string>
+    <string name="sesl_searchview_description_submit">سوال ارسال کریں</string>
+    <string name="sesl_searchview_description_voice">آواز کے ذریعے تلاش</string>
+    <string name="sesl_switch_off">آف</string>
+    <string name="sesl_switch_on">آن</string>
+    <string name="sesl_switchbar_off_text">آف</string>
+    <string name="sesl_switchbar_on_text">آن</string>
+    <string name="sesl_toolbar_collapse_description">ڈھیر کریں</string>
+</resources>

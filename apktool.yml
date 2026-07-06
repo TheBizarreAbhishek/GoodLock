@@ -1,0 +1,18 @@
+version: 3.0.2
+apkFileName: GoodLock Patched.apk
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: 26
+  targetSdkVersion: 30
+versionInfo:
+  versionCode: 920470000
+  versionName: 9.2.04.70
+resourcesInfo:
+  packageId: 127
+doNotCompress:
+- arsc
+- gif
+- jpeg
+- png

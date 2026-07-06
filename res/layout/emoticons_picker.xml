@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HorizontalScrollView android:id="@id/emoticon_container" android:scrollbars="none" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:id="@id/container" android:layout_width="wrap_content" android:layout_height="match_parent">
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/add_emoticon" android:background="@drawable/shape_round_rect_ripple" android:layout_width="40.0dp" android:layout_height="30.0dp" android:backgroundTint="@color/colorContent" android:layout_marginHorizontal="5.0dp">
+            <ImageView android:layout_width="20.0dp" android:layout_height="match_parent" android:src="@drawable/ic_sentiment_very_satisfied_black_24dp" android:tint="@color/colorSubTitle" />
+        </LinearLayout>
+    </LinearLayout>
+</HorizontalScrollView>
