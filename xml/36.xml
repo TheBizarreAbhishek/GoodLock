@@ -392,17 +392,17 @@ Enjoy customizable options for capturing and recording your screen:
 		<fromPrepost>Y</fromPrepost>
 	</appInfo>
 	<appInfo>
-		<productID>000009132152</productID>
+		<productID>000008941803</productID>
 		<productName><![CDATA[Routines+]]></productName>
 		<appId>com.samsung.android.app.routineplus</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000009132152/IconImage_20260722005629129_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000008941803/IconImage_20260630063254323_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.1.28]]></versionName>
-		<versionCode>112807000</versionCode> 
-		<realContentSize>17834225</realContentSize>
+		<versionName><![CDATA[1.1.23]]></versionName>
+		<versionCode>112307000</versionCode> 
+		<realContentSize>18140044</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Content Gifts]]></categoryName>
@@ -611,10 +611,10 @@ Previously allowed permissions can be reset on Apps menu in device settings afte
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[2.0.00.48]]></versionName>
-		<versionCode>200000048</versionCode> 
-		<realContentSize>15405679</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[2.0.01.5]]></versionName>
+		<versionCode>200100005</versionCode> 
+		<realContentSize>16237424</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
