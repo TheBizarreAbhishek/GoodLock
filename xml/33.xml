@@ -133,48 +133,21 @@ v15.0.00.7
 		<fromPrepost>Y</fromPrepost>
 	</appInfo>
 	<appInfo>
-		<productID>000009018518</productID>
-		<productName><![CDATA[Edge lighting+]]></productName>
-		<appId>com.samsung.android.edgelightingplus</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000009018518/IconImage_20260617043914498_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>€</currencyUnit>
-		<price>0.00</price>
-		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[9.0.00.4]]></versionName>
-		<versionCode>900000004</versionCode> 
-		<realContentSize>11180969</realContentSize>
-		<restrictedAge>0</restrictedAge>
-		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
-		<categoryName><![CDATA[Content Gifts]]></categoryName>
-		<averageRating><![CDATA[2]]></averageRating><description><![CDATA[Add your own personal touch to your notifications. Enjoy fun effects when receiving notifications.
-
-※ It works in One UI 5.1.1 and higher
-[Key Features]
-- Customize the edge lighting style displayed on the screen when receiving notifications
-- Set styles by keyword
-- Used only when the screen is off
-- Change images to app icons
-- Change app launch methods from notification pop-ups
-   : Double-tap to launch apps, prevents swiping down]]></description>
-		<fromPrepost>Y</fromPrepost>
-	</appInfo>
-	<appInfo>
-		<productID>000008853087</productID>
+		<productID>000009132129</productID>
 		<productName><![CDATA[NotiStar]]></productName>
 		<appId>com.samsung.systemui.notilus</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000008853087/IconImage_20260522010257943_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000009132129/IconImage_20260723021504571_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[8.0.88.0]]></versionName>
-		<versionCode>808800000</versionCode> 
-		<realContentSize>7955334</realContentSize>
+		<versionName><![CDATA[9.0.79.0]]></versionName>
+		<versionCode>907900000</versionCode> 
+		<realContentSize>10186207</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Content Gifts]]></categoryName>
-		<averageRating><![CDATA[2]]></averageRating><description><![CDATA[NotiStar is a new notification management service.
+		<averageRating><![CDATA[0]]></averageRating><description><![CDATA[NotiStar is a new notification management service.
 
 [Description]
 NotiStar is a new notification management service.
@@ -201,6 +174,33 @@ Tip: Long-press the NotiStar menu in the Good Lock app to create a shortcut icon
 [Version Code]
 <NOTISTAR:2001:9002>
 #GoodLockFriends]]></description>
+		<fromPrepost>Y</fromPrepost>
+	</appInfo>
+	<appInfo>
+		<productID>000009018518</productID>
+		<productName><![CDATA[Edge lighting+]]></productName>
+		<appId>com.samsung.android.edgelightingplus</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000009018518/IconImage_20260617043914498_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[9.0.00.4]]></versionName>
+		<versionCode>900000004</versionCode> 
+		<realContentSize>11180969</realContentSize>
+		<restrictedAge>0</restrictedAge>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Content Gifts]]></categoryName>
+		<averageRating><![CDATA[2]]></averageRating><description><![CDATA[Add your own personal touch to your notifications. Enjoy fun effects when receiving notifications.
+
+※ It works in One UI 5.1.1 and higher
+[Key Features]
+- Customize the edge lighting style displayed on the screen when receiving notifications
+- Set styles by keyword
+- Used only when the screen is off
+- Change images to app icons
+- Change app launch methods from notification pop-ups
+   : Double-tap to launch apps, prevents swiping down]]></description>
 		<fromPrepost>Y</fromPrepost>
 	</appInfo>
 	<appInfo>
