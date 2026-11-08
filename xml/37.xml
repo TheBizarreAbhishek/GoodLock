@@ -1,0 +1,656 @@
+<result>
+	<resultCode>0</resultCode> 
+	<resultMsg>Success</resultMsg>
+	<startNum>1</startNum>
+	<endNum>13</endNum>
+	<isEndOfList>true</isEndOfList>
+	<appInfo>
+		<productID>000009010410</productID>
+		<productName><![CDATA[QuickStar]]></productName>
+		<appId>com.samsung.android.qstuner</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000009010410/IconImage_20261027045706900_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[11.0.03.15]]></versionName>
+		<versionCode>1100315000</versionCode> 
+		<realContentSize>11860609</realContentSize>
+		<restrictedAge>0</restrictedAge>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Content Gifts]]></categoryName>
+		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Customize your special Quickpanel.
+
+[Description]
+- Make a simple status bar.
+
+<One UI 5>
+ ※ Support seconds clock on panel.
+ ※ Support date clock on indicator.
+
+<One UI 4>
+ ※ Improve app stability.
+
+[Detail Description]
+QuickStar is QuickPanel Star a SystemUI service app for early adopters.
+QuickStar is a plugin application for customizing SAMSUNG SystemUI Quicksettings components.
+By using this, You can change layouts and settings of Google Basic Quickpanel which is blocked by Samsung and can handle new features of Notification that QuickStar provides.
+We are trying to make a fresh experience for users.
+
+[Target]
+- Android 8 or higher devices
+
+[Language]
+- Korean
+- English
+- Chinese
+- Japanese
+
+[Version Code]
+<SLIMINDICATOR:1003:12000>
+#2]]></description>
+		<fromPrepost>Y</fromPrepost>
+	</appInfo>
+	<appInfo>
+		<productID>000009033541</productID>
+		<productName><![CDATA[RegiStar]]></productName>
+		<appId>com.samsung.android.app.galaxyregistry</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000009033541/IconImage_20261015061800699_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[1.0.73]]></versionName>
+		<versionCode>107300000</versionCode> 
+		<realContentSize>12745783</realContentSize>
+		<restrictedAge>0</restrictedAge>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Content Gifts]]></categoryName>
+		<averageRating><![CDATA[10]]></averageRating><description><![CDATA[Conveniently configure the Settings app and press the side key, tap the back, or press the screen strongly to quickly launch useful features.
+
+- Re-configure menu of Settings home screen
+ : Change order, hide,manage groups
+- Set method of displaying Samsung account on the Settings home screen
+- Search settings change history, change notification settings
+- Activate features by tapping the back of the device (Galaxy S/ Flip only)
+- Run features by long-pressing the side key
+- Run features by pressing the screen strongly (Fold 4 only)]]></description>
+		<fromPrepost>Y</fromPrepost>
+	</appInfo>
+	<appInfo>
+		<productID>000006540978</productID>
+		<productName><![CDATA[Camera Assistant]]></productName>
+		<appId>com.samsung.android.app.cameraassistant</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000006540978/IconImage_20261008083354784_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[5.0.00.7]]></versionName>
+		<versionCode>500007000</versionCode> 
+		<realContentSize>12741666</realContentSize>
+		<restrictedAge>0</restrictedAge>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Good Lock]]></categoryName>
+		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Customize your camera settings to suit your preferences.
+
+The following features are available:
+(Some features may not be available on all models.)
+
+Lens and zoom
+- Zoom shortcuts
+- Auto lens switching
+Focus
+- Touch AF/AE in Pro video mode
+- Focus peaking in pro modes
+- Auto focus speed and sensitivity
+- Prioritize focus over speed
+
+Shutter
+- Swipe Shutter button to edge to
+- Timer multi-photo options
+- Quick tap shutter
+- Video recording in Photo mode
+
+Photos
+- 24 MP resolution
+- Auto HDR
+- Photo softening
+- Distortion correction
+- Advanced Photo mode controls
+- Advanced resolution options
+  · Adaptive pixel
+  · Upscale digital zoom
+- Mirror view
+
+Video
+- HDR10+
+- Video softening
+- Dim screen while recording
+- 8K recording when mirroring
+- Optical image stabilization (OIS)
+
+Presets
+- Presets in Pro mode
+
+Capture for Galaxy XR
+- 3D capture
+
+Additional modes
+- Night
+- Single take
+- Dual rec
+
+Camera preview
+- Camera timeout
+- Clean preview on HDMI displays
+- Customize indicators
+
+External accessories
+- DOF adapter correction
+- Anamorphic lens correction
+- TILTA wireless lens controller
+- Audio monitoring
+
+[Language]
+- English
+- Korean
+- Chinese Simplified
+- French
+...
+
+#GoodLockFriends #10]]></description>
+		<fromPrepost></fromPrepost>
+	</appInfo>
+	<appInfo>
+		<productID>000007812075</productID>
+		<productName><![CDATA[Display Assistant]]></productName>
+		<appId>com.samsung.android.displayassistant</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000007812075/IconImage_20261008083408276_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[9.0.08]]></versionName>
+		<versionCode>900800000</versionCode> 
+		<realContentSize>5753476</realContentSize>
+		<restrictedAge>0</restrictedAge>
+		<sellerName><![CDATA[Galaxy Labs ]]></sellerName>
+		<categoryName><![CDATA[Good Lock]]></categoryName>
+		<averageRating><![CDATA[9]]></averageRating><description><![CDATA[Display Assistant helps optimize your screen to suit your preferences.
+
+1. App's screen timeout : Set the screen timeout according to app characteristics. Try using this feature when you want to keep the screen turned on longer while using specific apps.
+2. Keep screen on : you can maintain the screen on even without touching it
+3. Brightness limit profile : Temporarily use this option when the device needs to maintain brightness even at high temperatures.
+4. Adaptive brightness options : Adjust the speed of the brightness change , Reset brightness usage pattern
+5. Standard refresh rate apps :  Add apps that don't require high refresh rates to increase battery life.
+6. Screen curtain :  The display enters doze state, making it effective for saving battery life. Try using it during long video playback or recoding.
+
+* Supported from One UI 7.0
+It may take some time for newly launched models to be supported.
+
+Supported language:  Korean, English, Chinese (Simplified), Japanese, Vietnamese
+
+#GoodLockFriends]]></description>
+		<fromPrepost></fromPrepost>
+	</appInfo>
+	<appInfo>
+		<productID>000003084395</productID>
+		<productName><![CDATA[EdgeTouch]]></productName>
+		<appId>com.samsung.android.app.edgetouch</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003084395/IconImage_20260615063123555_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[1.3.16]]></versionName>
+		<versionCode>131600000</versionCode> 
+		<realContentSize>4683392</realContentSize>
+		<restrictedAge>0</restrictedAge>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Good Lock]]></categoryName>
+		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Prevent unintended operation by setting restriction on the edge of your Galaxy.
+
+
+The following permissions are required for the app service. For optional permissions, the default functionality of the service is turned on, but not allowed. 
+
+[Optional permissions]
+- Photos and videos : Save image files to the device
+- Notification : Show selected edge zone information
+
+If your system software version is lower than Android 6.0, please update the software to configure App permissions.
+Previously allowed permissions can be reset on Apps menu in device settings after software update.
+
+#GoodLockFriends]]></description>
+		<fromPrepost></fromPrepost>
+	</appInfo>
+	<appInfo>
+		<productID>000008414529</productID>
+		<productName><![CDATA[Gallery Assistant]]></productName>
+		<appId>com.samsung.android.gallery.assistant.app</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000008414529/IconImage_20260722013038667_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[2.0.01.5]]></versionName>
+		<versionCode>200100005</versionCode> 
+		<realContentSize>16237424</realContentSize>
+		<restrictedAge>0</restrictedAge>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Good Lock]]></categoryName>
+		<averageRating><![CDATA[9]]></averageRating><description><![CDATA[Gallery Assistant is a utility app that offers comprehensive editing features for images and videos. 
+[Functions]
+
+Reduce size
+Reduce size of all selected images and videos to save storage space
+
+Rotate and Flip
+Rotate or flip all selected images and videos to adjust them to the desired orientation.
+
+Image clipper
+Extract specific parts of the selected images and save them as stickers or separate images.
+
+Watermark
+Add a watermark to images by allowing the input of custom text or logos, and adjust its direction.
+A frame watermark can also be applied.
+
+Compare images
+Compares selected images for easy favoriting or deletion.
+
+Save as PDF
+Converts selected images into a PDF file for easy sharing or storage.
+
+Print
+Print multiple images and videos thumbnail.
+
+※ Availability of certain functions may vary, depending on the country or device.
+The following access permissions are required to provide you with this service. The basic features of the service can be used, even if optional permissions aren't granted.
+[Required permissions]
+- Images and videos: Used for features such as saving, loading, editing, and deleting images or videos
+[Optional permissions]
+- Notifications: Used to provide updates on the status of saving progress
+
+#GoodLockFriends #10]]></description>
+		<fromPrepost></fromPrepost>
+	</appInfo>
+	<appInfo>
+		<productID>000008122674</productID>
+		<productName><![CDATA[Game Booster +]]></productName>
+		<appId>com.samsung.android.game.honeyplayplus</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000008122674/IconImage_20260813055152356_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[2.0.00.33]]></versionName>
+		<versionCode>200033000</versionCode> 
+		<realContentSize>8227237</realContentSize>
+		<restrictedAge>0</restrictedAge>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Good Lock]]></categoryName>
+		<averageRating><![CDATA[6]]></averageRating><description><![CDATA[With Galaxy, enjoy a more fun gaming experience!
+
+[Main Features]
+OneUI 7.0
+- Gamepad Key Remapping: 
+ You can remap the gamepad keys to other desired keys.
+- GPU Settings (Rotation Optimization/Texture Quality): 
+ You can reduce the GPU load used for screen rotation in Vulkan games or change the quality of textures used in games to improve image quality or performance.
+- Change Game Category: 
+ You can change apps that are not classified as games but are games to the game category, so you can receive game-related support provided by the device.
+
+OneUI 8.0
+- Aim Assist: 
+ You can customize your aim with a variety of images, colors, and sizes. 
+
+One UI 8.5 (S26 Pilot Release)
+- Gamepad Touch Mapping: 
+You can map gamepad actions to any desired location on the screen.
+- CPU and GPU Settings - AP clock limitation: 
+You can adjust CPU and GPU performance for each game.
+- Game Intro Fast-forward: 
+Speeds up the intro videos when launching a game.
+
+[Target]
+- This application is available on Android 15 or higher SAMSUNG devices.
+
+[Supported Languages]
+- Korean
+- English
+- Chinese
+- Japanese
+
+[Mandatory Access Permissions]
+- Nearby Devices (Required):
+ Access to Bluetooth device information for gamepad key remapping function
+- Accessibility (Optional): 
+ Accessibility permission is needed for the Gamepad Touch Mapping feature
+
+#GoodLockFriends #2]]></description>
+		<fromPrepost></fromPrepost>
+	</appInfo>
+	<appInfo>
+		<productID>000005293390</productID>
+		<productName><![CDATA[Keys Cafe]]></productName>
+		<appId>com.samsung.android.keyscafe</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000005293390/IconImage_20260914085751923_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[1.9.00.6]]></versionName>
+		<versionCode>190000006</versionCode> 
+		<realContentSize>44974370</realContentSize>
+		<restrictedAge>0</restrictedAge>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Good Lock]]></categoryName>
+		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Set up a keyboard that’s tailored to you.
+
+You can increase the sizes of keys that you have trouble pressing and map your favorite emoticons to locations of your choosing.
+Add effects to your keyboard making it fun to type on, or change your keyboard’s color to one you like, or change your keyboard's touch sound.
+Improve your typing skills while enjoying the keyboard game.
+You can edit and save the photos you want, make them into stickers, and use them on the Samsung keyboard.
+Some advanced options for Samsung keyboards are provided.
+
+[Key Features]
+■ One UI 4.1.1
+- Make your own Split Keyboard (for One UI 4.1.1, Galaxy Fold ※ Samsung Keyboard v5.5.0.47 or later)
+   This is key feature for Galaxy Fold users. You can edit split keyboard via Keys Cafe.
+
+■ One UI 4.1
+- My Sticker
+Keys Cafe launches my own sticker. Make images from Gallery into a unique sticker and express your meanings~
+※ Samsung Keyboard v5.4.65.0 or later is supported
+
+■ One UI 4.0
+- Keyboard advanced settings
+Provides advanced functions related to Samsung Keyboard.
+
+■ OneUI2.5
+- Changing the sizes of keys: You can adjust the heights and widths of keys.
+- Remapping keys: You can remap keys or add new keys.
+- Setting up a keyboard theme: You can set up a color or effect for your keyboard. (OneUI2.1 not supported)
+- Gaming on your keyboard: Playing game and see scores and ranking
+
+※Keys Cafe works from Samsung keyboard version 5.1.05.9
+
+#GoodLockFriends #0]]></description>
+		<fromPrepost></fromPrepost>
+	</appInfo>
+	<appInfo>
+		<productID>000003711875</productID>
+		<productName><![CDATA[Nice Catch]]></productName>
+		<appId>com.samsung.android.app.goodcatch</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003711875/IconImage_20260723064523677_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[9.0.00.0]]></versionName>
+		<versionCode>900000000</versionCode> 
+		<realContentSize>6663761</realContentSize>
+		<restrictedAge>0</restrictedAge>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Good Lock]]></categoryName>
+		<averageRating><![CDATA[9]]></averageRating><description><![CDATA[Got tired of mysterious vibration on your phone?
+
+Nice Catch is made to let you know which application starts the vibrations and annoys you.
+
+And it also reports :
+ - Ringer mode
+ - Call mode
+ - Toast
+ - Advertisement screen
+ - Sudden wake-up of your phone.
+ - Changed setting value (Since One UI 2.0)
+ - Muted media volume (Since One UI 3.1.1)
+ - Changed accessibility setting value (Since One UI 5.0)
+ - Blocked notifications (Since One UI 6.0)
+ - Muted notifications (Since One UI 6.0)
+ - Sounds (Since One UI 6.0)
+
+[Target]
+- SAMSUNG devices with Android P OS(ver 9.0) or above.
+
+[Language]
+- Korean
+- English
+- Simplified Chinese
+- Japanese
+
+[How to Use]
+Press "Vibration history" in app's main screen and you get a list of application that made vibrations.
+(please make sure that the switch is enabled before use.)
+
+#GoodLockFriends #3]]></description>
+		<fromPrepost></fromPrepost>
+	</appInfo>
+	<appInfo>
+		<productID>000003036952</productID>
+		<productName><![CDATA[One Hand Operation +]]></productName>
+		<appId>com.samsung.android.sidegesturepad</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003036952/IconImage_20260913223335803_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[9.3.13.0]]></versionName>
+		<versionCode>931300000</versionCode> 
+		<realContentSize>8814851</realContentSize>
+		<restrictedAge>0</restrictedAge>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Good Lock]]></categoryName>
+		<averageRating><![CDATA[9]]></averageRating><description><![CDATA[Control your phone or tablet more easily with just one hand.
+
+With this app you can easily use your device with your thumb gesture.
+
+When the feature is set, a thin gesture handle is added to the left/right side of the screen. 
+Swipe this handle to execute the defined functions. The default function is the most frequently used back button.
+
+You can set various functions for horizontal/diagonal up/down diagonal gestures.
+Once you get used to using short swipe gestures, you can set more features for long swipe gestures.
+
+Depending on the size of your hand, the thickness of your thumb, or the shape of the bumper case you are using, different handle settings are provided to optimize gesture recognition.
+
+The handle receives the user's touch event on top of the running app. It can interfere with running applications. Therefore, it is recommended to set the handle as thin as possible for gesture recognition. 
+
+If the touch interference is severe with running application such as game, you can set [App exceptions] in [Advanced Settings], then the gesture handles will not work when the app is running.
+
+Currently available functions are as follows, and we plan to provide additional function upgrades.
+
+ - Back key
+ - Home key
+ - Recent key
+ - Menu key
+ - Apps screen
+ - Previous app
+ - Forward ( web browser )
+ - Open notification panel 
+ - Open quick panel 
+ - Screen off 
+ - Close app
+ - Flashlight
+ - Split screen view
+ - Assistance app 
+ - Finder search
+ - Screenshot 
+ - Show/hide navigation bar
+ - Floating navigation buttons
+ - Pull screen down
+ - One-handed mode
+ - Power key menu
+ - Home screen shortcuts 
+ - Start application 
+ - Task switcher 
+ - Virtual touch pad
+ - Quick tools
+
+Enjoy the convenience of gestures on your phone and tablet with this app.
+
+Thank you.
+
+#GoodLockFriends #5]]></description>
+		<fromPrepost></fromPrepost>
+	</appInfo>
+	<appInfo>
+		<productID>000003206291</productID>
+		<productName><![CDATA[Sound Assistant]]></productName>
+		<appId>com.samsung.android.soundassistant</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003206291/IconImage_20260911065820941_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[9.0.00.11]]></versionName>
+		<versionCode>900000011</versionCode> 
+		<realContentSize>28332035</realContentSize>
+		<restrictedAge>0</restrictedAge>
+		<sellerName><![CDATA[Good Lock Labs ]]></sellerName>
+		<categoryName><![CDATA[Good Lock]]></categoryName>
+		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Advanced sound utility for your Galaxy.
+
+The sound utility available on the galaxy series
+Provides various convenience functions related to audio
+※ How to use : https://youtu.be/Z5mrB4ryKjE
+※ Some devices may not be supported
+
+- Flux Volume UI (Support from One UI 5)
+Choose effect, texture, size and control type.
+
+- Dual App Volume View (Support from One UI 5)
+When the volume of the app is not 100%, it appears next to the main volume.
+
+- Customized voice effects (Support from One UI 6)
+Provide custom effect creation option.
+
+- Allow you to control the media volume instead of ringtone when pressing the volume keys
+- Support individual application volume (You can control the volume of music and games differently)  
+- 150 steps of fine volume and support Floating Equalizer(EQ)
+- Create and activate personalize sound settings
+- Support mono audio and left / right balance
+- Touch the app volume icon in the floating dialog to mute/unmute and long click to enter the app.
+- Default volume step when pressing volume button can now be changed
+- Audio output of an application can now be switched between Bluetooth or speaker via floating volume dialog
+- EQ settings can now be saved and shared
+- Ability to swap left and right sounds on headphones
+- Ability to hear ringtone, notification, and alarm sounds only through headphones when headphone is connected
+- Favorite media app : Select an app to control music when you press multimedia keys.
+- Supports concert hall effect
+- Adjust previous/next song with volume key
+- When an earphone or Bluetooth is connected, you can select where the ringtone, notification, and alarm sound will be played.
+- Dual app sound is extended to multi sound so all apps can be played simultaneously
+- Provide vibration effect of the volume panel theme slider according to whether the vibration feedback of the -default setting app is activated
+- Apps that appear once in the app volume slider are maintained for a certain period of time even if they do not sound
+- Add an option that reverse the ability to switch to the previous/next song through volume key long press
+- More sound effects menu
+
+#GoodLockFriends]]></description>
+		<fromPrepost></fromPrepost>
+	</appInfo>
+	<appInfo>
+		<productID>000004623161</productID>
+		<productName><![CDATA[Theme Park]]></productName>
+		<appId>com.samsung.android.themedesigner</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000004623161/IconImage_20261103125556524_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[1.1.02.2]]></versionName>
+		<versionCode>110202000</versionCode> 
+		<realContentSize>42571469</realContentSize>
+		<restrictedAge>0</restrictedAge>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Good Lock]]></categoryName>
+		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Theme Park is a service to create a theme and install it quickly and easily.
+
+It extracts dominant colors from wallpaper and creates theme automatically based on user's style and the colors. Users can see the final appearance from preview screens. Create your own theme that can express your personality!
+
+
+
+Main feature
+
+▣ Creating a theme from a background image
+  ■ The theme color is automatically determined from the background image.
+  ■ You can change the colors of the style.
+  ■ The theme include colors for light mode theme and dark mode.
+  ■ You can edit the color of the icon or the color of the tray. (OneUI 2.0)
+  ■ You can apply icon packs downloaded from the theme store. (OneUI 2.5)
+  ■ You can change the color of the keyboard and key cap images. (OneUI 2.5)
+  ■ You can customize the quick panel as you wish. (OneUI 3.0)
+
+▣ Creating a theme for samsung keyboard (OneUI 2.5, with KeysCafe)
+  ■ You can apply a keyboard theme separately from the main theme.
+  ■ You can easily create a keyboard theme by selecting a basic color and style.
+  ■ You can customize keycaps and text colors to your own color or image.
+  ■ Templates for key cap is provided.
+
+▣ Deciding whether to apply the theme for each app (OneUI 2.5)
+  ■ You can decide whether to apply the theme for each app.
+
+▣ Creating a theme for quick panel (OneUI 3.0)
+  ■ You can apply the theme for quick panel separately from the main theme.
+  ■ You can easily create a theme for a quick panel by selecting a basic color and style.
+  ■ You can change the color of each part of the quick panel.
+
+▣ Tablet device support (OneUI 3.0)
+  ■ You can use the theme park on tablet devices with OneUI 3.0 or higher.
+  ■ Landscape mode is also supported on devices with sw700 or higher.
+
+
+
+Cautions
+  ■ Previews could be not matched with actual screen that the theme is applied.
+  ■ The applications supported by theme can be varied based on version.
+  ■ Some features may not be available depending on the Android version.
+
+
+Permissions (Required)
+  To provide this service, following permission are needed.
+  ■ Photos and videos (Storage): Theme Park uses an image file in your device to find dominant colors and create theme that has harmonious colors.
+
+#GoodLockFriends #2]]></description>
+		<fromPrepost></fromPrepost>
+	</appInfo>
+	<appInfo>
+		<productID>000005212031</productID>
+		<productName><![CDATA[Wonderland]]></productName>
+		<appId>com.samsung.android.wonderland.wallpaper</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000005212031/IconImage_20260814034555086_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[1.6.22]]></versionName>
+		<versionCode>162200000</versionCode> 
+		<realContentSize>59483800</realContentSize>
+		<restrictedAge>0</restrictedAge>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Good Lock]]></categoryName>
+		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Create moving wallpapers and stunning lock screen effects.
+
+Activate your hidden artist's touch with Wonderland and become a creator. Transform both your home screen and lock screen experience. 
+Create motion effects for your wallpaper that respond to device movement, add beautiful particle effects like rain and snow, and design seamless transition animations between your lock screen and Always On Display (AOD).
+Use our intuitive tools and various presets to easily create your personalized dynamic wallpaper and lock screen experience.
+
+[Key Features]
+- Motion wallpaper creation: Set up motion effects that respond to your device's gyroscope
+- Particle effects: Choose from 5 presets (rain, snow, bubbles, sparkles, spread) with full customization
+- Lock screen transitions: 12 unique transition effects for seamless lock screen to AOD experience
+- Layer-based editing: Combine multiple elements with independent effects
+- Real-time preview: See changes instantly before applying
+
+[Supported Languages]
+- Korean, English, Chinese Simplified, Japanese
+
+[Notice for application's permission]
+Wonderland uses these permissions
+- Required permissions
+Photos and Videos : Access images and videos for wallpaper creation.
+
+#wonderland #livewallpaper #dynamicwallpaper #lockscreeneffects #alwaysondisplay #particleeffects #motioneffects #customwallpaper #personalizedlockscreen]]></description>
+		<fromPrepost></fromPrepost>
+	</appInfo>
+	<serverType>PRD</serverType>
+</result>
