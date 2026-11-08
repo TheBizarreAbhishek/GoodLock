@@ -61,9 +61,16 @@ jobs:
             os: "16"
             csc: "INS"
             oneui: "80000"
-            
-            
-
+          - device: "SM-S948B"
+            sdk: "36"
+            os: "16"
+            csc: "INS"
+            oneui: "80500"
+          - device: "SM-S958B"
+            sdk: "37"
+            os: "17"
+            csc: "INS"
+            oneui: "90000"  
     steps:
 
       - name: Calculate systemId
