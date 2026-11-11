@@ -5,21 +5,21 @@
 	<endNum>23</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
-		<productID>000008836879</productID>
+		<productID>000008662771</productID>
 		<productName><![CDATA[Home Up]]></productName>
 		<appId>com.samsung.android.app.homestar</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000008836879/IconImage_20260826022334197_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000008662771/IconImage_20260707005730425_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
 		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[17.5.00.30]]></versionName>
-		<versionCode>1750005030</versionCode> 
-		<realContentSize>64746656</realContentSize>
+		<versionName><![CDATA[17.0.00.54]]></versionName>
+		<versionCode>1700005054</versionCode> 
+		<realContentSize>62168137</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Content Gifts]]></categoryName>
-		<averageRating><![CDATA[9]]></averageRating><description><![CDATA[Enjoy enhanced One UI Home experience.
+		<averageRating><![CDATA[7]]></averageRating><description><![CDATA[Enjoy enhanced One UI Home experience.
 
 HOME UP!
 
@@ -42,7 +42,7 @@ The following permissions are required for the app service. You can still use th
 [optional permission]
 - Phone: Used to read phone status and identifier information (Android 14 or lower)
 
-<HOME_HOMESTAR:3001:8501>]]></description>
+<HOME_HOMESTAR:3001:6100>]]></description>
 		<fromPrepost>Y</fromPrepost>
 	</appInfo>
 	<appInfo>
