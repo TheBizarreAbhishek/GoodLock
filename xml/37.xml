@@ -2,7 +2,7 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>14</endNum>
+	<endNum>15</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000009010410</productID>
@@ -49,6 +49,33 @@ We are trying to make a fresh experience for users.
 [Version Code]
 <SLIMINDICATOR:1003:12000>
 #2]]></description>
+		<fromPrepost>Y</fromPrepost>
+	</appInfo>
+	<appInfo>
+		<productID>000009018518</productID>
+		<productName><![CDATA[Edge lighting+]]></productName>
+		<appId>com.samsung.android.edgelightingplus</appId>
+		<iconImgURL>https://img.samsungapps.com/productNew/000009018518/IconImage_20261115223241932_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<currencyUnit>€</currencyUnit>
+		<price>0.00</price>
+		<discountPrice>0.00</discountPrice>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[9.0.00.4]]></versionName>
+		<versionCode>900000004</versionCode> 
+		<realContentSize>11180969</realContentSize>
+		<restrictedAge>0</restrictedAge>
+		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
+		<categoryName><![CDATA[Content Gifts]]></categoryName>
+		<averageRating><![CDATA[2]]></averageRating><description><![CDATA[Add your own personal touch to your notifications. Enjoy fun effects when receiving notifications.
+
+※ It works in One UI 5.1.1 and higher
+[Key Features]
+- Customize the edge lighting style displayed on the screen when receiving notifications
+- Set styles by keyword
+- Used only when the screen is off
+- Change images to app icons
+- Change app launch methods from notification pop-ups
+   : Double-tap to launch apps, prevents swiping down]]></description>
 		<fromPrepost>Y</fromPrepost>
 	</appInfo>
 	<appInfo>
@@ -308,11 +335,11 @@ The following access permissions are required to provide you with this service. 
 		<productID>000008122674</productID>
 		<productName><![CDATA[Game Booster +]]></productName>
 		<appId>com.samsung.android.game.honeyplayplus</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000008122674/IconImage_20260813055152356_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000008122674/IconImage_20261116012957015_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
+		<discountFlag></discountFlag>
 		<versionName><![CDATA[2.0.00.33]]></versionName>
 		<versionCode>200033000</versionCode> 
 		<realContentSize>8227237</realContentSize>
