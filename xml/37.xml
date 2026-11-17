@@ -66,7 +66,7 @@ We are trying to make a fresh experience for users.
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Content Gifts]]></categoryName>
-		<averageRating><![CDATA[2]]></averageRating><description><![CDATA[Add your own personal touch to your notifications. Enjoy fun effects when receiving notifications.
+		<averageRating><![CDATA[4]]></averageRating><description><![CDATA[Add your own personal touch to your notifications. Enjoy fun effects when receiving notifications.
 
 ※ It works in One UI 5.1.1 and higher
 [Key Features]
@@ -339,10 +339,10 @@ The following access permissions are required to provide you with this service. 
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag></discountFlag>
-		<versionName><![CDATA[2.0.00.33]]></versionName>
-		<versionCode>200033000</versionCode> 
-		<realContentSize>8227237</realContentSize>
+		<discountFlag>N</discountFlag>
+		<versionName><![CDATA[2.0.00.37]]></versionName>
+		<versionCode>200037000</versionCode> 
+		<realContentSize>8202067</realContentSize>
 		<restrictedAge>0</restrictedAge>
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Good Lock]]></categoryName>
