@@ -2,7 +2,7 @@
 	<resultCode>0</resultCode> 
 	<resultMsg>Success</resultMsg>
 	<startNum>1</startNum>
-	<endNum>17</endNum>
+	<endNum>15</endNum>
 	<isEndOfList>true</isEndOfList>
 	<appInfo>
 		<productID>000009398938</productID>
@@ -20,53 +20,6 @@
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Content Gifts]]></categoryName>
 		<averageRating><![CDATA[0]]></averageRating><description><![CDATA[Customize your special Quickpanel.
-
-[Description]
-- Make a simple status bar.
-
-<One UI 5>
- ※ Support seconds clock on panel.
- ※ Support date clock on indicator.
-
-<One UI 4>
- ※ Improve app stability.
-
-[Detail Description]
-QuickStar is QuickPanel Star a SystemUI service app for early adopters.
-QuickStar is a plugin application for customizing SAMSUNG SystemUI Quicksettings components.
-By using this, You can change layouts and settings of Google Basic Quickpanel which is blocked by Samsung and can handle new features of Notification that QuickStar provides.
-We are trying to make a fresh experience for users.
-
-[Target]
-- Android 8 or higher devices
-
-[Language]
-- Korean
-- English
-- Chinese
-- Japanese
-
-[Version Code]
-<SLIMINDICATOR:1003:12000>
-#2]]></description>
-		<fromPrepost>Y</fromPrepost>
-	</appInfo>
-	<appInfo>
-		<productID>000009010410</productID>
-		<productName><![CDATA[QuickStar]]></productName>
-		<appId>com.samsung.android.qstuner</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000009010410/IconImage_20261027045706900_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>€</currencyUnit>
-		<price>0.00</price>
-		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[11.0.03.15]]></versionName>
-		<versionCode>1100315000</versionCode> 
-		<realContentSize>11860609</realContentSize>
-		<restrictedAge>0</restrictedAge>
-		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
-		<categoryName><![CDATA[Content Gifts]]></categoryName>
-		<averageRating><![CDATA[8]]></averageRating><description><![CDATA[Customize your special Quickpanel.
 
 [Description]
 - Make a simple status bar.
@@ -171,32 +124,6 @@ Enjoy customizable options for capturing and recording your screen:
 		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
 		<categoryName><![CDATA[Content Gifts]]></categoryName>
 		<averageRating><![CDATA[0]]></averageRating><description><![CDATA[Conveniently configure the Settings app and press the side key, tap the back, or press the screen strongly to quickly launch useful features.
-
-- Re-configure menu of Settings home screen
- : Change order, hide,manage groups
-- Set method of displaying Samsung account on the Settings home screen
-- Search settings change history, change notification settings
-- Activate features by tapping the back of the device (Galaxy S/ Flip only)
-- Run features by long-pressing the side key
-- Run features by pressing the screen strongly (Fold 4 only)]]></description>
-		<fromPrepost>Y</fromPrepost>
-	</appInfo>
-	<appInfo>
-		<productID>000009033541</productID>
-		<productName><![CDATA[RegiStar]]></productName>
-		<appId>com.samsung.android.app.galaxyregistry</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000009033541/IconImage_20261109085535071_NEW_WAP_ICON_512_512.png</iconImgURL>
-		<currencyUnit>€</currencyUnit>
-		<price>0.00</price>
-		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
-		<versionName><![CDATA[1.0.73]]></versionName>
-		<versionCode>107300000</versionCode> 
-		<realContentSize>12745783</realContentSize>
-		<restrictedAge>0</restrictedAge>
-		<sellerName><![CDATA[Good Lock Labs]]></sellerName>
-		<categoryName><![CDATA[Content Gifts]]></categoryName>
-		<averageRating><![CDATA[10]]></averageRating><description><![CDATA[Conveniently configure the Settings app and press the side key, tap the back, or press the screen strongly to quickly launch useful features.
 
 - Re-configure menu of Settings home screen
  : Change order, hide,manage groups
@@ -512,11 +439,11 @@ Provides advanced functions related to Samsung Keyboard.
 		<productID>000003711875</productID>
 		<productName><![CDATA[Nice Catch]]></productName>
 		<appId>com.samsung.android.app.goodcatch</appId>
-		<iconImgURL>https://img.samsungapps.com/productNew/000003711875/IconImage_20261113030426554_NEW_WAP_ICON_512_512.png</iconImgURL>
+		<iconImgURL>https://img.samsungapps.com/productNew/000003711875/IconImage_20261125064228286_NEW_WAP_ICON_512_512.png</iconImgURL>
 		<currencyUnit>€</currencyUnit>
 		<price>0.00</price>
 		<discountPrice>0.00</discountPrice>
-		<discountFlag>N</discountFlag>
+		<discountFlag></discountFlag>
 		<versionName><![CDATA[9.0.00.0]]></versionName>
 		<versionCode>900000000</versionCode> 
 		<realContentSize>6663761</realContentSize>
